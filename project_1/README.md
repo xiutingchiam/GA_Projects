@@ -15,7 +15,7 @@ Until 2012, the SAT’s popularity exceeded that of the ACT. However, since then
 
 In 2019, 64% of graduating students participated in the SAT test ([*source*](https://reports.collegeboard.org/archive/sat-suite-program-results/2019/class-2019-results)), surpassing ACT's 52% participation rate ([*source*](https://www.act.org/content/dam/act/unsecured/documents/National-CCCR-2019.pdf)). 
 
-In order to remain as the leading provider of college entrace test, The College Board seeks to explore trends in SAT and ACT participation rates in 2017-2019 to identify the reasons for the increase in SAT participation rates since 2017, and recommend strategies on how SAT's popularity and participation rate can be futher increased.
+In order to remain as the leading provider of the college entrace test, The College Board seeks to explore trends in SAT and ACT participation rates in 2017-2019 to identify the reasons for the increase in SAT participation rates since 2017, and recommend strategies on how SAT's popularity and participation rate can be futher increased.
 
 ---
 
