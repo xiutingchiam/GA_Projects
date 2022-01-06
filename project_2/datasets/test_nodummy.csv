@@ -1,0 +1,879 @@
+id,ms_subclass,ms_zoning,lot_frontage,lot_area,street,lot_shape,land_contour,utilities,lot_config,land_slope,condition_1,condition_2,bldg_type,house_style,overall_qual,overall_cond,year_remod/add,roof_style,mas_vnr_type,mas_vnr_area,exter_cond,foundation,bsmt_qual,bsmt_cond,bsmt_exposure,bsmtfin_type_1,bsmtfin_type_2,heating,heating_qc,central_air,electrical,low_qual_fin_sf,bedroom_abvgr,kitchen_abvgr,kitchen_qual,totrms_abvgrd,functional,fireplace_qu,garage_type,garage_yr_blt,garage_finish,garage_area,garage_qual,paved_drive,wood_deck_sf,open_porch_sf,enclosed_porch,3ssn_porch,screen_porch,mo_sold,yr_sold,sale_type,house_age,house_area,location,total_bath
+2658,190,RM,70.0,9142,Pave,4,Lvl,4,Inside,3,Norm,Norm,2fmCon,2Story,6,8,1950,Gable,None,0.0,2,Stone,2,3,1,1,1,GasA,4,N,2,0,4,2,2,9,8,0,Detchd,1910.0,1,440,1,3,0,60,112,0,0,4,2006,WD ,3916,2948,1,2.0
+2718,90,RL,43.0,9662,Pave,3,Lvl,4,Inside,3,Norm,Norm,Duplex,1Story,5,4,1977,Gable,None,0.0,3,CBlock,4,3,1,1,1,GasA,3,Y,5,0,6,2,3,10,8,0,Attchd,1977.0,3,580,3,3,170,0,0,0,0,8,2006,WD ,3983,3934,2,2.0
+2414,60,RL,68.0,17104,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,2006,Gable,None,0.0,3,PConc,4,4,4,6,1,GasA,5,Y,5,0,3,1,4,7,8,4,Attchd,2006.0,2,426,3,3,100,24,0,0,0,9,2006,New,4012,2150,3,3.5
+1989,30,RM,73.0,8520,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,6,2006,Gable,None,0.0,3,CBlock,3,3,1,1,1,GasA,3,Y,5,0,2,1,3,5,8,0,Detchd,1935.0,1,480,2,1,0,0,184,0,0,7,2007,WD ,3930,1936,1,1.0
+625,20,RL,82.0,9500,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,5,1963,Gable,BrkFace,247.0,3,CBlock,4,3,1,4,1,GasA,4,Y,5,0,3,1,3,6,8,4,Attchd,1963.0,2,514,3,3,0,76,0,0,185,7,2009,WD ,3972,2788,3,2.5
+333,160,RM,137.0,1890,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,2Story,4,6,1972,Gable,None,0.0,3,CBlock,3,3,1,3,1,GasA,3,Y,5,0,3,1,3,5,8,0,Attchd,1972.0,1,286,3,3,0,0,64,0,0,6,2010,WD ,3982,1638,1,1.5
+1327,20,RM,35.0,8516,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,4,6,2006,Gable,None,0.0,3,CBlock,3,3,1,1,1,GasA,3,Y,5,0,2,1,3,5,8,0,Detchd,1959.0,1,308,3,3,0,0,0,0,0,5,2008,WD ,3966,1962,1,1.0
+858,20,RL,72.0,9286,Pave,3,Lvl,4,CulDSac,2,Norm,Norm,1Fam,1Story,5,7,1989,Gable,None,0.0,3,CBlock,4,4,4,5,1,GasA,3,Y,5,0,3,1,4,5,8,0,Detchd,1978.0,1,252,3,3,173,0,0,0,0,10,2009,WD ,3986,2536,4,1.5
+95,160,FV,60.0,3515,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,2Story,7,5,2004,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,2,1,4,3,8,0,Attchd,2004.0,2,588,3,3,0,111,0,0,0,1,2010,WD ,4014,2520,4,2.5
+1568,20,RL,70.0,10125,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,6,1977,Gable,None,0.0,3,CBlock,3,3,1,5,2,GasA,3,Y,5,0,3,1,3,6,8,2,Detchd,1980.0,1,473,3,3,238,83,0,0,0,2,2008,WD ,3985,2475,3,2.5
+2482,120,RL,21.0,7175,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,6,5,1991,Gable,None,0.0,3,PConc,4,3,1,6,1,GasA,4,Y,5,0,2,1,4,5,8,0,Attchd,1991.0,2,484,3,3,0,64,0,0,0,6,2006,WD ,3997,2434,2,2.0
+1364,30,RM,64.0,7200,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,6,7,1992,Gable,None,0.0,3,CBlock,3,3,1,1,1,GasA,4,Y,5,0,2,1,3,5,8,0,Detchd,1993.0,1,320,3,3,0,132,0,0,0,7,2008,WD ,3933,2080,1,1.0
+2584,20,RL,120.0,11310,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,5,1954,Hip,None,0.0,3,CBlock,3,3,1,1,1,GasA,5,Y,5,0,2,1,3,5,8,3,Attchd,1954.0,1,451,3,3,0,30,0,0,0,6,2006,WD ,3960,2742,3,1.0
+818,90,RL,24.0,7976,Pave,4,Lvl,4,Inside,3,Feedr,Norm,Duplex,2Story,7,5,2000,Hip,BrkFace,23.0,3,PConc,5,3,1,6,1,GasA,5,Y,5,0,6,2,3,8,8,3,BuiltIn,2000.0,3,820,3,3,312,0,0,0,0,10,2009,WD ,4009,3955,2,7.0
+2673,70,RL,74.0,11737,Pave,3,Bnk,4,Inside,3,Norm,Norm,1Fam,2Story,6,7,1996,Gambrel,None,0.0,3,BrkTil,3,3,1,1,1,GasW,3,N,5,0,2,1,3,9,8,4,Detchd,1943.0,1,240,2,3,27,36,42,0,0,5,2006,WD ,3930,2675,2,1.0
+2089,20,RL,93.0,9060,Pave,4,Lvl,4,Inside,3,Artery,Norm,1Fam,1Story,5,6,2006,Hip,BrkFace,98.0,3,PConc,0,0,0,0,0,GasA,5,Y,5,0,3,1,3,7,8,4,Attchd,1957.0,2,252,3,3,116,0,0,180,0,6,2007,WD ,3964,1340,1,1.0
+1297,190,RM,34.0,10800,Pave,4,Lvl,4,Inside,3,Norm,Norm,2fmCon,1.5Fin,6,6,1950,Gable,None,0.0,3,CBlock,3,3,1,4,1,GasA,3,Y,5,0,3,2,3,8,8,4,Detchd,1940.0,1,828,3,3,0,0,126,0,0,5,2008,Con,3948,2320,1,2.0
+790,20,RL,80.0,9571,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,1956,Hip,None,0.0,3,CBlock,3,3,1,3,1,GasA,3,Y,4,0,2,1,3,5,8,0,Attchd,1956.0,1,340,3,3,0,0,0,0,0,2,2009,WD ,3965,2146,1,2.0
+2616,20,RL,71.0,10800,Pave,4,Lvl,4,Inside,3,PosA,Norm,1Fam,1Story,6,6,1992,Gable,BrkFace,104.0,3,CBlock,3,3,1,3,1,GasA,3,Y,5,0,3,1,3,6,6,3,Attchd,1961.0,2,418,3,3,355,98,0,0,144,8,2006,WD ,3967,3086,3,3.0
+720,70,RM,72.0,17671,Pave,4,Lvl,4,Corner,3,Artery,Norm,1Fam,2Story,8,9,1986,Gable,None,0.0,4,BrkTil,3,3,1,4,1,GasA,4,Y,5,0,4,1,4,8,8,4,Attchd,1925.0,1,424,3,2,0,169,0,0,0,11,2009,WD ,3891,2658,1,1.5
+222,20,RL,109.0,8246,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,8,2001,Gable,None,0.0,4,CBlock,3,3,3,3,5,GasA,5,Y,5,0,3,1,4,6,8,3,Attchd,1968.0,1,270,3,3,406,90,0,0,0,5,2010,WD ,3978,2120,2,2.0
+557,20,RL,40.0,8499,Pave,3,Lvl,4,Corner,3,Feedr,Norm,1Fam,1Story,5,6,1961,Gable,None,0.0,3,CBlock,3,3,1,6,1,GasA,5,Y,5,0,3,1,3,5,8,0,Detchd,1982.0,1,732,3,3,0,312,0,0,0,6,2009,WD ,3970,1728,2,2.0
+1148,120,RL,103.0,8012,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,6,5,1994,Gable,None,0.0,3,PConc,4,3,1,2,6,GasA,5,Y,5,0,2,1,4,5,8,2,Attchd,1993.0,2,533,3,3,0,69,0,0,0,7,2008,WD ,4001,3221,2,3.0
+2766,80,RL,63.0,21453,Pave,3,Low,4,CulDSac,1,Norm,Norm,1Fam,SLvl,6,5,1969,Flat,None,0.0,3,CBlock,3,3,5,5,1,GasA,5,Y,5,0,1,1,3,4,8,3,Attchd,1969.0,1,540,3,3,0,130,0,130,0,10,2006,WD ,3975,1926,5,2.0
+534,20,RL,100.0,9605,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,7,6,2007,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,6,8,0,Detchd,2007.0,2,576,3,3,0,178,0,0,0,4,2009,WD ,4016,2436,2,1.5
+1452,20,RL,92.0,7180,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,1972,Hip,None,0.0,3,CBlock,3,3,4,5,1,GasA,3,Y,5,0,3,1,3,5,8,0,Detchd,1989.0,1,352,3,3,0,0,0,0,0,5,2008,WD ,3980,1728,4,1.0
+630,50,RL,65.0,12513,Pave,3,Lvl,4,FR2,3,Feedr,Norm,1Fam,1.5Fin,4,4,2007,Gable,None,0.0,4,BrkTil,3,2,1,1,1,GasA,4,Y,5,0,4,1,3,7,8,4,Attchd,1920.0,1,368,3,3,55,0,0,0,0,6,2009,WD ,3929,2453,3,2.0
+2648,70,RM,64.0,9000,Pave,4,Lvl,4,Corner,3,Artery,Norm,1Fam,2Story,5,6,1991,Gable,None,0.0,3,BrkTil,2,2,1,1,1,GasA,3,Y,4,0,3,1,5,8,8,0,Detchd,1937.0,1,240,2,1,0,0,293,0,0,6,2006,WD ,3886,2386,1,1.0
+125,85,RL,75.0,8800,Pave,4,Lvl,4,Inside,3,Feedr,Norm,1Fam,SFoyer,6,7,1963,Gable,BrkFace,156.0,4,PConc,3,3,5,6,1,GasA,5,Y,5,0,3,1,4,6,8,0,Attchd,1963.0,2,480,3,3,120,0,0,0,0,5,2010,WD ,3973,1990,3,2.0
+1904,50,RL,60.0,3500,Pave,4,Lvl,4,Inside,3,Feedr,Norm,1Fam,1.5Fin,3,5,1950,Gable,None,0.0,3,CBlock,3,3,1,2,1,GasA,3,N,4,0,2,1,2,4,8,0,None,1945.0,0,0,0,1,0,21,0,0,0,7,2007,WD ,3952,1040,2,2.0
+1670,20,RL,80.0,7340,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,4,6,1971,Gable,None,0.0,3,CBlock,3,3,1,5,1,GasA,3,Y,5,0,2,1,3,4,8,0,Detchd,1979.0,1,684,3,3,0,0,0,0,0,6,2007,WD ,3978,1716,3,1.0
+756,30,RM,64.0,6240,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,4,5,1950,Gable,None,0.0,3,CBlock,3,3,1,4,1,GasA,3,Y,4,360,2,1,3,5,8,0,Detchd,1962.0,1,539,3,3,0,23,112,0,0,1,2009,WD ,3934,1988,1,1.0
+717,70,RM,30.0,11700,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,7,7,2003,Mansard,None,0.0,3,Stone,3,2,1,1,1,GasW,3,N,5,0,4,1,4,8,8,4,Detchd,1950.0,1,864,3,1,181,0,386,0,0,5,2009,WD ,3889,3880,1,1.5
+1032,20,RL,60.0,10000,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,6,2000,Gable,None,0.0,3,CBlock,4,3,1,4,1,GasA,4,Y,5,0,3,1,4,5,8,2,Attchd,1973.0,1,439,3,3,224,0,0,0,0,11,2008,WD ,3981,2354,3,2.0
+852,20,RL,79.0,11166,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,2001,Gable,BrkFace,180.0,3,PConc,4,3,3,6,1,GasA,5,Y,5,0,3,1,4,6,8,3,Attchd,2001.0,2,608,3,3,0,114,0,0,168,7,2009,WD ,4010,2984,4,2.0
+1731,60,RL,80.0,13204,Pave,3,Lvl,4,Inside,3,RRAn,Norm,1Fam,2Story,7,5,2007,Gable,Stone,44.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,6,8,0,BuiltIn,2007.0,3,454,3,3,100,33,0,0,0,5,2007,New,4013,2066,3,2.0
+2639,50,RM,41.0,5520,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1.5Fin,4,6,1980,Gable,None,0.0,3,PConc,3,2,1,2,1,GasA,3,N,5,0,4,1,2,9,8,3,Detchd,1920.0,1,162,2,1,0,0,0,0,0,7,2006,WD ,3926,2804,1,1.0
+2071,20,RL,105.0,9000,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,4,7,1950,Gable,None,0.0,3,Slab,0,0,0,0,0,GasA,3,N,4,0,3,1,3,5,6,0,2Types,1952.0,1,460,2,3,0,0,140,0,0,5,2007,WD ,3952,998,2,1.0
+1267,20,RL,80.0,8892,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,5,7,1996,Gable,None,0.0,3,Stone,3,3,4,1,1,GasA,4,Y,5,0,3,1,4,5,8,0,Attchd,1953.0,1,414,3,3,196,0,150,0,0,10,2008,WD ,3961,1015,3,1.0
+1851,20,FV,60.0,7321,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,2000,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,5,8,0,Detchd,1999.0,1,625,3,3,176,174,0,0,0,12,2007,COD,4006,2697,4,2.0
+567,160,FV,75.0,3951,Pave,4,Lvl,4,Corner,3,Norm,Norm,TwnhsE,2Story,6,5,2009,Gable,Stone,76.0,3,PConc,4,3,4,1,1,GasA,5,Y,5,0,2,1,4,4,8,0,Detchd,2009.0,2,528,3,3,0,234,0,0,0,6,2009,New,4018,1836,4,2.5
+2439,60,RL,107.0,11214,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,7,5,1999,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,4,Y,5,0,4,1,4,10,8,3,Attchd,1998.0,3,431,3,3,89,0,0,0,0,7,2006,WD ,4004,2816,3,2.5
+1898,20,RL,74.0,7388,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,5,6,2002,Gable,None,0.0,3,CBlock,3,3,1,3,1,GasA,4,Y,5,0,3,1,4,7,8,0,Detchd,1974.0,1,624,3,3,0,0,0,0,0,7,2007,WD ,3966,2390,3,2.0
+647,20,RL,81.0,14559,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,2000,Hip,BrkCmn,70.0,3,CBlock,3,3,1,4,3,GasA,5,Y,5,0,2,1,3,6,7,3,CarPort,1951.0,1,288,3,3,324,42,0,0,168,6,2009,WD ,3960,2371,3,2.0
+2256,120,RL,70.0,4054,Pave,3,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,7,6,1987,Gable,BrkFace,352.0,3,BrkTil,4,3,4,6,1,GasA,5,Y,5,0,2,1,4,5,8,3,Attchd,1987.0,3,512,3,3,240,0,0,0,0,10,2007,WD ,3994,3002,4,3.0
+979,160,RM,100.0,1533,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,2Story,4,6,2008,Gable,None,0.0,3,CBlock,3,3,1,1,1,GasA,3,Y,5,0,3,1,3,6,8,3,None,1970.0,0,0,0,3,0,0,0,0,0,5,2009,WD ,3979,1890,1,1.5
+1444,60,RL,60.0,11250,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,2002,Gable,BrkFace,162.0,3,PConc,4,3,3,6,1,GasA,5,Y,5,0,3,1,4,6,8,3,Attchd,2001.0,2,608,3,3,0,42,0,0,0,9,2008,WD ,4009,2706,4,3.5
+2485,20,RH,60.0,7800,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,5,5,1965,Gable,None,0.0,3,CBlock,3,3,1,4,1,GasA,4,Y,5,0,3,1,3,6,8,0,Detchd,1979.0,1,300,3,3,421,0,0,0,0,7,2006,WD ,3971,1793,2,2.0
+157,20,RL,80.0,5868,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,2000,Gable,None,0.0,3,CBlock,3,3,1,4,3,GasA,5,Y,5,0,2,1,3,4,8,0,Attchd,1956.0,3,308,3,3,0,0,80,0,160,5,2010,WD ,3966,1872,3,2.0
+88,20,RL,36.0,7500,Pave,4,Lvl,4,Corner,3,Feedr,Norm,1Fam,1Story,5,5,1963,Gable,None,0.0,3,CBlock,3,3,1,5,1,GasA,2,Y,5,0,3,1,3,5,8,0,Attchd,1963.0,3,308,3,3,0,0,220,0,0,6,2010,WD ,3973,2080,2,2.5
+2003,50,RM,73.0,9439,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,5,5,1950,Gable,None,0.0,3,CBlock,3,3,1,2,1,GasA,4,Y,4,0,2,1,3,6,8,0,Detchd,1957.0,1,160,2,3,0,0,192,0,0,3,2007,WD ,3937,2160,1,1.0
+186,70,RM,65.0,9000,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,9,2002,Gable,None,0.0,4,Stone,2,2,1,1,1,GasA,5,Y,5,0,3,1,4,7,8,0,Detchd,2003.0,1,624,3,1,0,108,0,0,0,4,2010,WD ,3900,2614,1,3.0
+1425,20,RL,80.0,9345,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,8,5,2007,Gable,Stone,156.0,3,PConc,4,3,4,1,1,GasA,5,Y,5,0,3,1,4,7,8,4,Attchd,2007.0,2,864,3,3,168,30,0,0,0,5,2008,WD ,4015,3230,4,2.0
+2695,50,RM,21.0,7200,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1.5Fin,5,6,1995,Gable,None,0.0,3,CBlock,3,3,1,1,1,GasA,5,Y,5,0,2,1,4,6,8,0,Detchd,1951.0,1,297,3,3,0,65,190,0,0,7,2006,WD ,3944,2163,1,1.5
+738,50,RM,75.0,6000,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1.5Fin,5,5,1950,Gable,BrkFace,444.0,3,BrkTil,3,3,1,3,1,GasA,4,Y,5,0,3,1,3,6,8,0,Attchd,1924.0,3,320,3,3,0,0,98,0,0,6,2009,WD ,3933,1610,2,1.0
+395,20,RL,80.0,7930,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,8,2005,Gable,None,0.0,3,CBlock,3,3,1,6,2,GasA,4,Y,5,0,3,1,4,5,8,0,Detchd,1969.0,2,440,3,3,171,48,0,0,0,7,2009,WD ,3978,2052,3,2.0
+1353,50,RL,24.0,9120,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,7,6,1950,Gable,None,0.0,4,PConc,3,3,1,3,1,GasA,5,Y,5,0,4,1,3,8,8,0,Detchd,1925.0,1,240,3,1,0,100,0,0,0,6,2008,WD ,3933,2846,2,3.0
+1878,20,RL,82.0,9503,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,1983,Hip,None,0.0,3,CBlock,3,3,1,5,3,GasA,3,Y,5,0,2,1,3,6,7,3,Detchd,1970.0,1,484,3,3,316,28,0,0,0,6,2007,WD ,3965,2368,3,2.0
+390,20,RL,68.0,11050,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,7,5,1975,Gable,None,0.0,3,CBlock,3,3,1,5,1,GasA,2,Y,5,0,3,1,3,5,8,3,Attchd,1975.0,1,506,3,3,40,0,0,0,0,8,2009,WD ,3984,2369,3,2.0
+1456,60,RL,63.0,10316,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,2000,Gable,None,0.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,7,8,3,Attchd,2000.0,2,839,3,3,0,184,0,0,0,6,2008,WD ,4008,2857,4,3.5
+1103,20,RL,92.0,11675,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,8,5,1998,Gable,BrkFace,495.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,2,1,4,5,8,3,Attchd,1998.0,3,938,3,3,144,33,0,0,0,7,2008,WD ,4006,3988,5,3.0
+1387,190,RL,75.0,12900,Pave,4,Lvl,4,Inside,3,Feedr,Norm,2fmCon,1Story,5,4,1950,Gable,None,0.0,3,PConc,3,2,1,4,1,GasA,2,Y,5,0,3,1,3,6,8,0,CarPort,1920.0,1,400,3,3,0,0,190,0,0,1,2008,WD ,3928,2440,2,2.0
+2070,20,RL,82.5,13770,Pave,4,Lvl,4,Corner,3,Feedr,Norm,1Fam,1Story,5,6,1998,Gable,BrkFace,340.0,3,CBlock,3,3,3,3,4,GasA,3,Y,5,0,3,1,3,6,8,4,Attchd,1958.0,1,303,3,3,0,0,0,0,0,10,2007,VWD,3965,2334,2,2.0
+1199,60,RL,81.0,13355,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,6,1971,Gable,None,0.0,3,CBlock,4,4,1,5,1,GasA,3,Y,5,0,4,1,3,7,8,0,Attchd,1971.0,3,464,3,3,0,0,0,0,0,5,2008,WD ,3979,2495,3,1.5
+2479,60,RL,70.0,7153,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,5,1992,Gable,None,0.0,4,PConc,4,3,1,5,1,GasA,5,Y,5,0,3,1,4,7,8,0,Attchd,1992.0,2,484,3,3,0,124,0,0,0,7,2006,WD ,3998,2364,2,2.5
+501,20,RL,70.0,10750,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,1Fam,1Story,8,5,1995,Hip,BrkFace,634.0,3,PConc,4,3,4,4,6,GasA,5,Y,5,0,3,1,4,7,8,4,Attchd,1994.0,3,815,3,3,182,56,0,0,0,6,2009,WD ,4003,4087,5,3.0
+2362,20,RL,63.0,8125,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,4,4,1971,Gable,None,0.0,3,CBlock,3,3,1,4,1,GasA,3,Y,5,0,3,1,3,5,8,0,None,1971.0,0,0,0,3,0,0,0,0,0,6,2006,WD ,3977,1716,3,1.0
+1718,120,RL,32.0,3903,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,1Story,6,5,2006,Gable,Stone,182.0,3,PConc,4,3,4,5,1,GasA,5,Y,5,0,1,1,4,5,8,4,Attchd,2005.0,2,631,3,3,110,50,0,0,0,5,2007,WD ,4012,2604,5,2.5
+2188,30,RH,94.0,4270,Pave,4,Bnk,4,Inside,2,Norm,Norm,1Fam,1Story,3,6,2006,Gable,None,0.0,3,BrkTil,3,3,1,3,1,GasA,5,Y,5,0,3,1,4,6,8,0,None,1931.0,0,0,0,3,0,0,286,0,0,5,2007,WD ,3938,1318,1,1.0
+1483,120,RM,43.0,4426,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,6,5,2004,Gable,BrkFace,147.0,3,PConc,4,3,5,6,1,GasA,5,Y,5,0,1,1,4,3,8,3,Attchd,2004.0,2,420,3,3,149,0,0,0,0,5,2008,WD ,4012,1696,4,2.0
+2557,30,RL,44.0,5825,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,4,5,1953,Gable,BrkFace,108.0,4,PConc,2,3,3,1,1,GasA,4,Y,5,0,1,1,3,5,8,0,Detchd,1953.0,1,528,3,3,0,0,32,0,0,6,2006,WD ,3932,1347,2,1.0
+437,60,RL,74.0,23303,Pave,1,Lvl,4,CulDSac,3,Norm,Norm,1Fam,2Story,8,5,2007,Gable,Stone,20.0,3,PConc,5,3,4,6,1,GasA,5,Y,5,0,5,1,5,10,8,4,BuiltIn,2007.0,3,640,3,3,192,273,0,0,0,6,2009,WD ,4016,4028,5,3.5
+2224,20,RL,79.0,25485,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,1Fam,1Story,6,4,1960,Gable,BrkFace,423.0,2,CBlock,3,4,3,2,3,GasA,3,Y,5,0,3,1,3,6,8,3,Attchd,1960.0,2,580,3,3,0,75,584,0,0,5,2007,WD ,3967,3120,4,1.5
+1628,80,RL,24.0,10784,Pave,3,Lvl,4,FR2,3,Norm,Norm,1Fam,SLvl,7,5,1992,Gable,BrkFace,76.0,3,PConc,4,3,1,1,1,GasA,4,Y,5,0,3,1,4,7,8,3,Attchd,1991.0,2,402,3,3,164,0,0,0,0,5,2007,WD ,3998,1856,3,2.5
+397,20,RL,73.0,8510,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,1971,Gable,BrkFace,178.0,3,CBlock,4,3,1,5,1,GasA,5,Y,5,0,3,1,3,6,8,0,Attchd,1971.0,1,336,3,3,0,0,0,0,0,7,2009,WD ,3980,2093,3,2.5
+587,80,RL,60.0,17871,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,1Fam,SLvl,6,5,1976,Gable,BrkFace,359.0,3,CBlock,4,3,4,5,1,GasA,2,Y,5,0,3,1,3,7,8,4,Attchd,1967.0,2,480,3,3,0,0,0,0,0,6,2009,WD ,3976,3404,3,2.5
+971,20,RL,70.0,21750,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,4,2006,Hip,BrkFace,75.0,2,Slab,0,0,0,0,0,GasA,3,Y,5,0,3,1,3,9,7,3,Attchd,1960.0,1,336,3,3,0,0,0,0,0,11,2009,WD ,3969,1771,3,1.0
+2611,20,RL,60.0,9510,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,5,1985,Gable,BrkCmn,161.0,3,CBlock,3,3,1,5,1,GasA,5,Y,5,0,3,1,3,6,8,0,Attchd,1962.0,2,264,3,3,0,240,0,0,0,5,2006,WD ,3968,2342,3,1.5
+1887,20,RL,80.0,8339,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,1959,Gable,None,0.0,3,Slab,0,0,0,0,0,GasA,3,Y,5,0,3,1,3,5,8,0,Attchd,1959.0,2,294,3,3,0,0,0,0,0,7,2007,WD ,3966,882,3,1.0
+2399,20,RL,50.0,14828,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,9,5,2005,Hip,BrkFace,674.0,3,PConc,5,3,5,6,1,GasA,5,Y,5,0,2,1,5,7,8,4,Attchd,2004.0,3,816,3,3,144,68,0,0,0,8,2006,WD ,4010,3560,5,3.0
+2148,20,RL,35.0,8749,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,2002,Gable,BrkFace,100.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,6,8,4,Attchd,2002.0,2,527,3,3,192,39,0,0,0,9,2007,WD ,4009,2918,4,2.0
+304,50,RM,63.0,9140,Pave,4,HLS,4,Inside,3,Norm,Norm,1Fam,1.5Fin,6,5,1975,Gable,None,0.0,3,BrkTil,3,3,3,4,1,GasA,2,Y,5,0,2,1,3,5,8,0,Detchd,1950.0,1,625,3,3,0,56,0,0,200,4,2010,COD,3931,1736,1,1.0
+1997,70,RM,100.0,3600,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,5,7,2005,Gambrel,None,0.0,4,BrkTil,3,2,1,3,1,GasA,4,Y,5,0,3,1,4,6,8,4,Detchd,2004.0,1,336,3,3,0,32,0,0,0,7,2007,WD ,3937,2045,1,1.5
+2817,70,RL,60.0,8777,Pave,4,Bnk,4,Inside,3,Feedr,Norm,1Fam,2Story,4,6,2000,Gable,None,0.0,4,CBlock,4,3,1,3,4,GasA,4,Y,5,0,3,1,3,6,7,0,Attchd,1950.0,1,528,3,3,147,0,0,0,0,10,2006,WD ,3916,2112,1,3.0
+1431,60,RL,32.0,12798,Pave,3,HLS,4,Inside,2,Feedr,Norm,1Fam,2Story,6,5,1997,Gable,None,0.0,3,PConc,4,3,5,6,1,GasA,4,Y,5,0,4,1,4,8,8,0,Attchd,1997.0,2,603,3,3,403,114,185,0,0,5,2008,WD ,4005,2304,5,3.5
+427,20,RL,48.0,12704,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,8,5,2009,Hip,BrkFace,306.0,3,PConc,5,3,1,1,1,GasA,5,Y,5,0,3,1,5,8,8,4,Attchd,2009.0,2,1390,3,3,0,90,0,0,0,8,2009,New,4017,4084,5,2.5
+263,20,RL,67.0,7480,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,6,1972,Gable,None,0.0,3,CBlock,3,3,4,5,1,GasA,3,Y,5,0,3,1,3,5,8,0,Detchd,1977.0,1,484,3,3,0,0,0,0,0,6,2010,WD ,3982,1752,4,2.0
+598,85,RL,70.0,16500,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,SFoyer,6,5,1971,Hip,BrkFace,509.0,3,CBlock,4,3,4,6,1,GasA,2,Y,5,0,3,1,3,5,8,4,Attchd,1971.0,2,495,3,3,0,20,0,0,0,5,2009,WD ,3980,2552,3,2.5
+2895,20,RL,80.0,16669,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,8,6,1981,Hip,BrkFace,653.0,3,CBlock,4,3,1,1,1,GasA,3,Y,5,0,2,1,3,6,8,3,Attchd,1981.0,2,511,3,3,574,64,0,0,0,1,2006,WD ,3987,3393,4,2.5
+687,50,RL,30.0,8064,Pave,4,Lvl,4,Corner,3,Artery,Norm,1Fam,1.5Fin,6,7,1994,Gable,None,0.0,3,CBlock,3,3,1,2,1,GasA,3,Y,5,431,3,1,3,6,8,0,Detchd,1994.0,1,576,3,3,180,36,0,0,0,8,2009,COD,3957,2359,3,1.0
+1822,20,RL,80.0,7758,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,5,7,2001,Gable,None,0.0,4,CBlock,3,3,1,5,1,GasA,4,Y,5,0,3,1,4,6,8,0,Detchd,1963.0,1,264,3,3,0,132,0,0,0,3,2007,WD ,3969,1998,2,2.0
+2191,50,RL,70.0,11767,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,4,7,2000,Gable,None,0.0,3,CBlock,2,3,1,1,1,GasA,4,N,5,0,2,1,3,6,6,0,Detchd,1950.0,1,384,2,3,168,24,0,0,0,5,2007,WD ,3917,1906,1,1.5
+179,45,RM,70.0,6900,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1.5Fin,6,7,2000,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,4,Y,5,0,3,1,2,6,8,0,Detchd,1938.0,1,240,2,1,0,0,0,0,0,1,2010,WD ,3948,2078,1,1.0
+1009,120,RL,64.0,4671,Pave,3,HLS,4,Inside,3,Norm,Norm,TwnhsE,1Story,8,5,1989,Gable,None,0.0,3,PConc,4,3,3,6,1,GasA,4,Y,5,0,2,1,4,5,8,4,Attchd,1988.0,3,472,3,3,168,120,0,0,0,10,2008,WD ,3996,2456,5,3.0
+2010,50,RM,72.0,6125,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,5,7,1998,Gable,None,0.0,4,CBlock,3,3,1,3,1,GasA,5,Y,5,0,3,1,3,6,8,0,Detchd,1939.0,1,224,2,3,0,0,192,0,0,3,2007,CWD,3946,2002,2,2.0
+1991,70,RM,80.0,9863,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,6,1950,Gambrel,None,0.0,3,BrkTil,3,3,1,2,3,GasA,3,Y,5,0,4,1,3,9,8,4,Detchd,1927.0,1,374,3,3,0,0,0,0,0,3,2007,WD ,3934,2370,1,2.0
+1411,20,RL,88.0,9571,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,6,1956,Hip,None,0.0,3,CBlock,3,3,4,3,1,GasA,3,Y,4,0,3,1,4,6,8,3,Attchd,1956.0,1,322,3,3,158,0,0,0,576,7,2008,WD ,3964,3018,1,2.0
+1721,120,RL,74.0,4590,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,1Story,8,5,2006,Gable,Stone,108.0,3,PConc,4,4,3,6,1,GasA,5,Y,5,0,2,1,4,6,8,4,Attchd,2006.0,2,627,3,3,156,73,0,0,0,5,2007,CWD,4013,3108,5,2.0
+1144,60,RL,60.0,8450,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,5,2001,Gable,None,0.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,7,8,0,Attchd,2001.0,2,627,3,3,0,68,0,0,0,9,2008,WD ,4009,2504,2,3.5
+593,60,RL,83.0,8400,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,6,2001,Gable,None,0.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,6,8,0,Attchd,2001.0,3,528,3,3,0,45,0,0,0,11,2009,WD ,4010,2475,3,3.5
+575,20,RL,53.0,14694,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,8,9,2008,Gable,BrkFace,450.0,5,CBlock,4,4,5,6,5,GasA,5,Y,5,0,2,1,5,5,8,4,Attchd,1977.0,3,642,3,3,501,120,0,225,0,6,2009,WD ,3986,3388,5,3.0
+1249,20,RL,58.0,14250,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,5,1957,Gable,BrkFace,360.0,3,CBlock,3,3,1,1,1,GasA,3,Y,5,0,3,1,3,6,8,4,Attchd,1957.0,3,540,3,3,0,40,0,0,0,9,2008,WD ,3965,2788,3,2.0
+1604,20,RL,103.0,6951,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,1Fam,1Story,5,5,1985,Gable,None,0.0,3,CBlock,3,3,1,5,1,GasA,3,Y,5,0,3,1,3,5,8,0,Attchd,1984.0,1,264,3,3,362,0,0,0,0,10,2008,WD ,3992,1799,3,2.0
+1064,20,RL,72.0,12720,Pave,4,HLS,4,Inside,2,Norm,Norm,1Fam,1Story,10,5,2003,Hip,Stone,680.0,3,PConc,5,3,5,6,1,GasA,5,Y,5,0,1,1,5,7,8,4,Attchd,2003.0,3,789,3,3,154,65,0,0,216,2,2008,WD ,4011,5005,5,3.5
+1923,20,RL,71.0,11988,Pave,3,Lvl,4,Corner,3,Feedr,Norm,1Fam,1Story,6,6,1957,Gable,None,0.0,3,CBlock,3,3,1,3,1,GasA,5,Y,4,0,3,1,3,6,8,4,Attchd,1957.0,1,336,3,3,0,40,0,0,0,5,2007,WD ,3964,2488,3,1.5
+1988,30,RM,79.0,3880,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,9,1997,Gable,None,0.0,4,CBlock,3,3,1,5,1,GasA,4,Y,5,0,2,1,4,4,8,0,None,1945.0,0,0,0,3,58,42,0,0,0,8,2007,WD ,3952,1552,1,1.0
+2325,60,RL,73.0,7685,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,5,1994,Gable,BrkFace,112.0,3,PConc,4,3,1,5,1,GasA,4,Y,5,0,3,1,4,6,8,3,Attchd,1993.0,3,420,3,3,190,63,0,0,0,5,2006,WD ,3999,2198,3,2.5
+114,50,RL,60.0,18837,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,6,5,1978,Gable,None,0.0,3,PConc,4,3,3,5,2,GasA,3,Y,5,0,3,1,3,7,8,3,Attchd,1978.0,2,678,3,3,0,69,0,0,0,4,2010,WD ,3988,3115,3,3.5
+2700,90,RL,72.0,11136,Pave,4,Lvl,4,Corner,3,Feedr,Feedr,Duplex,1Story,6,5,1964,Gable,None,0.0,3,CBlock,3,3,1,1,1,GasA,3,Y,5,0,4,2,3,8,8,0,Detchd,1964.0,1,576,3,3,0,180,0,0,0,7,2006,WD ,3970,3842,2,2.0
+217,90,RL,36.0,10773,Pave,4,Lvl,4,Inside,3,Norm,Norm,Duplex,1Story,4,3,1967,Gable,BrkFace,72.0,2,CBlock,3,3,1,5,1,GasA,3,N,5,0,4,2,3,8,8,0,None,1967.0,0,0,0,3,0,58,0,0,0,5,2010,WD ,3977,3664,2,4.0
+343,20,RL,57.0,10200,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,5,1974,Hip,BrkFace,440.0,3,CBlock,3,3,1,2,1,GasA,3,Y,5,0,4,1,3,7,8,4,Attchd,1974.0,2,528,3,3,80,21,0,0,0,6,2009,WD ,3983,2868,3,3.0
+386,60,FV,72.0,7500,Pave,4,Lvl,4,Inside,3,RRNn,Norm,1Fam,2Story,8,5,2001,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,7,8,3,Attchd,2000.0,3,588,3,3,0,134,0,0,0,3,2009,WD ,4009,2932,4,2.5
+2005,80,RM,52.0,11800,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,SLvl,4,7,2002,Gable,None,0.0,3,Slab,0,0,0,0,0,GasA,5,Y,5,0,1,1,3,6,5,3,Attchd,1957.0,2,384,3,3,0,40,0,0,0,5,2007,WD ,3956,1382,1,2.0
+2908,20,RL,87.0,17217,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,2006,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,3,6,8,0,None,2006.0,0,0,0,3,36,56,0,0,0,7,2006,WD ,4012,2280,3,1.0
+1814,20,RL,70.0,16196,Pave,1,Low,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,1998,Gable,None,0.0,3,PConc,4,3,5,6,1,GasA,5,Y,5,0,3,1,4,5,8,2,Attchd,1998.0,2,514,3,3,402,25,0,0,0,8,2007,WD ,4005,2976,2,3.0
+2446,60,RL,80.0,35760,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,1Fam,2Story,10,5,1996,Hip,BrkFace,1378.0,4,PConc,5,3,5,6,1,GasA,5,Y,5,0,4,1,4,10,8,3,Attchd,1995.0,3,807,3,3,361,76,0,0,0,7,2006,WD ,4001,5557,5,4.5
+208,190,RM,134.0,7630,Pave,4,Lvl,4,Inside,3,Feedr,Norm,2fmCon,2Story,5,9,1996,Gable,None,0.0,4,BrkTil,4,3,1,1,1,GasA,4,Y,5,0,4,2,4,8,8,1,Detchd,1999.0,1,672,3,1,344,0,40,0,0,5,2010,WD ,3910,2172,1,2.0
+1679,160,RM,73.0,2016,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,2Story,5,5,1970,Gable,BrkFace,304.0,3,CBlock,3,3,1,1,1,GasA,3,Y,5,0,3,1,3,6,8,0,Detchd,1970.0,1,440,3,3,0,0,0,0,0,4,2007,WD ,3977,1932,1,2.5
+822,20,RL,82.5,10816,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,9,5,2008,Gable,Stone,364.0,3,PConc,5,3,5,6,1,GasA,5,Y,5,0,3,1,5,8,8,4,Attchd,2008.0,2,846,3,3,208,104,0,0,0,11,2009,WD ,4017,3440,4,3.0
+6,60,RL,65.0,9978,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,6,1998,Gable,BrkFace,20.0,3,PConc,3,3,1,6,1,GasA,5,Y,5,0,3,1,4,7,8,4,Attchd,1998.0,3,470,3,3,360,36,0,0,0,6,2010,WD ,4008,2530,3,2.5
+1781,20,RL,63.0,12291,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,10,5,2007,Hip,BrkFace,754.0,3,PConc,5,3,4,6,1,GasA,5,Y,5,0,1,1,5,6,8,4,Attchd,2007.0,3,1092,3,3,76,52,0,0,0,10,2007,New,4014,3932,4,3.0
+2397,60,RL,70.0,11065,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,5,2006,Gable,Stone,788.0,3,PConc,4,3,3,1,1,GasA,5,Y,5,0,3,1,5,8,8,4,BuiltIn,2006.0,3,753,3,3,177,74,0,0,0,10,2006,New,4012,3055,5,2.5
+2340,120,RL,70.0,8147,Pave,4,HLS,4,Inside,3,Norm,Norm,TwnhsE,1Story,9,5,2005,Hip,BrkFace,230.0,3,PConc,5,3,5,6,1,GasA,5,Y,5,0,2,1,4,7,8,4,Attchd,2005.0,3,517,3,3,156,55,0,0,0,8,2006,WD ,4011,3428,5,3.0
+1618,60,RL,56.0,13869,Pave,2,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,6,6,1997,Gable,None,0.0,3,PConc,4,3,4,6,1,GasA,4,Y,5,0,3,1,3,6,8,0,Attchd,1997.0,3,388,3,3,0,75,0,0,0,7,2007,WD ,4004,2264,3,2.5
+2843,75,RL,50.0,6204,Pave,4,Bnk,4,Inside,3,Norm,Norm,1Fam,2.5Fin,4,5,1950,Gable,None,0.0,3,PConc,3,2,1,1,1,GasA,3,N,5,481,5,1,3,10,8,0,Detchd,1997.0,1,440,3,3,0,188,0,0,0,3,2006,WD ,3918,3025,2,2.0
+1061,60,RL,80.0,12151,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,9,5,2005,Gable,BrkFace,368.0,3,PConc,5,3,4,6,1,GasA,5,Y,5,0,3,1,5,9,8,4,BuiltIn,2005.0,3,1003,3,3,192,63,0,0,0,8,2008,WD ,4013,3745,5,3.5
+2786,20,RL,74.0,9560,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,5,7,1972,Hip,None,0.0,4,CBlock,3,3,3,3,1,GasA,5,Y,5,0,3,1,3,5,8,0,Attchd,1972.0,2,288,3,3,0,0,0,0,0,6,2006,WD ,3978,1728,4,1.0
+1935,20,RL,70.0,8923,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,2006,Gable,None,0.0,3,CBlock,3,3,1,4,1,GasA,4,Y,5,0,2,1,4,6,8,0,Attchd,1953.0,1,240,3,3,0,18,0,0,0,5,2007,WD ,3960,2016,3,2.0
+1341,50,RM,60.0,5520,Pave,3,Lvl,4,FR2,3,Feedr,Norm,1Fam,1.5Fin,5,7,1997,Gable,None,0.0,4,BrkTil,3,3,1,5,1,GasA,3,Y,5,0,3,1,3,6,8,4,BuiltIn,1920.0,2,355,2,3,0,0,180,0,0,4,2008,WD ,3928,1781,2,2.0
+521,20,FV,75.0,12606,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,9,5,2008,Gable,Stone,120.0,3,PConc,4,3,4,1,1,GasA,5,Y,5,0,3,1,4,7,8,4,Attchd,2008.0,2,984,3,3,212,136,0,0,0,5,2009,WD ,4016,3060,4,2.0
+2136,80,RL,24.0,8660,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,SLvl,5,5,1976,Gable,BrkFace,113.0,4,CBlock,4,3,4,6,1,GasA,3,Y,5,0,3,1,3,6,8,2,Detchd,1979.0,1,370,3,3,127,0,0,0,0,7,2007,WD ,3983,2040,4,2.0
+996,60,RL,60.0,9042,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,5,1998,Gable,None,0.0,3,PConc,4,3,5,6,1,GasA,4,Y,5,0,3,1,3,7,8,3,Attchd,1998.0,3,472,3,3,100,38,0,0,0,7,2008,WD ,4006,2581,3,3.5
+227,60,RL,24.0,11227,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,5,5,1968,Gable,None,0.0,4,CBlock,3,4,1,3,5,GasA,5,Y,5,0,4,1,3,7,8,3,Attchd,1968.0,1,480,3,3,192,38,0,0,0,3,2010,WD ,3978,2160,2,1.5
+135,85,RL,32.0,11380,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,SFoyer,6,8,2008,Gable,BrkFace,216.0,3,CBlock,3,3,5,6,1,GasA,4,Y,5,0,2,1,4,5,8,4,Attchd,1966.0,1,315,3,3,238,0,0,0,0,1,2010,WD ,3976,2208,3,2.0
+1167,160,FV,67.0,2280,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,2Story,6,5,1999,Gable,Stone,216.0,3,PConc,4,3,1,6,1,GasA,4,Y,5,0,3,1,3,6,8,0,Detchd,1999.0,1,440,3,3,0,32,0,0,0,4,2008,WD ,4007,2293,4,3.5
+294,50,RL,21.0,10452,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,7,6,1985,Gable,BrkFace,371.0,4,BrkTil,4,3,1,5,4,GasA,5,Y,5,0,4,1,3,8,8,3,Attchd,1941.0,1,312,3,3,0,0,86,0,0,7,2010,WD ,3951,3661,4,2.5
+1776,20,RL,54.0,9910,Pave,4,Lvl,4,Inside,3,Feedr,Norm,1Fam,1Story,7,6,2007,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,5,8,0,Attchd,2007.0,1,605,3,3,0,203,0,0,0,9,2007,New,4014,2738,4,2.0
+540,20,RL,34.0,13072,Pave,4,Lvl,4,Inside,3,RRAe,Norm,1Fam,1Story,7,5,2005,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,6,8,0,Detchd,2005.0,1,576,3,3,248,102,0,0,0,5,2009,WD ,4013,2228,2,1.5
+1717,120,RL,60.0,3901,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,1Story,6,5,2006,Gable,Stone,182.0,3,PConc,4,3,4,5,1,GasA,5,Y,5,0,1,1,4,5,8,4,Attchd,2005.0,2,631,3,3,110,50,0,0,0,8,2007,New,4012,2604,5,2.5
+2303,20,RL,60.0,11625,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,1983,Gable,None,0.0,3,CBlock,4,3,1,5,1,GasA,3,Y,5,0,2,1,3,4,8,0,Attchd,1983.0,3,264,3,3,330,0,0,0,0,5,2007,WD ,3990,1632,3,2.0
+116,20,RL,140.0,9360,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,7,2006,Hip,None,0.0,3,CBlock,3,3,1,5,1,GasA,3,Y,5,0,3,1,4,5,8,3,Attchd,1972.0,2,676,3,3,0,0,0,0,0,3,2010,WD ,3982,2542,3,2.5
+127,20,RL,63.0,9717,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,6,1996,Hip,None,0.0,3,CBlock,3,3,3,6,3,GasA,4,Y,4,0,2,1,4,5,8,0,Attchd,1950.0,1,240,3,3,366,0,112,0,0,4,2010,WD ,3960,2156,3,2.0
+1371,50,RM,70.0,10320,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,6,7,1995,Gable,None,0.0,3,CBlock,3,3,1,1,1,GasA,5,Y,5,0,3,1,3,7,8,0,Detchd,1906.0,1,216,3,3,57,0,239,0,0,6,2008,WD ,3914,2225,1,1.0
+1014,20,RL,75.0,31220,Pave,3,Bnk,3,FR2,3,Feedr,Norm,1Fam,1Story,6,2,1952,Hip,None,0.0,3,CBlock,3,3,1,1,1,GasA,3,Y,4,0,3,1,3,7,6,4,Attchd,1952.0,1,495,3,3,0,0,144,0,0,5,2008,WD ,3960,3106,3,1.0
+1507,50,RL,57.0,8050,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,5,8,1993,Gable,None,0.0,4,Slab,0,0,0,0,0,GasA,4,Y,5,0,4,1,3,8,7,0,None,1947.0,0,0,0,3,0,0,0,0,0,4,2008,WD ,3955,1137,1,1.5
+702,90,RM,52.0,7596,Pave,4,Lvl,4,Inside,3,Artery,Norm,Duplex,2Story,5,5,1952,Hip,BrkFace,360.0,3,CBlock,3,3,1,1,1,GasA,4,Y,5,0,4,2,3,10,8,0,Detchd,1952.0,1,400,3,1,0,0,0,0,0,7,2009,COD,3961,2920,1,2.0
+750,70,RM,64.0,8094,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,6,1950,Gable,None,0.0,3,PConc,3,3,1,1,1,GasA,4,Y,4,0,3,1,3,8,8,0,Detchd,1930.0,1,576,2,3,0,0,150,0,0,6,2009,WD ,3924,2816,1,2.0
+261,60,RL,78.0,10900,Pave,3,Lvl,4,FR2,3,Norm,Norm,1Fam,2Story,6,7,1977,Gable,BrkFace,153.0,3,CBlock,4,3,1,6,1,GasA,5,Y,5,0,3,1,3,6,8,0,Attchd,1977.0,3,299,3,3,0,36,0,0,0,3,2010,WD ,3987,2081,4,1.5
+1559,70,C (all),70.0,9000,Grvl,4,Bnk,4,Inside,3,Norm,Norm,1Fam,2Story,4,6,1950,Gable,None,0.0,3,Stone,2,2,3,1,1,GasA,5,Y,5,0,3,1,2,5,6,0,Detchd,1920.0,1,216,2,1,0,30,160,0,0,6,2008,WD ,3928,1456,1,1.5
+577,20,RL,57.0,15417,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,1981,Gable,None,0.0,3,CBlock,4,3,3,2,1,GasA,3,Y,5,0,2,1,4,7,8,0,Attchd,1981.0,2,540,3,3,228,20,218,0,0,6,2009,WD ,3990,3480,5,1.5
+2812,60,RL,72.0,11645,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,7,5,2004,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,7,8,0,Attchd,2004.0,2,565,3,3,0,70,0,0,0,8,2006,WD ,4010,2580,4,2.5
+2080,50,RL,85.0,10512,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,6,6,1954,Gable,None,0.0,3,CBlock,3,3,1,4,1,GasA,5,Y,5,0,3,1,4,6,8,0,Attchd,1954.0,1,332,3,3,366,0,0,0,0,5,2007,WD ,3961,2614,1,1.5
+1368,50,RM,70.0,5586,Pave,3,Bnk,4,Inside,3,Feedr,Norm,1Fam,1.5Fin,6,7,1998,Gable,None,0.0,3,BrkTil,3,3,1,1,1,GasA,4,Y,5,0,4,1,3,7,8,0,None,1920.0,0,0,0,1,0,98,0,0,0,9,2008,ConLD,3928,2099,1,1.0
+2376,85,RL,90.0,7838,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,SFoyer,5,5,1967,Gable,None,0.0,3,CBlock,3,3,4,5,1,GasA,3,Y,5,0,3,1,3,6,8,1,Attchd,1967.0,2,288,3,3,175,144,0,0,0,12,2006,WD ,3973,1764,3,2.0
+659,30,RL,70.0,9022,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,8,2006,Gable,None,0.0,3,BrkTil,3,3,1,1,1,GasA,5,Y,5,0,2,1,4,5,8,0,Detchd,1924.0,1,240,2,1,316,0,120,0,0,5,2009,WD ,3933,1560,1,1.0
+1235,20,RL,88.0,7390,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,1955,Hip,BrkFace,151.0,3,CBlock,3,3,1,5,1,GasA,3,Y,5,0,3,1,3,6,8,0,Attchd,1955.0,1,260,3,3,0,0,0,0,0,7,2008,WD ,3963,2196,3,2.0
+332,160,RM,30.0,1900,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,2Story,4,4,1970,Gable,None,0.0,3,CBlock,3,3,1,1,1,GasA,5,Y,5,0,3,1,3,5,8,0,None,1970.0,0,0,0,3,0,0,0,0,0,6,2010,WD ,3980,1638,1,1.5
+1917,20,RL,80.0,8760,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,7,1999,Gable,None,0.0,3,CBlock,3,3,1,5,1,GasA,3,Y,5,0,2,1,4,4,8,0,Attchd,1957.0,2,315,3,3,0,0,0,219,0,9,2007,WD ,3964,1872,3,2.0
+2094,60,RL,60.0,13125,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,7,5,1991,Gable,None,0.0,3,PConc,5,3,3,4,6,GasA,5,Y,5,0,4,1,4,8,8,3,Attchd,1991.0,2,833,3,3,72,192,224,0,0,11,2007,WD ,3998,3231,2,3.5
+1460,60,RL,72.0,9240,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,5,2002,Gable,BrkFace,396.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,7,8,3,BuiltIn,2001.0,3,905,3,3,0,45,0,0,189,9,2008,WD ,4009,3318,4,2.5
+1471,20,RL,70.0,13125,Pave,4,Lvl,4,Inside,2,Norm,Norm,1Fam,1Story,6,5,1998,Gable,BrkFace,215.0,3,PConc,4,3,5,6,1,GasA,5,Y,5,0,3,1,4,7,8,3,Attchd,1997.0,3,508,3,3,140,39,0,0,0,4,2008,WD ,4005,2971,4,3.0
+1509,50,RL,67.0,11767,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,5,6,1995,Gable,None,0.0,3,CBlock,3,3,1,4,1,GasA,5,Y,5,0,3,1,3,6,8,0,Detchd,1946.0,1,240,3,3,0,0,0,0,0,5,2008,WD ,3954,1968,1,1.0
+1922,20,RL,50.0,9250,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,5,7,2005,Gable,None,0.0,3,CBlock,3,3,1,4,2,GasA,3,Y,5,0,3,1,3,6,8,0,Attchd,1954.0,1,260,3,3,390,0,0,0,0,7,2007,WD ,3961,2112,3,1.5
+433,20,RL,36.0,13693,Pave,4,Lvl,4,Inside,3,PosA,PosA,1Fam,1Story,10,5,2007,Hip,Stone,472.0,3,PConc,5,3,5,6,1,GasA,5,Y,5,0,2,1,5,8,8,4,Attchd,2007.0,3,762,3,3,360,50,0,0,0,3,2009,WD ,4016,5304,5,4.5
+460,120,RL,73.0,6472,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,9,5,2008,Hip,BrkFace,500.0,3,PConc,5,3,1,1,1,GasA,5,Y,5,0,2,1,5,6,8,4,Attchd,2008.0,2,539,3,3,192,42,0,0,0,4,2009,WD ,4017,2907,5,2.0
+1116,20,RL,36.0,10206,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,8,5,2007,Gable,Stone,468.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,6,8,4,Attchd,2007.0,2,758,3,3,144,99,0,0,0,10,2008,WD ,4015,3126,4,2.0
+1137,20,RL,60.0,13695,Pave,4,Lvl,4,Inside,3,RRAe,Norm,1Fam,1Story,6,5,2004,Gable,None,0.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,6,8,0,Detchd,2004.0,1,576,3,3,0,78,0,0,0,7,2008,WD ,4011,2228,2,2.0
+53,120,RL,24.0,3203,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,7,5,2006,Gable,BrkFace,14.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,2,1,4,6,8,0,Attchd,2006.0,3,437,3,3,100,116,0,0,0,1,2010,WD ,4016,2290,4,2.0
+2354,60,FV,60.0,9512,Pave,3,Lvl,4,Inside,3,RRAn,Norm,1Fam,2Story,7,5,2006,Gable,None,0.0,3,PConc,4,3,1,5,1,GasA,5,Y,5,0,3,1,4,8,8,5,BuiltIn,2005.0,3,541,3,3,0,246,0,0,0,6,2006,New,4011,3278,4,3.5
+1475,20,RL,70.0,9750,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,2004,Gable,Stone,50.0,3,PConc,4,3,3,6,1,GasA,5,Y,5,0,3,1,4,6,8,0,Attchd,2004.0,1,470,3,3,0,35,0,0,0,6,2008,WD ,4012,2890,4,2.0
+1761,60,RL,68.0,15623,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,10,5,1996,Hip,None,0.0,3,PConc,5,3,4,6,1,GasA,5,Y,5,0,4,1,5,10,8,3,Attchd,1996.0,3,813,3,3,171,78,0,0,0,7,2007,WD ,4003,6872,5,4.5
+842,20,RL,60.0,8072,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,1995,Gable,None,0.0,4,PConc,4,4,1,5,1,GasA,5,Y,5,0,3,1,3,5,8,0,Detchd,2000.0,1,480,3,3,0,64,0,0,0,5,2009,WD ,4003,1980,4,2.0
+2739,80,RL,92.0,11679,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,SLvl,5,5,1962,Gable,Stone,96.0,3,CBlock,3,3,5,5,3,GasA,5,Y,5,0,3,1,3,6,6,2,Attchd,1962.0,3,528,3,3,453,253,144,0,0,5,2006,WD ,3968,3336,1,2.5
+2509,160,FV,79.0,2544,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,2Story,7,5,2005,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,80,2,1,4,4,8,0,Detchd,2005.0,2,480,3,3,0,166,0,0,0,7,2006,WD ,4011,1823,4,2.5
+1007,60,RL,82.0,10832,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,7,5,1996,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,7,8,3,Attchd,1994.0,3,409,3,3,143,46,0,0,0,10,2008,WD ,4002,2607,3,2.5
+2610,50,RL,60.0,9786,Pave,3,Bnk,4,Inside,3,Norm,Norm,1Fam,1.5Fin,6,7,1981,Gable,None,0.0,3,CBlock,3,3,1,3,1,GasA,3,Y,5,0,3,1,4,7,8,4,Attchd,1962.0,2,440,3,3,0,0,0,0,128,6,2006,WD ,3968,2646,3,1.5
+1952,30,RL,63.0,5400,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,5,6,1950,Gable,None,0.0,3,BrkTil,2,3,1,1,1,GasA,5,Y,4,0,2,1,5,4,8,0,Detchd,1920.0,1,216,2,1,0,20,94,0,0,1,2007,WD ,3927,1382,1,1.0
+2719,90,RL,70.0,8235,Pave,4,Lvl,4,Inside,3,Norm,Norm,Duplex,1Story,5,4,1977,Gable,BrkFace,99.0,3,CBlock,3,3,1,3,1,GasA,3,Y,5,0,6,2,3,10,8,0,Attchd,1977.0,2,586,3,3,32,0,0,0,0,5,2006,WD ,3983,3898,2,2.0
+2921,160,RM,96.0,1894,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,2Story,4,5,1970,Gable,None,0.0,3,CBlock,3,3,1,3,1,GasA,3,Y,5,0,3,1,3,6,8,0,CarPort,1970.0,1,286,3,3,0,24,0,0,0,4,2006,WD ,3976,1638,1,1.5
+1966,20,RL,21.0,7903,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,1960,Hip,None,0.0,3,CBlock,3,3,1,3,1,GasA,4,Y,4,0,3,1,3,6,8,0,Attchd,1960.0,2,324,3,3,0,0,0,0,0,5,2007,WD ,3967,2484,3,2.5
+292,50,RL,80.0,9839,Pave,4,Lvl,4,Inside,3,Feedr,Norm,1Fam,1.5Fin,5,2,1950,Gable,None,0.0,3,PConc,3,2,1,1,1,GasA,5,Y,5,0,3,1,3,7,8,4,None,1931.0,0,0,0,1,0,156,0,0,0,5,2010,WD ,3941,2560,2,2.0
+1204,60,RL,90.0,9900,Pave,4,Lvl,4,Inside,3,Feedr,Norm,1Fam,2Story,7,5,1968,Gable,BrkFace,342.0,3,CBlock,3,3,1,4,1,GasA,4,Y,5,0,4,1,3,9,8,4,Attchd,1968.0,2,486,3,3,0,43,0,0,0,4,2008,WD ,3976,2810,3,2.5
+1829,60,RL,78.0,17542,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,7,2003,Gable,None,0.0,3,CBlock,3,3,5,2,5,GasA,3,Y,5,0,3,1,4,9,8,4,Attchd,1974.0,2,518,3,3,220,47,0,0,0,7,2007,WD ,3981,3359,5,3.5
+2419,60,RL,80.0,9073,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,2006,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,8,8,0,Attchd,2006.0,3,440,3,3,100,32,0,0,0,10,2006,New,4012,2230,3,2.5
+391,20,RL,65.0,10140,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,5,1974,Hip,BrkFace,174.0,3,CBlock,4,3,1,1,1,GasA,3,Y,5,0,3,1,3,7,8,3,Attchd,1974.0,2,478,3,3,0,0,0,0,0,8,2009,WD ,3983,2414,3,2.0
+798,50,RL,62.0,9060,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,6,5,1950,Gable,None,0.0,3,BrkTil,3,3,3,3,1,GasA,3,Y,5,0,2,1,3,6,8,0,Detchd,1939.0,1,280,3,2,0,0,0,0,0,10,2009,WD ,3948,1818,1,1.0
+481,60,RL,85.0,8965,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,2003,Gable,None,0.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,8,8,4,Attchd,2003.0,3,400,3,3,0,75,0,0,0,6,2009,WD ,4012,2271,3,3.5
+193,75,RL,49.0,7793,Pave,3,Bnk,4,Corner,3,Norm,Norm,1Fam,2.5Unf,7,7,2005,Gable,None,0.0,3,BrkTil,4,3,1,4,1,GasA,3,N,4,0,3,1,4,8,8,4,Detchd,1928.0,1,315,3,3,0,0,60,0,0,5,2010,WD ,3932,3176,2,1.5
+555,20,RL,88.0,9750,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,1962,Hip,None,0.0,3,CBlock,3,3,1,2,4,GasA,4,Y,5,0,3,1,3,5,8,0,Detchd,1969.0,1,400,3,3,0,28,0,0,0,11,2009,WD ,3971,1960,2,2.0
+899,20,RL,82.0,10206,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,3,3,1952,Flat,None,0.0,3,Slab,0,0,0,0,0,GasW,2,N,3,0,2,1,2,4,7,0,Detchd,1956.0,1,528,3,3,0,0,0,0,0,7,2009,WD ,3961,944,1,1.0
+2357,60,RL,59.0,10140,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,1976,Gable,None,0.0,3,PConc,4,3,1,6,1,GasA,3,Y,5,0,4,1,3,8,8,3,Attchd,1976.0,2,528,3,3,0,28,0,0,259,3,2006,WD ,3982,2496,3,2.5
+328,120,RM,155.0,2394,Pave,4,Low,4,Inside,2,Norm,Norm,Twnhs,1Story,5,6,1973,Gable,None,0.0,3,CBlock,4,3,5,6,1,GasA,5,Y,5,0,2,1,3,5,8,1,Attchd,1973.0,2,253,3,3,174,0,56,0,108,5,2010,WD ,3983,1890,1,2.5
+1356,30,RL,74.0,10267,Pave,4,Lvl,4,Inside,3,RRAn,Norm,1Fam,1Story,6,7,2000,Gable,None,0.0,4,BrkTil,3,4,3,3,5,GasA,5,Y,5,0,2,1,2,5,8,0,Detchd,1961.0,3,275,3,1,0,0,112,0,0,5,2008,WD ,3926,1654,2,2.0
+1154,20,RL,80.0,6360,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,1963,Hip,None,0.0,3,CBlock,4,4,1,5,1,GasA,3,Y,5,0,3,1,3,5,8,0,Attchd,1963.0,1,276,3,3,0,0,0,0,0,1,2008,COD,3971,1728,2,1.0
+1730,60,RL,91.0,10237,Pave,4,Lvl,4,Inside,3,RRAn,Norm,1Fam,2Story,6,5,2007,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,8,8,4,Attchd,2005.0,3,393,3,3,0,72,0,0,0,7,2007,New,4012,2267,3,2.5
+2249,85,RL,78.0,7540,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,1Fam,SFoyer,6,6,1978,Gable,None,0.0,3,CBlock,4,3,4,6,1,GasA,5,Y,5,0,2,1,3,5,8,3,Attchd,1978.0,2,470,3,3,0,0,0,0,192,6,2007,WD ,3985,1800,3,2.0
+1119,60,RL,61.0,9428,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,5,2008,Hip,Stone,310.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,3,1,4,8,8,4,Attchd,2007.0,3,880,3,3,168,108,0,0,0,2,2008,New,4015,2829,4,3.5
+2856,50,RL,72.0,10164,Pave,4,Bnk,4,Inside,3,Norm,Norm,1Fam,1.5Fin,5,5,1950,Gable,None,0.0,3,CBlock,3,2,4,2,1,GasA,2,Y,5,0,3,1,3,6,8,3,Detchd,1939.0,1,240,3,3,0,126,0,0,0,7,2006,WD ,3945,2457,2,2.0
+1394,80,RL,65.0,13825,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,SLvl,5,6,1987,Gable,None,0.0,4,CBlock,3,3,1,1,1,GasA,3,Y,5,0,3,1,3,6,6,0,BuiltIn,1958.0,2,300,3,3,280,34,0,0,0,12,2008,WD ,3966,2134,2,1.5
+2587,80,RL,103.0,7700,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,SLvl,5,7,1956,Gable,None,0.0,3,CBlock,4,3,1,4,1,GasA,5,Y,4,0,3,1,3,6,6,0,Detchd,1993.0,1,684,3,3,0,0,0,0,0,9,2006,WD ,3962,1446,3,1.0
+61,60,RL,21.0,17433,Pave,2,Lvl,4,CulDSac,3,Norm,Norm,1Fam,2Story,8,5,1998,Hip,BrkFace,114.0,3,PConc,5,3,1,1,1,GasA,5,Y,5,0,4,1,4,7,8,3,Attchd,1998.0,3,962,3,3,23,172,0,0,256,1,2010,WD ,4008,4104,5,2.5
+2661,75,RM,85.0,6300,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,2.5Unf,7,6,2005,Gable,None,0.0,3,BrkTil,3,3,1,1,1,GasA,5,Y,5,0,5,1,3,9,8,0,Detchd,1910.0,1,432,2,2,0,341,88,0,0,7,2006,WD ,3916,3330,1,2.0
+2711,80,RL,83.0,10366,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,SLvl,6,7,1964,Gable,None,0.0,4,CBlock,3,3,4,6,1,GasA,3,Y,5,0,2,1,3,4,8,0,Attchd,1964.0,1,336,3,3,77,0,0,0,0,7,2006,WD ,3970,1846,2,1.5
+1147,60,RL,53.0,9291,Pave,3,Lvl,4,Corner,3,RRNe,Norm,1Fam,2Story,6,5,1993,Gable,BrkFace,120.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,7,8,0,Attchd,1993.0,2,506,3,3,144,70,0,0,0,6,2008,WD ,4001,2542,2,2.5
+757,70,RM,64.0,5775,Pave,2,Bnk,4,Corner,2,Feedr,Norm,1Fam,2Story,6,7,2002,Gable,None,0.0,3,BrkTil,3,3,1,1,1,GasA,5,Y,5,0,3,1,4,7,8,0,Attchd,1915.0,1,379,3,3,0,24,112,0,0,2,2009,WD ,3924,1910,1,1.0
+2623,20,RL,52.0,7200,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,4,5,1950,Gable,None,0.0,3,Slab,0,0,0,0,0,GasA,3,Y,4,0,2,1,3,4,8,0,Detchd,1950.0,1,420,3,3,0,29,0,0,0,7,2006,WD ,3956,1040,3,1.0
+2378,160,RL,86.0,2179,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,2Story,6,5,1976,Gable,None,0.0,3,CBlock,4,3,1,5,1,GasA,4,Y,5,0,3,1,3,6,8,3,Attchd,1976.0,2,460,3,3,0,28,0,0,0,7,2006,WD ,3982,2311,3,2.5
+1413,60,RL,85.0,9360,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,6,8,2001,Gable,BrkCmn,216.0,3,CBlock,3,3,1,3,1,GasA,3,Y,5,0,3,1,3,7,8,0,Detchd,1962.0,1,280,3,3,0,236,0,0,0,11,2008,WD ,3970,1890,1,1.5
+1722,120,RL,43.0,6442,Pave,3,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,8,5,2006,Gable,Stone,178.0,3,PConc,4,4,3,6,1,GasA,5,Y,5,0,2,1,4,6,8,4,Attchd,2006.0,2,484,3,3,120,49,0,0,0,10,2007,WD ,4013,2740,5,2.0
+1112,60,RL,72.0,14598,Pave,3,Lvl,4,CulDSac,3,Feedr,Norm,1Fam,2Story,6,5,2007,Gable,Stone,74.0,3,PConc,4,3,3,1,1,GasA,5,Y,5,0,4,1,4,9,8,4,BuiltIn,2007.0,3,668,3,3,100,18,0,0,0,1,2008,WD ,4015,2827,4,2.5
+1623,60,RL,72.0,8637,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,5,2000,Gable,None,0.0,3,PConc,4,3,1,5,1,GasA,4,Y,5,0,3,1,3,7,8,3,Attchd,2000.0,3,451,3,3,256,48,0,0,0,4,2007,WD ,4006,2637,3,3.5
+1201,60,RL,81.0,9120,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,6,1974,Hip,BrkFace,270.0,3,CBlock,3,3,1,5,1,GasA,3,Y,5,0,4,1,4,8,8,3,Attchd,1974.0,2,540,4,3,0,69,0,0,0,7,2008,WD ,3982,2777,3,2.5
+1513,30,RL,90.0,5142,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,4,7,2008,Gable,None,0.0,3,PConc,3,3,1,5,1,GasA,3,Y,5,0,3,1,4,6,8,0,Detchd,1923.0,1,205,3,1,0,0,183,0,0,6,2008,WD ,3931,2241,1,1.5
+957,20,RL,94.0,215245,Pave,1,Low,4,Inside,1,Norm,Norm,1Fam,1Story,7,5,1965,Hip,None,0.0,3,CBlock,4,3,5,5,3,GasW,3,Y,5,0,3,1,3,8,8,4,Attchd,1965.0,2,513,3,3,0,0,0,0,0,6,2009,WD ,3974,4172,4,4.0
+1171,120,FV,60.0,4109,Pave,3,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,9,5,2000,Gable,BrkFace,260.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,2,1,5,5,8,3,Attchd,1999.0,2,484,3,3,124,113,0,0,0,6,2008,WD ,4007,3114,4,3.0
+1145,60,RL,43.0,8285,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,7,5,1992,Gable,None,0.0,3,PConc,4,3,1,6,1,GasA,4,Y,5,0,3,1,4,7,8,0,Attchd,1992.0,3,506,3,3,192,85,0,0,0,5,2008,WD ,4000,2573,2,3.0
+2726,20,RL,60.0,20355,Pave,4,Low,4,Inside,2,Norm,Norm,1Fam,1Story,7,6,1967,Gable,BrkFace,123.0,3,CBlock,4,3,4,3,5,GasA,3,Y,5,0,2,1,3,6,8,4,Attchd,1967.0,1,521,3,3,0,115,168,0,0,6,2006,WD ,3973,3695,5,2.0
+703,60,RM,60.0,3378,Pave,4,HLS,4,Inside,3,Norm,Norm,1Fam,2Story,7,8,1992,Gable,None,0.0,4,CBlock,3,3,1,1,1,GasA,4,Y,5,0,3,1,3,6,8,4,Detchd,1947.0,1,240,3,2,0,0,126,0,0,9,2009,WD ,3955,2040,1,1.5
+760,85,RM,128.0,5160,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,SFoyer,4,6,1950,Hip,None,0.0,4,PConc,4,2,4,4,3,GasA,3,Y,5,0,1,1,4,5,6,0,None,1923.0,0,0,0,1,0,0,105,0,160,7,2009,COD,3932,1750,1,2.0
+1964,20,RL,50.0,7500,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,2003,Hip,None,0.0,3,CBlock,3,3,1,6,1,GasA,5,Y,5,0,3,1,4,6,8,0,Attchd,1959.0,2,286,3,3,0,0,0,0,0,7,2007,WD ,3966,2080,3,2.0
+2512,160,FV,68.0,3735,Pave,4,Lvl,4,FR3,3,Norm,Norm,TwnhsE,2Story,7,5,1999,Hip,BrkFace,218.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,6,8,0,Detchd,1999.0,1,506,3,3,0,34,0,0,0,3,2006,WD ,4005,2143,4,3.5
+159,90,RL,72.0,6979,Pave,4,Lvl,4,Inside,3,Norm,Norm,Duplex,SFoyer,6,5,1980,Gable,None,0.0,3,CBlock,3,3,1,6,1,GasA,4,Y,5,0,0,2,3,4,8,0,Detchd,1980.0,1,576,3,3,264,56,0,0,0,6,2010,WD ,3990,2112,1,2.0
+1281,60,RL,68.0,7056,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,5,1963,Hip,BrkFace,415.0,3,CBlock,3,3,1,4,1,GasA,3,Y,5,0,4,1,3,8,8,3,Attchd,1963.0,2,483,3,3,0,50,0,0,0,10,2008,WD ,3971,2576,3,2.5
+468,60,RL,82.5,11911,Pave,2,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,5,2005,Gable,None,0.0,3,PConc,4,3,4,1,1,GasA,5,Y,5,0,3,1,4,6,8,4,BuiltIn,2005.0,3,400,3,3,100,38,0,0,0,3,2009,WD ,4014,2244,3,2.5
+290,30,RL,62.0,7890,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,6,6,1950,Gable,None,0.0,3,CBlock,3,3,1,3,1,GasA,3,Y,5,0,2,1,3,4,8,4,Detchd,1939.0,1,399,3,3,0,0,0,0,166,3,2010,WD ,3949,1712,2,2.0
+665,30,RL,60.0,10800,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,1950,Gable,None,0.0,3,BrkTil,3,3,1,1,1,GasA,3,N,5,0,2,1,4,4,8,0,Detchd,1980.0,3,576,3,1,0,0,0,0,0,6,2009,WD ,3929,1566,1,1.0
+1463,60,RL,74.0,11250,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,8,5,2002,Gable,None,0.0,3,PConc,4,3,3,1,1,GasA,5,Y,5,0,4,1,4,9,8,4,Attchd,2002.0,1,779,3,3,0,0,0,0,0,5,2008,WD ,4010,3418,4,2.5
+1792,60,RL,77.0,9605,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,2006,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,7,8,0,Attchd,2006.0,2,574,3,3,240,53,0,0,0,7,2007,WD ,4013,2959,4,2.5
+923,20,RL,79.0,14680,Pave,3,HLS,4,Inside,3,Norm,Norm,1Fam,1Story,5,4,1960,Gable,None,0.0,3,CBlock,3,3,1,3,1,GasA,5,Y,5,0,2,1,3,5,8,0,Attchd,1960.0,1,307,3,3,483,0,0,0,115,6,2009,WD ,3969,2546,4,1.0
+500,60,RL,120.0,10208,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,1997,Gable,BrkFace,921.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,7,8,3,Attchd,1996.0,2,889,3,3,220,0,0,0,0,7,2009,WD ,4005,3608,5,2.5
+1408,30,RL,65.0,19550,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,2007,Flat,None,0.0,3,PConc,3,3,5,5,1,GasA,5,Y,5,0,2,1,2,5,8,4,None,1940.0,0,0,0,3,0,39,0,0,0,1,2008,WD ,3948,3098,1,2.0
+331,180,RM,85.0,1491,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,SFoyer,4,6,1972,Gable,None,0.0,3,CBlock,4,3,4,2,6,GasA,5,Y,5,0,1,1,3,3,8,0,None,1972.0,0,0,0,3,96,24,0,0,0,5,2010,WD ,3982,1260,1,2.0
+170,50,RM,60.0,4800,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1.5Fin,4,5,1954,Hip,BrkFace,771.0,3,PConc,3,3,1,5,1,GasA,3,Y,5,0,3,1,3,9,6,4,Basment,1900.0,1,240,3,3,84,0,0,0,0,1,2010,COD,3910,2553,1,2.0
+2192,20,RL,42.0,8172,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,4,5,1955,Gable,None,0.0,3,CBlock,3,3,1,4,1,GasA,3,Y,5,0,2,1,3,4,8,2,Detchd,1959.0,1,355,3,3,0,0,196,0,0,7,2007,WD ,3962,1536,1,1.0
+2571,75,RL,59.0,25419,Pave,4,Lvl,4,Corner,3,Artery,Norm,1Fam,2Story,8,4,1990,Gable,None,0.0,4,PConc,3,3,1,6,2,GasA,4,Y,5,392,4,1,4,8,8,5,Detchd,1918.0,1,795,3,3,0,16,552,0,0,3,2006,WD ,3924,4472,3,3.5
+2314,60,RL,90.0,13031,Pave,2,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,6,5,1996,Gable,None,0.0,3,PConc,4,3,1,5,1,GasA,4,Y,5,0,3,1,3,6,8,3,Attchd,1995.0,3,409,3,3,315,44,0,0,0,7,2006,WD ,4001,2189,3,2.5
+2647,30,RM,72.0,5633,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,1950,Gable,None,0.0,3,BrkTil,3,2,1,1,1,GasA,3,Y,5,0,2,1,3,5,8,0,Detchd,1925.0,1,216,3,1,50,81,123,0,0,7,2006,WD ,3931,1688,1,1.0
+422,60,RL,100.0,14257,Pave,4,Lvl,4,Inside,3,PosN,Norm,1Fam,2Story,9,5,2007,Hip,Stone,726.0,3,PConc,5,3,1,6,1,GasA,5,Y,5,0,4,1,5,10,8,4,BuiltIn,2007.0,3,754,3,3,135,64,0,0,0,6,2009,WD ,4016,4548,5,4.5
+2457,20,RL,75.0,20896,Pave,2,Lvl,4,CulDSac,3,RRAn,Norm,1Fam,1Story,8,5,2006,Gable,None,0.0,3,PConc,5,3,3,6,1,GasA,5,Y,5,0,1,1,5,8,8,5,Attchd,2005.0,3,1134,3,3,192,267,0,0,0,1,2006,New,4011,4174,4,2.5
+1838,120,FV,81.0,4230,Pave,4,Lvl,4,Corner,3,Norm,Norm,TwnhsE,1Story,7,5,2007,Gable,None,0.0,3,PConc,5,4,1,1,1,GasA,5,Y,5,0,2,1,4,5,8,4,Attchd,2006.0,2,466,3,3,0,241,0,0,0,4,2007,New,4013,2704,4,2.0
+2805,60,RL,80.0,15611,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,5,2006,Gable,None,0.0,3,PConc,4,3,4,1,1,GasA,5,Y,5,0,3,1,4,8,8,4,Attchd,2006.0,2,685,4,3,0,51,0,0,0,7,2006,New,4012,2998,4,2.5
+1645,20,RL,89.0,10960,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,5,1984,Hip,None,0.0,3,CBlock,4,3,1,6,1,GasA,3,Y,5,0,3,1,3,5,8,0,Attchd,1984.0,1,480,3,3,0,0,192,0,0,4,2007,COD,3991,2568,3,3.0
+1711,60,RL,61.0,11999,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,5,2004,Hip,BrkFace,340.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,4,1,5,10,8,4,BuiltIn,2003.0,3,656,3,3,104,100,0,0,0,5,2007,WD ,4010,3555,5,2.5
+2825,60,RL,62.0,11060,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,7,5,2005,Gable,None,0.0,3,PConc,5,3,1,1,1,GasA,5,Y,5,0,3,1,4,9,8,5,BuiltIn,2003.0,3,502,3,3,0,274,0,0,0,2,2006,ConLD,4009,3464,1,2.5
+322,20,RL,51.0,13214,Pave,3,HLS,4,Inside,3,Norm,Norm,1Fam,1Story,9,5,2009,Hip,None,0.0,3,PConc,5,3,5,1,1,GasA,5,Y,5,0,3,1,5,10,8,4,Attchd,2009.0,3,746,3,3,144,76,0,0,0,5,2010,WD ,4018,4020,4,2.0
+2103,20,RL,69.0,10235,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,8,5,2007,Gable,Stone,306.0,3,PConc,4,3,4,1,1,GasA,5,Y,5,0,3,1,4,7,8,4,Attchd,2007.0,2,870,3,3,192,64,0,0,0,9,2007,New,4014,3294,4,2.0
+342,20,RL,44.0,13008,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,5,1956,Gable,None,0.0,3,CBlock,2,2,1,3,1,GasA,3,Y,5,0,2,1,3,5,8,0,Attchd,1956.0,1,502,3,3,0,0,0,0,0,10,2009,WD ,3965,1764,3,1.0
+600,20,RL,70.0,7436,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,4,7,1960,Gable,None,0.0,3,CBlock,3,3,1,5,1,GasA,4,Y,5,0,2,1,3,5,8,1,Detchd,1988.0,1,396,3,3,0,0,0,360,0,8,2009,WD ,3969,1788,3,2.0
+488,60,RL,77.0,8123,Pave,3,Lvl,4,Inside,3,RRAn,Norm,1Fam,2Story,6,5,2000,Gable,BrkFace,16.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,3,7,8,3,Attchd,2000.0,3,463,3,3,100,63,0,0,0,6,2009,WD ,4009,2782,3,2.5
+1725,120,RL,64.0,7820,Pave,3,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,9,5,2007,Hip,BrkFace,362.0,3,PConc,5,3,1,1,1,GasA,5,Y,5,0,2,1,5,6,8,4,Attchd,2007.0,2,617,3,3,210,54,0,0,0,12,2007,New,4014,3738,5,2.0
+2246,120,RM,88.5,5568,Pave,3,HLS,4,Inside,2,Norm,Norm,TwnhsE,1Story,8,5,2007,Hip,Stone,473.0,3,PConc,4,3,5,6,1,GasA,4,Y,5,0,2,1,4,5,8,4,Attchd,2006.0,3,495,3,3,123,0,0,0,153,10,2007,New,4013,3198,4,3.5
+2847,50,RL,90.0,8400,Pave,4,Bnk,4,Inside,3,Norm,Norm,1Fam,1.5Fin,6,5,2000,Gable,None,0.0,3,CBlock,3,3,1,2,1,GasA,5,Y,5,0,2,1,3,6,8,4,Attchd,1940.0,1,240,3,3,0,0,108,0,0,6,2006,WD ,3946,2535,2,1.0
+806,60,RL,50.0,9828,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,5,1995,Gable,None,0.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,8,8,3,Attchd,1995.0,2,466,3,3,0,155,0,0,0,6,2009,WD ,4004,3148,2,2.5
+530,60,FV,70.0,9375,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,2004,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,4,1,4,8,8,4,BuiltIn,2003.0,3,615,3,3,182,182,0,0,0,11,2009,WD ,4012,3006,4,2.5
+963,20,RL,65.0,11457,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,6,5,1988,Gable,None,0.0,3,CBlock,4,3,3,6,1,GasA,3,Y,5,0,3,1,4,6,8,3,Attchd,1988.0,1,576,3,3,0,0,169,0,0,3,2009,WD ,3997,2804,4,3.0
+2678,50,RM,63.0,6120,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,3,5,1950,Gable,None,0.0,3,CBlock,3,3,1,3,1,GasA,5,Y,5,0,3,1,3,6,8,0,Detchd,1930.0,1,258,2,3,0,24,0,0,0,11,2006,ConLI,3936,1890,2,2.0
+171,50,RM,77.0,8800,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1.5Fin,4,7,2004,Gable,None,0.0,3,BrkTil,3,2,1,1,1,GasA,4,Y,5,0,3,1,3,7,6,0,None,1910.0,0,0,0,1,0,160,0,0,0,6,2010,WD ,3920,1716,1,1.0
+2401,60,RL,71.0,20431,Pave,2,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,9,5,2006,Hip,BrkFace,870.0,3,PConc,5,3,1,6,1,GasA,5,Y,5,0,4,1,5,10,8,5,Attchd,2006.0,3,706,3,3,0,0,0,0,0,4,2006,New,4011,4576,5,3.5
+805,60,RL,107.0,10560,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,7,5,1994,Gable,None,0.0,4,PConc,4,4,1,6,1,GasA,5,Y,5,0,3,1,4,8,8,3,Attchd,1993.0,2,473,3,3,400,100,144,0,0,8,2009,WD ,4002,2958,2,3.5
+2259,20,RL,50.0,19958,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,8,1995,Hip,BrkFace,1224.0,4,CBlock,3,3,1,1,1,GasA,4,Y,5,0,4,1,4,7,8,4,Attchd,1958.0,2,461,3,3,274,0,0,0,138,7,2007,WD ,3965,2864,4,2.5
+1748,80,RL,55.0,11084,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,SLvl,7,5,2004,Gable,None,0.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,8,8,4,BuiltIn,2004.0,3,400,3,3,100,0,0,0,0,6,2007,WD ,4011,1758,3,3.5
+1361,70,RM,60.0,10266,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,6,1952,Gable,None,0.0,3,CBlock,3,3,1,3,1,GasA,3,Y,4,0,4,1,3,7,8,0,Detchd,1952.0,1,308,3,3,0,216,80,0,0,5,2008,COD,3960,2304,1,1.5
+1677,160,RM,74.0,1890,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,2Story,6,5,1973,Gable,BrkFace,285.0,3,CBlock,3,3,1,4,1,GasA,3,Y,5,0,3,1,3,7,8,0,Detchd,1973.0,1,264,3,3,144,28,0,0,0,5,2007,WD ,3980,1890,1,1.5
+1406,20,RL,68.0,10452,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,5,1953,Hip,Stone,216.0,3,CBlock,3,3,3,3,1,GasA,5,Y,5,0,3,1,3,5,8,4,Attchd,1953.0,2,495,3,3,0,0,0,0,287,6,2008,WD ,3961,2188,1,1.0
+2322,60,RL,50.0,23257,Pave,1,HLS,4,CulDSac,3,Norm,Norm,1Fam,2Story,7,5,2006,Gable,None,0.0,3,PConc,5,4,1,1,1,GasA,5,Y,5,0,3,1,4,9,8,4,BuiltIn,2006.0,2,422,3,3,0,100,0,0,0,9,2006,New,4012,2889,3,2.5
+688,60,RL,50.0,7570,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,6,5,1964,Gable,BrkFace,420.0,3,CBlock,3,3,1,1,1,GasA,3,Y,5,0,4,1,3,8,8,0,Attchd,1964.0,1,483,3,3,0,55,0,0,0,3,2009,WD ,3973,2586,3,1.5
+143,20,RL,75.0,8400,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,6,1957,Gable,None,0.0,4,CBlock,3,3,1,3,1,GasA,3,Y,5,0,3,1,3,5,8,0,Attchd,1957.0,2,294,3,3,250,0,0,0,0,6,2010,WD ,3967,2628,3,2.0
+804,60,RL,62.0,9317,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,1993,Gable,BrkFace,137.0,3,PConc,4,3,1,5,1,GasA,5,Y,5,0,3,1,4,7,8,3,Attchd,1993.0,1,425,3,3,234,72,192,0,0,7,2009,WD ,4002,2515,2,3.5
+1214,80,RL,73.0,9020,Pave,4,Lvl,4,Corner,3,Feedr,Norm,1Fam,SLvl,6,5,1964,Gable,BrkFace,259.0,3,CBlock,3,3,5,6,3,GasA,3,Y,5,0,3,1,3,6,8,0,Attchd,1964.0,2,520,3,3,176,0,0,0,0,6,2008,WD ,3972,2598,3,2.5
+2828,180,RM,30.0,3675,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,SFoyer,6,5,2006,Gable,BrkFace,82.0,3,PConc,4,3,5,6,1,GasA,4,Y,5,0,2,1,3,5,8,0,Basment,2005.0,3,525,3,3,0,44,0,0,0,10,2006,New,4011,1619,1,2.0
+1999,190,C (all),112.0,7200,Pave,4,Lvl,4,Corner,3,Norm,Norm,2fmCon,2.5Unf,6,6,1998,Hip,None,0.0,3,BrkTil,3,2,3,3,1,GasW,5,N,5,0,4,2,3,9,8,4,Detchd,1900.0,1,506,3,3,0,0,0,0,99,11,2007,WD ,3917,3505,1,2.5
+2467,60,FV,76.0,8125,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,2006,Gable,None,0.0,3,PConc,4,4,1,1,1,GasA,5,Y,5,0,3,1,4,6,8,0,Attchd,2006.0,2,614,3,3,0,50,0,0,0,8,2006,New,4012,2346,4,2.5
+2665,70,RM,105.0,7200,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,7,7,1950,Hip,None,0.0,3,BrkTil,2,3,1,1,1,GasA,5,Y,5,0,4,1,4,8,8,0,Detchd,1989.0,1,576,3,1,36,0,221,0,0,10,2006,WD ,3926,2358,1,2.5
+1538,50,RL,60.0,14100,Pave,3,Lvl,4,Inside,2,Norm,Norm,1Fam,1.5Fin,8,9,1997,Gable,BrkFace,632.0,4,CBlock,3,3,3,3,1,GasA,5,Y,5,0,4,1,4,11,8,4,BuiltIn,1982.0,1,1014,3,3,314,12,0,0,0,5,2008,WD ,3943,4175,4,3.5
+398,20,RL,48.0,7038,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,4,6,1970,Gable,None,0.0,3,CBlock,3,3,1,5,1,GasA,3,Y,5,0,3,1,3,5,8,0,Detchd,2001.0,1,576,3,3,210,0,0,0,0,9,2009,WD ,3979,1728,3,2.0
+2822,20,RL,125.0,16133,Pave,4,HLS,4,Inside,3,Norm,Norm,1Fam,1Story,5,4,1969,Gable,None,0.0,3,CBlock,4,3,3,5,1,GasA,3,Y,5,0,2,1,3,5,8,0,Attchd,1969.0,1,360,3,3,0,92,0,0,112,12,2006,WD ,3975,2352,1,2.0
+2157,120,RM,75.0,4435,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,6,5,2003,Gable,BrkFace,170.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,1,1,4,3,8,0,Attchd,2003.0,3,420,3,3,140,0,0,0,0,11,2007,WD ,4010,1696,4,2.0
+1856,80,RL,43.0,16157,Pave,3,Lvl,4,FR2,3,Feedr,Norm,1Fam,SLvl,5,7,1978,Gable,None,0.0,3,PConc,4,3,5,5,3,GasA,5,Y,5,0,2,1,4,5,8,3,Attchd,1978.0,1,588,3,3,168,180,0,0,0,6,2007,WD ,3985,2792,5,2.5
+1269,20,RL,24.0,7200,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,1950,Hip,None,0.0,3,CBlock,0,0,0,0,0,GasA,4,Y,5,0,3,1,3,7,7,0,Detchd,1950.0,1,420,3,3,0,27,0,0,0,7,2008,WD ,3958,1048,3,1.0
+2570,20,RL,70.0,9000,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,1954,Gable,None,0.0,3,CBlock,3,3,1,2,1,GasA,3,Y,5,0,2,1,3,5,7,0,Attchd,1954.0,1,286,3,3,0,0,0,0,0,6,2006,WD ,3960,2064,3,1.0
+2320,60,RL,98.0,10463,Pave,3,HLS,4,CulDSac,3,Norm,Norm,1Fam,2Story,8,5,2005,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,8,8,4,Attchd,2005.0,3,800,3,3,0,116,0,0,0,6,2006,WD ,4011,2694,3,2.5
+1517,70,RH,89.0,12155,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,8,1950,Gable,None,0.0,3,BrkTil,3,3,1,4,1,GasA,3,N,5,0,4,1,2,7,8,0,Detchd,1934.0,1,400,3,2,0,0,254,0,0,3,2008,WD ,3933,2154,2,2.0
+2304,20,RL,24.0,10712,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,1992,Gable,None,0.0,3,PConc,4,3,3,4,1,GasA,3,Y,5,0,3,1,3,5,8,0,None,1991.0,0,0,0,3,0,28,0,0,0,9,2007,Oth,3998,1948,3,1.0
+1312,50,RM,68.0,9143,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1.5Fin,5,7,2003,Gable,None,0.0,3,CBlock,3,3,1,1,1,GasA,5,Y,5,0,2,1,3,5,8,0,Detchd,1961.0,1,308,3,1,0,0,139,0,0,5,2008,WD ,3908,1363,1,1.0
+2012,50,RM,63.0,6000,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,6,6,1950,Gable,None,0.0,4,BrkTil,3,4,1,5,1,GasA,5,Y,5,0,3,1,3,6,8,4,Detchd,2003.0,1,440,3,3,0,0,0,0,0,3,2007,WD ,3948,1953,2,1.5
+506,60,RL,82.5,29959,Pave,2,Lvl,4,FR2,3,Norm,Norm,1Fam,2Story,7,6,1994,Gable,None,0.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,7,8,4,BuiltIn,1994.0,3,467,3,3,168,98,0,0,0,1,2009,WD ,4003,2823,5,2.5
+2865,70,RL,113.0,16560,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,8,1950,Gable,None,0.0,3,BrkTil,4,3,1,3,1,GasA,3,Y,5,0,4,1,3,9,8,4,Detchd,1932.0,1,360,3,3,0,0,0,0,0,7,2006,WD ,3938,3297,4,2.5
+2367,160,RM,82.0,1953,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,2Story,6,5,1973,Gable,BrkFace,408.0,3,CBlock,3,2,1,4,1,GasA,3,Y,5,0,2,1,3,5,8,0,Detchd,1973.0,1,264,3,3,72,0,0,0,0,6,2006,WD ,3979,1470,1,1.5
+554,45,RH,65.0,9000,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1.5Unf,6,3,1950,Gable,None,0.0,3,BrkTil,2,2,1,1,1,GasA,3,N,4,0,2,1,3,5,8,0,Detchd,1950.0,1,360,2,1,0,0,91,0,0,10,2009,WD ,3937,1568,2,1.0
+238,20,RL,78.0,9571,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,6,1956,Gable,None,0.0,3,CBlock,3,3,4,4,1,GasA,3,Y,5,0,3,1,3,6,8,0,Attchd,1956.0,1,596,3,3,44,0,0,0,0,6,2010,WD ,3966,2288,1,2.0
+1954,20,RL,74.0,8700,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,1961,Gable,BrkFace,53.0,3,CBlock,3,3,1,5,1,GasA,4,Y,5,0,3,1,3,5,8,0,Attchd,1961.0,1,240,3,3,0,0,0,0,0,2,2007,COD,3968,1808,3,1.5
+2488,90,RM,60.0,8927,Pave,4,Lvl,4,Inside,3,RRAe,Norm,Duplex,1.5Fin,6,6,1977,Gable,None,0.0,4,CBlock,0,0,0,0,0,GasA,3,Y,5,0,4,2,3,10,8,0,Attchd,1977.0,2,528,3,3,0,0,0,0,0,8,2006,WD ,3983,1654,2,2.0
+2291,160,RM,102.0,1890,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,2Story,4,3,1976,Gable,None,0.0,3,CBlock,3,3,1,1,1,GasA,5,Y,5,0,3,1,3,6,8,0,Attchd,1976.0,1,286,3,3,0,0,0,0,0,4,2007,COD,3983,1638,1,1.5
+1969,20,RL,70.0,7000,Pave,4,Lvl,4,Corner,3,Feedr,Norm,1Fam,1Story,5,6,1961,Gable,None,0.0,3,Slab,0,0,0,0,0,GasA,4,Y,5,0,3,1,3,7,8,0,Attchd,1961.0,3,300,3,3,0,0,0,0,0,7,2007,WD ,3968,925,3,1.0
+2725,20,RL,24.0,14175,Pave,4,Bnk,4,Corner,2,Norm,Norm,1Fam,1Story,5,6,1987,Gable,None,0.0,3,CBlock,3,3,1,3,1,GasA,4,Y,5,0,3,1,3,6,6,3,Detchd,1999.0,1,576,3,3,304,0,0,0,0,11,2006,WD ,3962,2625,2,2.5
+1482,120,RM,82.5,4426,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,6,5,2004,Gable,BrkFace,147.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,1,1,4,3,8,3,Attchd,2004.0,2,420,3,3,149,0,0,0,0,5,2008,WD ,4012,1696,4,2.0
+2763,60,RL,60.0,9316,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,2005,Gable,BrkFace,532.0,3,PConc,4,3,4,1,1,GasA,5,Y,5,0,3,1,4,6,8,0,Attchd,2005.0,2,610,3,3,144,45,0,0,0,6,2006,WD ,4011,2380,4,2.5
+503,60,RL,21.0,9085,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,1996,Gable,BrkFace,286.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,7,8,3,Attchd,1995.0,3,647,3,3,296,102,209,0,0,11,2009,WD ,4004,3131,5,3.5
+1584,20,RL,78.0,11202,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,8,5,2003,Hip,BrkFace,206.0,3,PConc,5,3,4,6,1,GasA,5,Y,5,0,3,1,4,7,8,3,Attchd,2003.0,3,467,3,3,185,95,0,0,0,6,2008,WD ,4011,2872,4,3.0
+1531,70,RL,65.0,9650,Pave,3,HLS,4,Corner,3,Norm,Norm,1Fam,2Story,6,3,1950,Hip,None,0.0,3,BrkTil,3,3,1,1,1,GasA,3,Y,5,0,4,1,3,7,8,4,Attchd,1980.0,1,599,3,3,0,217,0,0,0,6,2008,WD ,3931,2387,4,1.0
+2210,90,RH,22.0,7136,Pave,3,HLS,4,Inside,3,Norm,Norm,Duplex,2Story,6,6,1950,Gable,BrkFace,423.0,3,CBlock,4,3,1,3,1,GasA,3,N,3,0,4,2,3,8,8,0,Attchd,1946.0,1,492,3,3,0,0,0,0,0,8,2007,WD ,3953,2937,4,2.0
+459,120,RL,75.0,7390,Pave,3,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,9,5,2009,Hip,BrkFace,308.0,3,PConc,5,3,1,6,1,GasA,5,Y,5,0,2,1,5,6,8,4,Attchd,2008.0,3,649,3,3,231,90,0,0,0,5,2009,New,4017,3768,5,3.0
+556,20,RL,75.0,7064,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,6,1977,Gable,BrkFace,153.0,3,CBlock,3,3,1,4,1,GasA,3,Y,5,0,3,1,3,6,8,0,Detchd,1986.0,1,484,3,3,192,0,0,0,0,7,2009,WD ,3986,1960,2,1.0
+1347,70,RM,62.0,6120,Pave,4,Lvl,4,Inside,3,Artery,Norm,1Fam,2Story,5,5,1950,Gambrel,None,0.0,3,BrkTil,3,3,1,2,1,GasA,3,Y,5,0,4,1,3,7,8,0,Detchd,1960.0,1,576,3,3,0,139,55,0,0,10,2008,WD ,3931,3002,1,2.0
+1290,30,RM,81.0,4800,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,5,4,1950,Gable,None,0.0,3,CBlock,2,3,1,1,1,GasA,3,Y,5,0,2,1,3,4,8,0,Detchd,1950.0,1,256,3,3,0,0,0,0,0,8,2008,WD ,3948,1344,1,1.0
+1388,20,RL,75.0,9000,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,3,1959,Gable,None,0.0,3,CBlock,3,3,1,6,1,GasA,3,Y,5,0,3,1,3,5,8,0,None,1959.0,0,0,0,3,0,24,0,0,0,7,2008,WD ,3967,2012,2,1.0
+1571,190,RL,60.0,164660,Grvl,3,HLS,4,Corner,1,Norm,Norm,2fmCon,1.5Fin,5,6,1965,Gable,None,0.0,3,CBlock,3,3,5,5,4,GasA,5,Y,5,0,3,1,3,7,8,4,Attchd,1965.0,3,529,3,3,670,0,0,0,0,8,2008,WD ,3973,3285,4,4.0
+2754,20,RL,50.0,6762,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,2006,Gable,None,0.0,3,PConc,4,4,4,1,1,GasA,5,Y,5,0,2,1,4,6,8,4,Attchd,2006.0,2,662,3,3,168,55,0,0,0,7,2006,New,4012,2580,4,2.0
+765,90,RL,60.0,10547,Pave,3,Lvl,4,Inside,3,Norm,Norm,Duplex,SFoyer,5,5,1978,Gable,None,0.0,3,PConc,4,4,5,6,1,GasA,3,Y,5,0,2,2,3,6,8,0,Detchd,1960.0,1,252,3,1,0,0,0,0,0,7,2009,WD ,3987,2304,1,4.0
+2494,20,RL,60.0,13052,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,1Fam,1Story,5,6,1965,Gable,None,0.0,3,CBlock,3,3,1,3,1,GasA,3,Y,5,0,3,1,3,5,8,0,Attchd,1965.0,1,308,3,3,0,0,0,0,0,1,2006,WD ,3971,2048,2,1.5
+2870,60,RL,70.0,15600,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,5,7,1963,Gable,BrkFace,405.0,4,CBlock,4,3,1,6,1,GasA,4,Y,5,0,4,1,3,9,8,4,Attchd,1950.0,3,342,3,3,0,0,0,0,192,7,2006,WD ,3956,3483,4,3.0
+7,120,RL,80.0,4920,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,8,5,2001,Gable,None,0.0,3,PConc,4,3,3,6,1,GasA,5,Y,5,0,2,1,4,6,8,0,Attchd,2001.0,3,582,3,3,0,0,170,0,0,4,2010,WD ,4011,2676,5,3.0
+1114,20,RL,50.0,13253,Pave,3,Lvl,4,Inside,3,RRAn,Norm,1Fam,1Story,7,5,2006,Gable,BrkFace,128.0,3,PConc,5,3,1,6,1,GasA,4,Y,5,0,3,1,4,7,8,4,Attchd,2006.0,1,642,3,3,0,26,0,0,0,5,2008,WD ,4014,3156,4,3.0
+2418,60,RL,65.0,11631,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,8,5,2005,Gable,BrkFace,236.0,3,PConc,4,3,4,1,1,GasA,5,Y,5,0,4,1,4,9,8,4,BuiltIn,2004.0,3,632,3,3,120,46,0,0,0,6,2006,New,4010,3425,3,2.5
+291,90,RH,40.0,7200,Pave,4,Lvl,4,Inside,3,Norm,Norm,Duplex,2Story,4,6,1967,Flat,None,0.0,3,Slab,0,0,0,0,0,GasA,3,Y,5,0,6,2,3,10,6,0,None,1967.0,0,0,0,3,0,0,0,0,0,2,2010,WD ,3977,2650,2,3.0
+18,20,RL,21.0,11394,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,9,2,2010,Hip,Stone,350.0,3,PConc,5,3,4,6,1,GasA,5,Y,5,0,1,1,5,8,8,5,Attchd,2010.0,3,834,3,3,113,0,0,0,0,6,2010,New,4020,3712,5,2.5
+39,20,RL,61.0,10159,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,9,5,2010,Hip,Stone,450.0,3,PConc,5,3,4,6,1,GasA,5,Y,5,0,3,1,5,8,8,4,Attchd,2010.0,3,606,3,3,168,95,0,0,0,4,2010,New,4019,3870,5,3.5
+1001,120,RL,63.0,6264,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,8,5,1997,Gable,None,0.0,3,PConc,5,3,3,6,1,GasA,5,Y,5,0,1,1,4,6,7,3,Attchd,1997.0,3,528,3,3,0,0,0,0,0,7,2008,WD ,4005,3346,5,2.5
+2442,60,RL,122.0,8738,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,1999,Gable,BrkFace,302.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,4,1,4,8,8,3,BuiltIn,1999.0,3,429,3,3,192,0,0,0,0,2,2006,WD ,4005,3266,3,2.5
+616,50,RL,91.0,7015,Pave,3,Bnk,4,Corner,3,Norm,Norm,1Fam,1.5Fin,5,4,1950,Gable,BrkCmn,161.0,3,CBlock,3,3,1,2,1,GasA,3,Y,5,0,3,1,4,5,8,3,Detchd,1950.0,1,352,3,3,0,0,248,0,0,7,2009,WD ,3959,1912,2,2.0
+2680,50,RM,60.0,6240,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,4,5,1950,Gable,None,0.0,3,Slab,0,0,0,0,0,GasA,4,N,5,0,2,1,3,3,8,0,None,1947.0,0,0,0,1,0,0,0,0,0,7,2006,WD ,3953,912,2,1.0
+1414,50,RL,63.0,8405,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,5,8,1950,Gable,None,0.0,3,BrkTil,3,4,1,3,4,GasA,5,Y,5,0,4,1,3,7,8,0,Detchd,1978.0,1,384,3,3,0,130,112,0,0,4,2008,WD ,3908,2228,1,2.0
+289,50,RL,72.0,5000,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,5,6,1950,Gable,None,0.0,3,BrkTil,3,3,1,2,1,GasA,3,Y,5,0,3,1,4,6,8,4,Detchd,1924.0,1,308,3,3,0,0,242,0,0,5,2010,WD ,3934,2717,2,2.0
+40,20,RL,62.0,12883,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,8,5,2010,Gable,Stone,256.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,7,8,0,Attchd,2009.0,2,868,3,3,0,35,0,0,0,6,2010,New,4019,3088,5,2.0
+860,20,RL,80.0,7200,Pave,4,Low,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,1972,Hip,None,0.0,3,CBlock,3,3,4,3,1,GasA,3,Y,5,0,2,1,3,6,8,0,Detchd,1985.0,2,600,3,3,215,0,0,0,0,9,2009,WD ,3981,1788,4,1.0
+409,120,RL,69.0,4928,Pave,3,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,6,6,1976,Gable,None,0.0,3,CBlock,4,3,1,2,1,GasA,3,Y,5,0,2,1,3,5,8,0,Attchd,1976.0,2,440,3,3,0,60,0,0,0,10,2009,WD ,3985,1916,3,2.0
+673,20,RL,87.0,8712,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,2000,Hip,None,0.0,4,CBlock,3,3,3,4,1,GasA,3,Y,5,0,2,1,3,5,8,0,Detchd,1968.0,1,756,3,3,0,0,0,0,0,5,2009,WD ,3966,2298,3,2.0
+2427,120,RL,24.0,3010,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,7,5,2006,Gable,BrkFace,14.0,3,PConc,4,3,5,6,1,GasA,5,Y,5,0,2,1,4,6,8,0,Attchd,2005.0,3,440,3,3,90,0,0,0,0,6,2006,New,4011,2284,4,2.0
+2036,60,RM,88.5,9780,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,9,2005,Gable,None,0.0,5,CBlock,3,3,1,2,3,GasA,5,Y,5,0,4,1,4,8,8,3,Detchd,1950.0,3,299,3,3,285,0,0,0,216,4,2007,WD ,3957,2928,1,1.5
+2564,60,RL,84.0,9462,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,5,6,1973,Gable,None,0.0,3,CBlock,3,3,1,1,1,GasA,4,Y,4,0,3,1,3,7,7,4,Attchd,1949.0,1,234,3,3,245,60,0,0,0,7,2006,WD ,3955,2432,3,1.5
+642,90,RL,53.0,9482,Pave,4,Lvl,4,Inside,3,Norm,Norm,Duplex,1Story,5,4,1958,Hip,BrkFace,657.0,3,PConc,3,3,1,1,1,GasA,5,Y,5,0,4,2,3,8,8,0,Detchd,1958.0,1,495,3,3,0,0,0,0,0,12,2009,WD ,3967,3732,3,2.0
+1008,60,RL,78.0,14067,Pave,4,Lvl,4,FR3,3,Norm,Norm,1Fam,2Story,6,5,1991,Gable,BrkFace,194.0,3,PConc,4,3,1,5,1,GasA,4,Y,5,0,3,1,4,7,8,0,Attchd,1991.0,3,416,3,3,0,40,0,0,0,9,2008,WD ,3999,2545,3,3.5
+1908,90,RL,96.0,11345,Pave,4,Lvl,4,Corner,3,Feedr,Norm,Duplex,2Story,5,5,1950,Gable,Stone,567.0,3,CBlock,3,3,1,3,1,GasA,4,Y,4,0,4,2,3,10,8,0,Detchd,1948.0,1,400,3,3,0,0,0,0,0,7,2007,WD ,3955,2848,3,2.0
+2519,120,RL,51.0,3760,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,Twnhs,1Story,8,5,1980,Gable,None,0.0,3,CBlock,4,3,5,6,2,GasA,4,Y,5,0,1,1,3,4,8,3,Attchd,1980.0,3,484,3,3,133,78,0,0,0,5,2006,WD ,3986,2470,4,2.0
+1369,30,RM,60.0,10320,Pave,4,Lvl,4,Inside,3,RRNe,Norm,1Fam,1Story,5,8,1991,Gable,None,0.0,3,BrkTil,2,3,1,1,1,GasA,3,Y,5,0,1,1,3,5,8,0,Detchd,1997.0,1,576,3,1,40,0,0,0,0,8,2008,ConLD,3920,1210,1,1.0
+2855,70,RL,63.0,7588,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,6,1950,Gable,None,0.0,3,BrkTil,2,3,1,2,1,GasA,4,Y,5,0,4,1,3,9,8,4,Detchd,1920.0,1,216,2,3,0,0,40,0,0,7,2006,WD ,3926,2595,4,1.5
+712,30,RM,68.0,8520,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,8,1950,Gable,None,0.0,3,PConc,2,3,1,1,1,GasA,3,Y,5,0,2,1,3,5,8,0,Detchd,1963.0,1,287,3,3,0,0,81,0,0,2,2009,WD ,3932,1416,1,1.0
+1943,50,RL,74.0,14190,Pave,4,Lvl,4,Inside,3,Artery,Norm,1Fam,1.5Fin,4,7,2006,Gable,None,0.0,4,CBlock,2,3,1,1,1,GasA,4,Y,5,0,3,1,3,7,8,0,None,1890.0,0,0,0,1,231,0,0,0,0,4,2007,WD ,3897,2469,1,2.0
+1958,20,RL,112.0,11664,Pave,4,Lvl,4,Inside,3,Artery,Norm,1Fam,1Story,6,5,1950,Gable,BrkFace,206.0,3,CBlock,3,2,1,4,1,GasA,3,Y,5,0,2,1,3,5,8,4,Detchd,1948.0,1,240,3,3,0,130,0,0,0,11,2007,WD ,3955,2164,3,1.0
+107,120,RL,60.0,4420,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,TwnhsE,1Story,8,5,1980,Gable,None,0.0,3,CBlock,4,3,5,6,1,GasA,3,Y,5,0,1,1,4,3,8,3,Detchd,1980.0,3,484,3,3,133,42,0,0,0,6,2010,WD ,3990,1516,4,2.0
+2295,20,RL,70.0,33983,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,6,1994,Gable,None,0.0,2,PConc,3,3,3,5,1,GasA,3,Y,5,0,3,1,4,6,5,3,Attchd,1977.0,2,672,3,2,690,90,0,0,0,5,2007,WD ,3984,2836,3,2.5
+704,50,RM,55.0,10134,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,5,5,1950,Gable,None,0.0,3,BrkTil,2,3,1,1,1,GasA,4,N,5,0,3,1,3,6,8,0,None,1910.0,0,0,0,1,80,0,244,0,0,7,2009,WD ,3919,2248,1,1.0
+676,40,RL,21.0,12144,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,1950,Gable,None,0.0,3,CBlock,3,3,1,3,1,GasA,4,Y,5,232,3,1,3,6,8,4,Attchd,1949.0,1,288,3,3,0,28,0,0,0,9,2009,WD ,3958,2100,3,1.0
+259,60,RL,75.0,8750,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,5,1998,Gable,BrkFace,116.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,7,8,0,Attchd,1998.0,2,523,3,3,0,77,0,0,0,6,2010,WD ,4008,2486,4,2.5
+93,60,RL,24.0,11134,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,5,1993,Gable,BrkFace,180.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,4,1,4,7,8,3,Attchd,1992.0,2,713,3,3,198,30,0,0,0,6,2010,WD ,4002,3615,5,3.5
+106,60,FV,70.0,7379,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,5,2000,Gable,None,0.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,7,8,3,Attchd,2000.0,2,592,3,3,280,184,0,0,0,4,2010,WD ,4010,2823,4,3.5
+2315,60,RL,70.0,9783,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,5,1996,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,4,Y,5,0,3,1,3,7,8,3,BuiltIn,1996.0,3,443,3,3,286,116,0,0,0,5,2006,WD ,4002,2597,3,2.5
+1050,20,RL,85.0,9477,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,5,5,1966,Gable,BrkFace,65.0,3,CBlock,3,3,1,3,1,GasA,3,Y,5,0,3,1,3,5,8,0,Attchd,1966.0,2,264,3,3,0,0,0,0,0,10,2008,WD ,3974,1756,3,1.0
+1095,60,RL,75.0,15384,Pave,3,Lvl,4,Inside,3,RRAn,Norm,1Fam,2Story,7,5,2005,Gable,None,0.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,3,1,4,8,8,4,Attchd,2004.0,3,388,3,3,100,75,0,0,0,2,2008,WD ,4012,2278,3,3.5
+2709,20,RL,63.0,11327,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,6,1967,Hip,BrkFace,305.0,3,CBlock,3,3,4,5,1,GasA,3,Y,5,0,3,1,3,6,8,3,Attchd,1967.0,1,528,3,3,314,48,0,0,0,6,2006,WD ,3973,2128,2,1.5
+758,190,RM,50.0,5852,Pave,1,Bnk,4,Corner,3,Feedr,Norm,2fmCon,2.5Unf,7,5,2000,Gable,Stone,188.0,2,BrkTil,3,2,1,3,1,GasA,3,N,3,0,6,1,3,9,8,0,None,1902.0,0,0,0,1,0,188,102,0,0,5,2009,WD ,3911,2884,1,2.5
+1496,60,RL,50.0,7200,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,7,2001,Hip,None,0.0,3,CBlock,3,3,4,5,1,GasA,3,Y,5,0,3,1,3,6,8,3,Attchd,1976.0,3,440,3,3,0,0,0,0,0,2,2008,WD ,3984,2082,1,1.5
+2370,160,RM,119.0,1680,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,2Story,6,7,1972,Gable,BrkFace,281.0,3,CBlock,3,3,1,4,1,GasA,4,Y,5,0,3,1,3,7,8,0,Detchd,1972.0,1,264,3,3,0,28,0,0,0,5,2006,WD ,3978,1890,1,2.0
+2458,20,RL,78.0,10182,Pave,3,Lvl,4,CulDSac,3,RRNn,Norm,1Fam,1Story,8,5,2006,Hip,Stone,420.0,3,PConc,5,3,3,6,1,GasA,5,Y,5,0,3,1,4,8,8,4,Attchd,2006.0,2,500,3,3,322,50,0,0,0,5,2006,New,4012,3320,4,3.0
+2733,20,RL,109.0,9375,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,4,5,1954,Gable,None,0.0,4,CBlock,3,3,1,3,1,GasA,5,Y,5,0,3,1,3,6,8,4,Attchd,1954.0,2,504,3,3,237,0,0,0,0,6,2006,WD ,3960,2317,1,1.5
+161,80,RL,90.0,11275,Pave,4,Lvl,4,Corner,3,PosN,Norm,1Fam,SLvl,7,7,2007,Mansard,BrkFace,300.0,4,CBlock,4,3,1,1,1,GasA,5,Y,5,0,5,1,4,11,8,4,BuiltIn,1961.0,3,564,3,3,240,0,0,0,0,6,2010,WD ,3977,3688,3,2.5
+726,70,RM,105.0,9720,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,7,2002,Gable,None,0.0,3,PConc,3,3,1,1,1,GasA,5,Y,5,0,4,1,4,8,8,0,Detchd,1950.0,1,640,3,3,0,0,238,0,0,9,2009,WD ,3919,2262,1,1.0
+845,20,RL,50.0,9017,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,1999,Gable,None,0.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,3,1,4,6,8,0,Attchd,1999.0,3,666,3,3,0,35,0,0,0,9,2009,WD ,4008,2862,4,3.0
+947,60,RL,70.0,10125,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,5,2001,Gable,None,0.0,3,PConc,4,3,1,5,4,GasA,5,Y,5,0,3,1,4,7,8,3,BuiltIn,2000.0,3,642,3,3,210,91,0,0,0,5,2009,WD ,4009,3159,3,2.5
+2232,50,RM,91.0,8500,Pave,4,Lvl,4,Corner,3,Artery,Norm,1Fam,1.5Fin,5,7,2005,Gable,None,0.0,3,CBlock,3,3,1,1,1,GasW,3,N,3,0,3,1,2,7,8,0,None,1919.0,0,0,0,1,0,0,144,0,0,8,2007,WD ,3926,2310,1,2.0
+2563,50,RL,65.0,9490,Pave,4,Lvl,4,Inside,3,Artery,Norm,1Fam,1.5Fin,6,7,1950,Gable,None,0.0,3,CBlock,3,3,1,4,3,GasA,3,Y,4,0,3,1,2,5,8,3,Attchd,1941.0,1,240,3,3,0,0,32,0,0,8,2006,WD ,3947,2384,3,2.0
+2299,20,RL,118.0,27697,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,4,3,1961,Shed,CBlock,198.0,3,CBlock,3,3,1,4,1,GasA,3,N,5,0,3,1,3,6,8,0,Attchd,1961.0,1,444,3,3,152,38,0,0,0,11,2007,COD,3968,3004,3,1.0
+211,50,RL,48.0,10632,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,5,3,1950,Gable,None,0.0,3,BrkTil,4,2,1,1,1,GasA,4,N,5,0,3,1,1,6,5,0,Detchd,1917.0,1,180,2,1,0,0,248,0,0,1,2010,COD,3927,1913,5,1.5
+605,90,RL,55.0,11475,Pave,4,Lvl,4,Corner,3,Norm,Norm,Duplex,1Story,5,5,1958,Gable,BrkFace,95.0,3,CBlock,3,3,1,1,1,GasA,3,Y,5,0,4,2,3,9,8,0,Detchd,1968.0,1,888,3,3,0,25,0,0,0,7,2009,COD,3967,3360,3,3.0
+1478,20,RL,91.0,11049,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,8,5,2007,Gable,None,0.0,3,PConc,5,3,4,1,1,GasA,5,Y,5,0,3,1,4,7,8,0,Attchd,2007.0,2,484,3,3,0,30,0,0,0,1,2008,WD ,4015,2468,4,2.0
+2247,120,RM,71.0,4750,Pave,3,HLS,4,Inside,2,Norm,Norm,TwnhsE,1Story,8,5,2007,Hip,Stone,481.0,3,PConc,4,3,5,6,1,GasA,5,Y,5,0,2,1,4,5,8,4,Attchd,2006.0,3,538,3,3,123,0,0,0,153,12,2007,WD ,4013,3198,4,3.5
+2274,20,RL,66.0,35133,Grvl,4,Lvl,4,Inside,2,Norm,Norm,1Fam,1Story,5,4,1963,Hip,BrkFace,226.0,3,CBlock,3,3,5,3,1,GasA,4,Y,5,0,3,1,3,5,8,3,2Types,1963.0,2,995,3,3,0,263,0,0,263,5,2007,WD ,3970,3144,4,2.5
+2869,20,RL,51.0,12984,Pave,4,Bnk,4,Inside,3,Norm,Norm,1Fam,1Story,5,6,1977,Gable,BrkFace,459.0,3,CBlock,4,3,3,5,2,GasA,5,Y,5,0,3,1,4,7,8,3,Attchd,1977.0,3,621,3,3,0,0,0,0,0,3,2006,WD ,3983,3077,4,3.0
+967,60,RL,80.0,9157,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,7,5,2003,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,9,8,0,Attchd,2003.0,3,486,3,3,124,114,0,0,0,2,2009,WD ,4012,2926,4,2.5
+2656,20,RM,92.0,5820,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,3,8,2005,Gable,None,0.0,4,CBlock,3,3,1,5,1,GasA,5,Y,5,0,3,1,3,6,8,0,Attchd,1955.0,1,220,2,3,142,98,0,0,0,7,2006,WD ,3961,2325,1,2.0
+667,90,RL,72.0,9671,Pave,4,Lvl,4,Corner,3,Artery,Norm,Duplex,2Story,6,5,1969,Gable,Stone,480.0,3,CBlock,3,3,1,1,1,GasA,3,Y,5,0,6,2,3,12,8,0,Attchd,1969.0,2,907,3,3,0,0,0,0,0,8,2009,WD ,3978,3792,3,3.0
+1042,160,RM,75.0,1890,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,2Story,6,6,1972,Gable,BrkFace,422.0,3,CBlock,3,3,1,2,1,GasA,4,Y,5,0,2,1,3,5,8,0,Detchd,1975.0,1,352,3,3,411,0,0,0,0,4,2008,WD ,3980,1470,1,1.5
+2023,70,RL,70.0,13515,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,6,1950,Gambrel,None,0.0,3,PConc,3,3,1,1,1,GasA,5,Y,4,0,3,1,3,8,8,4,Detchd,1940.0,1,520,3,1,0,0,126,0,0,7,2007,WD ,3926,2588,2,1.0
+2447,60,RL,76.0,9233,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,9,5,2000,Gable,BrkFace,877.0,3,PConc,5,3,4,6,1,GasA,5,Y,5,0,4,1,5,9,8,3,Attchd,2000.0,2,774,3,3,247,55,0,0,0,3,2006,WD ,4006,4395,5,3.5
+2055,85,RL,60.0,8400,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,SFoyer,6,5,1966,Gable,None,0.0,3,CBlock,3,3,5,2,3,GasA,4,Y,5,0,3,1,3,6,8,0,Detchd,1990.0,1,240,3,3,0,0,252,0,0,5,2007,WD ,3973,1727,2,2.0
+2275,20,RL,72.0,15306,Pave,3,HLS,4,Corner,3,Norm,Norm,1Fam,1Story,8,5,2007,Gable,Stone,100.0,3,PConc,5,3,5,6,1,GasA,5,Y,5,0,3,1,4,7,8,4,Attchd,2006.0,3,712,3,3,0,0,0,0,0,5,2007,New,4013,3508,4,3.0
+2204,50,RL,70.0,7642,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1.5Fin,7,8,1998,Gable,None,0.0,3,BrkTil,3,3,1,1,1,GasA,4,Y,5,0,3,1,4,7,8,4,Detchd,1925.0,1,216,3,3,0,240,0,0,0,6,2007,WD ,3925,2338,4,1.5
+1563,120,RM,90.0,3842,Pave,3,HLS,4,Inside,2,Norm,Norm,TwnhsE,1Story,8,5,2005,Hip,Stone,174.0,3,PConc,5,3,5,6,1,GasA,5,Y,5,0,2,1,4,5,8,4,Attchd,2004.0,3,482,3,3,128,53,0,0,155,1,2008,WD ,4012,3240,4,3.5
+483,120,RL,95.0,5063,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,1Story,7,5,2008,Gable,Stone,166.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,2,1,4,6,8,4,Attchd,2008.0,2,626,3,3,172,62,0,0,0,4,2009,ConLw,4016,2628,5,3.0
+796,120,RL,60.0,4235,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,5,5,1984,Gable,BrkFace,149.0,3,CBlock,4,3,3,6,5,GasA,3,Y,5,0,2,1,4,5,8,0,Attchd,1984.0,3,266,3,3,0,105,0,0,0,2,2009,WD ,3993,2098,1,3.0
+1526,70,RL,65.0,15576,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,7,1976,Gable,None,0.0,3,BrkTil,4,3,1,1,1,GasA,5,Y,5,0,4,1,3,8,8,0,Attchd,1960.0,1,308,3,3,0,0,160,0,0,3,2008,WD ,3923,2520,4,2.0
+2042,190,RM,73.0,10120,Pave,3,Bnk,4,Inside,3,Feedr,Norm,2fmCon,2.5Unf,7,4,1950,Hip,None,0.0,3,CBlock,3,3,1,1,1,GasA,3,N,3,0,4,2,3,9,8,4,Detchd,1960.0,1,308,3,1,0,0,264,0,0,1,2007,WD ,3917,2814,1,1.5
+442,20,RL,92.0,13514,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,9,5,2008,Hip,None,285.0,3,PConc,5,3,1,6,1,GasA,5,Y,5,0,3,1,5,7,8,4,Attchd,2008.0,3,850,3,3,200,26,0,0,0,3,2009,WD ,4017,3582,5,3.0
+1693,60,RL,64.0,13440,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,5,2007,Hip,BrkFace,190.0,3,PConc,5,3,1,1,1,GasA,5,Y,5,0,4,1,5,11,8,4,BuiltIn,2006.0,3,670,3,3,120,39,0,0,0,3,2007,New,4013,3658,5,2.5
+1468,60,RL,79.0,8750,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,1995,Gable,None,0.0,4,PConc,4,3,1,6,1,GasA,5,Y,5,0,4,1,4,8,8,3,Attchd,1994.0,1,493,3,3,144,133,0,0,0,7,2008,WD ,4002,2823,4,3.5
+1430,20,RL,78.0,11500,Pave,3,Bnk,4,CulDSac,3,Norm,Norm,1Fam,1Story,6,6,1966,Flat,None,0.0,3,CBlock,4,4,5,2,5,GasA,5,Y,5,0,2,1,3,6,8,4,Attchd,1966.0,1,438,3,3,339,0,0,0,0,3,2008,WD ,3974,2825,5,3.0
+2605,190,RL,60.0,10800,Pave,4,Lvl,4,Corner,3,Norm,Norm,2fmCon,1.5Fin,5,4,1970,Gable,None,0.0,2,CBlock,3,2,1,4,1,GasA,3,N,4,0,3,2,3,10,5,4,Attchd,1970.0,1,520,3,1,142,0,0,0,0,5,2006,ConLD,3906,3368,1,2.0
+1529,70,RL,108.0,7609,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,8,9,1997,Gable,None,0.0,4,PConc,2,3,1,5,1,GasA,5,Y,5,0,3,1,4,7,8,4,Detchd,1925.0,1,180,3,2,85,16,41,0,0,6,2008,WD ,3933,2310,4,3.0
+335,20,RL,78.0,26142,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,1Fam,1Story,5,7,1962,Gable,BrkFace,189.0,3,CBlock,3,3,1,3,1,GasA,3,Y,5,0,3,1,3,6,8,0,Attchd,1962.0,1,312,3,2,261,39,0,0,0,4,2010,WD ,3972,2376,3,1.0
+1287,50,RM,74.0,9184,Pave,4,Lvl,4,Inside,3,Artery,Norm,1Fam,1.5Fin,5,7,2005,Gable,None,0.0,3,BrkTil,3,3,1,1,1,GasA,5,Y,5,0,3,1,3,6,8,0,Detchd,1948.0,1,400,3,3,0,0,0,0,0,7,2008,WD ,3956,2103,1,1.0
+31,160,RM,68.0,1680,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,2Story,5,5,1971,Gable,BrkFace,492.0,3,CBlock,3,3,1,3,1,GasA,3,Y,5,0,3,1,3,6,8,0,Detchd,1997.0,1,320,3,3,0,0,0,0,0,3,2010,WD ,3981,1617,1,1.5
+1785,20,RL,81.0,9416,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,2007,Hip,Stone,205.0,3,PConc,5,3,1,6,1,GasA,5,Y,5,0,3,1,5,8,8,4,Attchd,2007.0,3,786,3,3,171,138,0,0,266,9,2007,New,4014,3452,4,3.0
+82,60,RL,120.0,8400,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,6,1981,Gable,BrkFace,130.0,3,CBlock,4,3,1,1,1,GasA,3,Y,5,0,3,1,3,7,8,3,Attchd,1980.0,1,476,3,3,0,50,0,0,204,4,2010,WD ,3990,2214,2,2.5
+2620,50,RL,94.0,12144,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,4,6,1950,Gable,None,0.0,3,CBlock,3,3,1,3,1,GasA,4,Y,5,0,3,1,4,6,6,0,Detchd,1950.0,1,597,2,3,199,0,168,0,0,9,2006,WD ,3956,2431,3,1.5
+252,20,RL,60.0,10402,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,7,5,2009,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,6,8,0,Attchd,2009.0,2,740,3,3,0,36,0,0,0,5,2010,WD ,4019,2452,4,2.0
+721,30,C (all),21.0,3300,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,4,3,1950,Gable,None,0.0,3,BrkTil,3,3,1,1,1,GasA,5,Y,5,0,2,1,3,5,8,4,None,1910.0,0,0,0,1,0,33,0,0,0,6,2009,WD ,3919,1440,1,1.0
+2165,20,RL,65.0,8334,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,5,2007,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,6,8,4,Attchd,2006.0,3,437,3,3,0,23,0,0,0,7,2007,New,4013,2660,4,2.0
+2316,60,RL,78.0,11207,Pave,3,HLS,4,FR2,3,Norm,Norm,1Fam,2Story,6,5,1997,Gable,None,0.0,3,PConc,4,3,4,6,1,GasA,4,Y,5,0,3,1,3,8,8,3,Attchd,1997.0,3,413,3,3,95,75,0,0,0,6,2006,WD ,4003,2313,3,3.5
+775,85,RL,102.0,7252,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,1Fam,SFoyer,5,5,1982,Hip,None,0.0,3,CBlock,4,3,4,6,1,GasA,3,Y,5,0,2,1,3,5,8,0,Detchd,1983.0,1,576,3,3,120,0,0,0,0,4,2009,WD ,3991,1716,2,2.0
+1558,30,C (all),73.0,18000,Grvl,4,Low,4,Inside,3,Norm,Norm,1Fam,1Story,3,4,1950,Gable,None,0.0,3,CBlock,3,3,1,1,1,GasA,3,Y,5,0,2,1,3,6,8,0,Detchd,1994.0,2,1248,3,3,0,20,0,0,0,8,2008,ConLD,3943,1788,1,1.0
+17,50,RL,64.0,12134,Pave,3,Bnk,4,Inside,2,Norm,Norm,1Fam,1.5Fin,8,7,2005,Gable,None,0.0,3,Wood,4,3,4,6,1,GasA,4,Y,5,0,4,1,3,8,8,0,Basment,1988.0,2,492,3,3,325,12,0,0,0,6,2010,WD ,3998,2311,3,2.0
+1022,20,RL,54.0,14450,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,1979,Hip,BrkFace,194.0,3,CBlock,4,2,1,5,2,GasA,3,Y,5,0,3,1,4,6,8,3,Attchd,1979.0,3,551,3,3,467,0,0,0,0,3,2008,WD ,3987,3564,3,2.5
+925,50,RL,75.0,7681,Pave,3,Lvl,4,FR2,3,Norm,Norm,1Fam,1.5Fin,5,6,1950,Gable,None,0.0,3,BrkTil,3,3,1,1,1,GasA,5,Y,5,0,3,1,3,7,8,4,Detchd,1921.0,1,186,2,3,192,0,102,0,0,7,2009,WD ,3930,2074,4,1.5
+438,20,RL,73.0,11146,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,8,5,2006,Gable,Stone,250.0,3,PConc,5,3,4,1,1,GasA,5,Y,5,0,3,1,4,7,8,4,Attchd,2006.0,2,908,3,3,169,39,0,0,0,7,2009,WD ,4015,3426,5,2.0
+1270,80,RL,105.0,7910,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,SLvl,5,5,1960,Hip,None,0.0,3,CBlock,3,3,1,5,1,GasA,4,Y,5,0,4,1,3,7,4,0,Basment,1960.0,1,404,3,3,0,0,0,0,0,8,2008,WD ,3968,2582,3,2.0
+1272,20,RL,42.0,8000,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,1962,Gable,None,0.0,3,CBlock,3,3,1,4,3,GasA,3,Y,5,0,3,1,3,6,8,0,Attchd,1962.0,1,299,3,3,0,0,0,0,0,11,2008,WD ,3970,2054,3,1.5
+215,190,RH,21.0,6048,Pave,4,Lvl,4,Corner,3,Artery,Norm,2fmCon,1.5Fin,5,7,1950,Gable,None,0.0,4,BrkTil,3,3,3,2,1,GasA,4,Y,5,0,2,2,3,7,8,4,Detchd,1910.0,1,450,3,2,56,144,0,0,0,6,2010,COD,3920,2536,2,3.0
+266,60,RL,50.0,9548,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,1Fam,2Story,7,6,2003,Gable,BrkFace,223.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,7,8,3,Attchd,2003.0,2,613,3,3,192,39,0,0,0,1,2010,WD ,4013,2770,4,3.5
+2402,60,RL,50.0,10927,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,5,2005,Gable,BrkFace,280.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,3,1,5,8,8,4,BuiltIn,2003.0,3,736,3,3,179,60,0,0,0,6,2006,WD ,4011,2962,5,3.5
+1250,20,RL,60.0,7350,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,5,7,1951,Gable,None,0.0,3,CBlock,3,3,3,5,1,GasA,3,Y,5,0,2,1,3,4,8,0,Detchd,1988.0,1,840,3,3,0,0,0,0,0,6,2008,COD,3959,1904,3,2.0
+1984,30,RM,66.0,5925,Pave,4,Bnk,4,Inside,3,Norm,Norm,1Fam,1Story,4,7,2000,Hip,BrkCmn,435.0,3,BrkTil,2,3,1,3,1,GasA,3,Y,5,0,2,1,3,7,8,0,Detchd,1995.0,1,672,3,3,0,72,0,0,0,3,2007,WD ,3944,2038,1,1.0
+1279,50,RL,63.0,7200,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,5,6,1967,Gable,None,0.0,4,CBlock,3,3,3,6,1,GasA,4,Y,5,0,3,1,3,6,8,0,Detchd,1955.0,1,480,3,3,0,0,0,0,0,3,2008,WD ,3963,2356,3,1.5
+377,60,RL,71.0,12388,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,7,1991,Gable,BrkFace,229.0,3,CBlock,4,3,1,5,1,GasA,3,Y,5,0,4,1,4,9,8,3,BuiltIn,1980.0,2,441,3,3,178,84,0,0,0,8,2009,WD ,3989,3716,3,2.5
+1252,20,RL,60.0,8838,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,3,1982,Gable,None,0.0,3,BrkTil,0,0,0,0,0,GasA,4,Y,5,0,4,1,3,7,3,3,Attchd,1957.0,3,301,3,3,0,72,0,0,0,10,2008,WD ,3965,1764,3,2.5
+2156,60,RL,86.0,10000,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,5,1996,Gable,BrkFace,438.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,8,8,3,Attchd,1995.0,2,556,3,3,0,65,0,0,0,12,2007,WD ,4002,3310,4,3.5
+499,60,RL,107.0,12203,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,8,5,1999,Hip,BrkFace,975.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,4,1,4,8,8,3,Attchd,1998.0,3,676,3,3,250,0,0,0,0,7,2009,WD ,4007,3837,5,3.5
+1374,50,RL,74.0,21286,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,5,5,1950,Gable,None,0.0,3,CBlock,3,3,1,1,1,GasA,3,Y,5,0,4,1,3,7,8,4,Attchd,1948.0,1,312,3,3,0,0,108,0,0,8,2008,WD ,3956,1991,2,2.0
+2898,60,RL,62.0,11170,Pave,2,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,7,5,1991,Gable,None,0.0,3,Wood,4,3,1,2,1,GasA,5,Y,5,0,4,1,3,8,8,0,Attchd,1990.0,3,693,3,3,0,0,0,0,0,4,2006,WD ,3996,3730,4,2.5
+401,20,RL,53.0,10500,Pave,4,Lvl,4,FR2,3,Norm,Norm,1Fam,1Story,4,6,1971,Gable,None,0.0,3,CBlock,3,3,1,5,2,GasA,4,Y,5,0,2,1,3,4,8,0,Detchd,1989.0,1,576,3,3,216,0,0,0,0,3,2009,WD ,3980,1728,3,1.0
+2721,20,RL,53.0,13125,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,5,4,2000,Gable,BrkCmn,67.0,3,CBlock,3,3,1,3,4,GasA,5,Y,5,0,3,1,3,8,4,3,Attchd,1957.0,2,484,3,3,0,0,0,0,0,1,2006,WD ,3963,2937,2,3.0
+2078,20,RL,60.0,12671,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,6,7,1994,Hip,Stone,300.0,4,CBlock,4,2,1,2,1,GasA,5,Y,5,0,4,1,4,6,6,4,Attchd,1954.0,3,527,3,3,0,63,0,0,144,7,2007,WD ,3961,3710,5,3.0
+2589,20,RL,63.0,13600,Pave,4,Bnk,4,Inside,3,Norm,Norm,1Fam,1Story,5,6,1955,Gable,None,0.0,3,CBlock,3,3,1,3,4,GasA,4,Y,5,0,3,1,3,6,8,0,Attchd,1955.0,3,300,3,3,0,0,0,0,0,11,2006,WD ,3961,2112,3,2.5
+1946,70,RL,67.0,21281,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,5,4,2007,Gable,None,0.0,3,BrkTil,3,2,1,1,1,GasA,4,Y,5,0,4,1,4,9,7,0,BuiltIn,2007.0,1,1200,3,3,0,208,290,0,156,11,2007,WD ,3942,3752,3,3.5
+1334,70,RM,60.0,5870,Pave,4,Lvl,4,Corner,3,Feedr,Feedr,1Fam,2Story,6,9,2000,Gable,None,0.0,4,BrkTil,3,3,1,1,1,GasA,5,Y,5,0,3,1,3,6,8,0,Detchd,1926.0,1,200,2,3,38,112,0,0,0,4,2008,WD ,3908,1844,2,1.5
+2781,20,RL,80.0,13704,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,7,5,2002,Gable,BrkFace,150.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,6,8,3,Attchd,2001.0,2,843,3,3,468,81,0,0,0,1,2006,WD ,4007,3082,4,2.0
+431,20,RL,60.0,12220,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,10,5,2009,Hip,BrkFace,305.0,3,CBlock,5,3,1,6,1,GasA,5,Y,5,0,3,1,5,9,8,4,Attchd,2009.0,3,900,3,3,156,54,0,0,0,9,2009,New,4018,4026,5,3.5
+576,120,RL,50.0,3782,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,TwnhsE,1Story,8,5,1981,Gable,None,0.0,3,CBlock,4,3,5,6,1,GasA,3,Y,5,0,1,1,4,4,8,3,Attchd,1981.0,3,484,3,3,133,78,0,0,0,9,2009,WD ,3990,2452,4,2.0
+1474,60,RL,80.0,8450,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,2003,Gable,BrkFace,196.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,8,8,0,Attchd,2003.0,2,548,3,3,0,61,0,0,0,2,2008,WD ,4011,2566,4,3.5
+2254,80,RL,63.0,8750,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,SLvl,7,6,1975,Gable,Stone,50.0,3,CBlock,3,3,4,3,6,GasA,3,Y,5,0,3,0,3,4,8,0,Attchd,1975.0,1,360,3,3,192,84,0,0,0,3,2007,WD ,3982,1770,3,1.5
+2155,20,RL,41.0,11248,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,9,5,2002,Hip,Stone,215.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,3,1,4,7,8,3,Attchd,2002.0,3,702,3,3,257,45,0,0,0,7,2007,WD ,4009,3294,4,3.0
+885,20,RL,73.0,8777,Pave,4,Lvl,4,Inside,3,Feedr,Norm,1Fam,1Story,4,5,2003,Gable,None,0.0,3,CBlock,0,0,0,0,0,GasA,5,Y,5,0,2,1,4,5,8,0,Detchd,2002.0,3,520,3,1,0,96,0,0,0,5,2009,WD ,3958,1126,1,2.0
+643,20,RL,75.0,8128,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,1Fam,1Story,6,7,1954,Hip,BrkFace,80.0,3,CBlock,3,3,1,5,1,GasA,4,Y,5,0,3,1,3,6,8,0,Attchd,1954.0,1,297,3,3,0,0,0,0,0,2,2009,WD ,3963,2124,3,2.0
+1944,45,RL,60.0,9600,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Unf,5,7,2003,Gable,None,0.0,3,CBlock,3,3,1,5,1,GasA,3,Y,5,0,2,1,4,4,8,0,Detchd,1985.0,1,576,3,3,0,0,0,0,0,5,2007,WD ,3956,1738,3,1.5
+480,60,RL,64.0,10125,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,2004,Gable,None,0.0,3,PConc,4,3,3,1,1,GasA,5,Y,5,0,3,1,4,7,8,4,Attchd,2004.0,3,434,3,3,300,48,0,0,0,7,2009,WD ,4013,2440,3,2.5
+2845,50,RL,41.0,11388,Pave,4,Low,4,Inside,2,Norm,Norm,1Fam,1.5Fin,4,7,1993,Gable,None,0.0,3,BrkTil,3,3,1,1,1,GasA,3,N,5,0,3,1,4,5,6,0,Detchd,1910.0,1,275,3,1,212,0,0,0,0,9,2006,WD ,3916,1889,1,1.0
+2387,60,RL,63.0,14215,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,8,5,2006,Gable,BrkFace,380.0,3,PConc,5,3,4,1,1,GasA,5,Y,5,0,4,1,4,9,8,4,BuiltIn,2005.0,2,853,3,3,240,154,0,0,0,11,2006,New,4011,3534,5,3.5
+2407,120,RL,58.0,6792,Pave,3,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,7,5,2006,Gable,Stone,94.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,2,1,4,6,8,4,Attchd,2005.0,2,474,3,3,132,35,0,0,0,3,2006,New,4011,2736,5,2.0
+2527,60,RL,65.0,11700,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,6,6,1968,Gable,BrkFace,420.0,3,CBlock,3,3,1,5,1,GasA,4,Y,5,0,3,1,3,7,8,3,Attchd,1968.0,2,776,3,3,0,169,0,0,119,5,2006,WD ,3974,2124,3,2.5
+2514,160,FV,80.0,4447,Pave,3,Lvl,4,FR2,3,Norm,Norm,TwnhsE,2Story,7,5,2003,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,2,1,4,4,8,0,Attchd,2003.0,2,496,3,3,0,50,0,0,0,7,2006,WD ,4009,1610,4,2.5
+629,20,RL,50.0,13560,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,6,3,1968,Hip,BrkFace,216.0,3,CBlock,2,2,1,1,1,GasA,4,Y,5,0,2,1,3,5,3,3,Attchd,1968.0,2,576,3,3,0,0,240,0,0,7,2009,WD ,3977,2784,3,2.0
+80,60,RL,67.0,9453,Pave,3,Lvl,4,CulDSac,3,RRNe,Norm,1Fam,2Story,7,7,2003,Gable,None,0.0,3,PConc,4,3,1,4,1,GasA,5,Y,5,0,3,1,4,7,8,0,Attchd,1993.0,2,457,3,3,370,70,0,238,0,2,2010,WD ,4003,2740,2,2.5
+1876,20,RL,195.0,10355,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,5,5,1967,Gable,BrkFace,196.0,3,CBlock,3,3,1,4,1,GasA,3,Y,5,0,3,1,3,5,8,2,Attchd,1967.0,2,318,3,3,0,111,0,0,0,7,2007,WD ,3974,2428,3,2.0
+1546,50,RM,59.0,6000,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,6,8,2006,Gable,None,0.0,3,CBlock,2,3,1,1,1,GasA,4,Y,5,0,3,1,3,5,8,0,Detchd,1940.0,1,240,3,3,0,0,0,0,0,7,2008,WD ,3948,1810,1,1.0
+2518,20,RL,60.0,11250,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,6,1977,Gable,None,0.0,3,CBlock,4,3,1,5,1,GasA,3,Y,5,0,3,1,3,6,8,3,Attchd,1977.0,2,546,3,3,198,42,0,0,0,6,2006,WD ,3983,2416,5,2.5
+2347,85,RL,72.0,10464,Pave,3,Lvl,4,FR3,3,Norm,Norm,1Fam,SFoyer,6,6,1980,Gable,BrkFace,130.0,3,CBlock,4,3,4,6,1,GasA,3,Y,5,0,2,1,3,5,8,3,Attchd,1980.0,2,582,3,3,140,22,0,0,0,6,2006,WD ,3986,2090,3,2.0
+783,20,RL,70.0,25095,Pave,3,Low,4,Inside,1,Norm,Norm,1Fam,1Story,5,8,2003,Flat,None,0.0,3,CBlock,3,3,5,6,1,GasA,5,Y,5,0,1,1,5,5,8,4,Attchd,1968.0,1,452,3,3,0,48,0,0,60,6,2009,WD ,3977,2910,5,3.0
+1322,70,RM,80.0,11340,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,2,1,1950,Gable,None,0.0,2,BrkTil,2,2,1,1,1,GasA,3,N,5,0,2,1,3,5,4,0,Detchd,1920.0,1,400,2,1,0,24,144,0,0,11,2008,ConLD,3928,1809,1,1.0
+194,30,RM,106.0,5000,Pave,4,Lvl,4,Inside,3,Feedr,Norm,1Fam,1Story,4,7,1950,Gable,None,0.0,3,BrkTil,3,3,1,3,1,GasA,3,N,3,0,2,1,4,4,8,0,Detchd,1926.0,1,200,2,2,135,0,41,0,0,4,2010,WD ,3935,1530,2,2.0
+1770,60,RL,90.0,11787,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,1997,Gable,BrkFace,594.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,8,8,3,Attchd,1996.0,3,834,3,3,239,60,0,0,0,8,2007,WD ,4003,3777,5,3.5
+2143,20,RL,64.0,7200,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,2000,Gable,None,0.0,3,CBlock,3,3,1,5,1,GasA,4,Y,5,0,3,1,5,5,8,0,Detchd,1977.0,3,576,4,3,155,0,0,0,0,9,2007,WD ,3979,1728,4,2.0
+1229,60,RL,70.0,13700,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,6,1988,Gable,Stone,288.0,3,CBlock,3,3,5,5,1,GasA,3,Y,5,0,4,1,4,8,8,4,Attchd,1965.0,1,492,3,3,60,84,0,0,273,5,2008,WD ,3973,2684,3,2.0
+511,20,RL,87.0,10130,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,8,5,2007,Gable,Stone,260.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,3,1,4,7,8,4,Attchd,2007.0,2,844,3,3,0,69,0,0,0,3,2009,WD ,4016,3404,4,3.0
+46,120,RL,70.0,6371,Pave,3,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,7,5,2010,Gable,Stone,128.0,3,PConc,4,3,3,6,1,GasA,5,Y,5,0,2,1,4,6,8,4,Attchd,2010.0,2,484,3,3,192,35,0,0,0,6,2010,New,4019,2716,5,3.0
+1348,50,RM,70.0,6120,Pave,4,Lvl,4,Inside,3,Artery,Norm,1Fam,1.5Fin,7,5,1950,Gable,None,0.0,3,BrkTil,3,3,1,1,1,GasA,4,Y,3,0,2,2,3,8,7,3,Detchd,1931.0,1,468,2,3,90,0,205,0,0,4,2008,WD ,3939,2726,1,2.0
+2465,60,FV,73.0,8125,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,2006,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,6,8,0,Attchd,2005.0,2,615,3,3,0,45,0,0,0,3,2006,New,4011,2309,4,2.5
+387,60,FV,50.0,8470,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,8,5,2002,Gable,None,0.0,3,PConc,4,3,1,6,5,GasA,5,Y,5,0,3,1,4,7,8,4,Attchd,2002.0,2,565,3,3,225,48,0,0,0,10,2009,WD ,4011,2783,4,2.5
+873,20,RL,60.0,8750,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,1998,Gable,BrkFace,209.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,3,1,4,7,8,3,Attchd,1997.0,1,511,3,3,60,0,0,0,117,8,2009,WD ,4006,2834,4,3.0
+1918,20,RL,60.0,6860,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,6,1956,Gable,BrkCmn,54.0,3,CBlock,3,3,1,6,1,GasA,5,Y,5,0,3,1,2,6,8,0,Detchd,1964.0,1,308,3,3,0,0,0,0,0,12,2007,WD ,3963,2016,3,2.0
+2764,60,RL,39.0,10041,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,5,1992,Gable,None,0.0,3,PConc,4,3,3,6,1,GasA,5,Y,5,0,3,1,4,8,8,3,Attchd,1992.0,3,506,3,3,120,150,0,0,0,2,2006,WD ,3998,2823,2,3.5
+2184,20,RL,60.0,6400,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,2000,Gable,None,0.0,3,CBlock,3,3,4,3,5,GasA,5,Y,5,0,2,1,2,4,8,0,Detchd,1959.0,1,392,3,3,144,0,35,0,0,12,2007,WD ,3966,1920,1,2.0
+934,160,RM,68.0,1488,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,2Story,6,6,1992,Gable,None,0.0,4,CBlock,4,3,3,5,1,GasA,3,Y,5,0,2,1,4,5,8,3,Attchd,1980.0,3,462,3,3,176,0,0,0,0,10,2009,WD ,3989,1790,2,2.5
+1920,20,RL,73.0,8176,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,6,1992,Gable,None,0.0,3,CBlock,3,3,1,3,1,GasA,2,Y,5,0,3,1,3,6,8,0,Attchd,1958.0,2,308,3,3,0,0,0,0,0,8,2007,WD ,3965,2112,3,2.0
+2631,60,RL,50.0,7590,Pave,4,Lvl,4,Inside,3,PosN,Norm,1Fam,2Story,6,5,1966,Gable,BrkFace,266.0,3,CBlock,3,3,1,4,1,GasA,3,Y,5,0,3,1,3,6,8,2,Attchd,1966.0,2,453,3,3,188,108,0,0,0,7,2006,WD ,3972,2008,3,1.5
+1768,60,RL,69.02280501710376,21535,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,10,6,1995,Gable,BrkFace,1170.0,3,PConc,5,3,5,6,1,GasA,5,Y,5,0,4,1,5,10,8,5,Attchd,1994.0,3,832,3,3,382,50,0,0,0,1,2007,WD ,4001,6760,5,4.0
+2040,30,RM,56.0,4800,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,4,7,1990,Gable,None,0.0,3,CBlock,3,3,1,2,1,GasA,5,Y,4,0,2,1,3,5,8,0,Detchd,1957.0,1,440,3,3,0,0,0,0,0,7,2007,WD ,3923,2392,1,2.0
+1749,60,RL,89.0,11796,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,2005,Gable,None,0.0,3,PConc,4,3,4,1,1,GasA,5,Y,5,0,4,1,4,8,8,4,BuiltIn,2004.0,3,434,3,3,100,48,0,0,0,7,2007,WD ,4011,2806,3,2.5
+834,60,RL,70.0,16698,Pave,3,HLS,4,CulDSac,2,Norm,Norm,1Fam,2Story,7,5,1993,Gable,None,0.0,3,PConc,4,3,4,6,1,GasA,4,Y,5,0,3,1,4,7,8,3,Attchd,1992.0,1,525,3,3,150,193,0,0,0,6,2009,WD ,4001,3208,5,3.5
+1457,60,RL,60.0,10400,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,2001,Gable,BrkFace,227.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,8,8,3,Attchd,2001.0,2,570,3,3,0,84,0,0,0,6,2008,WD ,4009,3418,4,2.5
+79,120,RL,61.0,7175,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,6,5,1984,Gable,None,0.0,3,CBlock,4,3,1,5,2,GasA,3,Y,5,0,2,1,3,4,8,0,Attchd,1984.0,1,264,3,3,353,0,0,0,90,2,2010,WD ,3994,1496,2,2.0
+2302,20,RL,79.0,8314,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,5,7,1982,Gable,None,0.0,3,CBlock,3,3,5,5,1,GasA,3,Y,5,0,2,1,3,5,8,0,Attchd,1982.0,1,264,3,3,168,0,0,0,0,6,2007,WD ,3989,1632,3,1.0
+1817,85,RL,75.0,9180,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,1Fam,SFoyer,5,7,1983,Gable,None,0.0,3,CBlock,4,3,4,5,2,GasA,4,Y,5,0,2,1,4,5,8,0,Attchd,1983.0,2,504,3,3,240,0,0,0,0,12,2007,WD ,3990,1724,2,2.0
+2755,20,RL,82.5,11210,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,2006,Gable,BrkFace,240.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,3,1,4,7,8,0,Attchd,2005.0,2,865,3,3,144,59,0,0,0,7,2006,New,4011,3228,4,2.0
+359,60,RL,62.0,8803,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,5,1995,Gable,None,0.0,3,PConc,4,3,1,6,1,GasA,4,Y,5,0,3,1,4,7,8,3,Attchd,1994.0,3,409,3,3,0,46,0,0,0,7,2009,WD ,4003,2223,3,3.5
+2059,20,RL,110.0,8665,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,1968,Gable,BrkFace,89.0,3,CBlock,3,3,3,3,4,GasA,3,Y,5,0,3,1,3,5,8,0,Attchd,1968.0,2,264,3,3,0,0,0,0,0,1,2007,WD ,3975,1773,2,1.0
+2092,60,RL,110.0,13474,Pave,4,Lvl,4,Inside,3,Feedr,Norm,1Fam,2Story,7,5,1991,Gable,BrkFace,246.0,3,CBlock,4,3,1,5,1,GasA,4,Y,5,0,4,1,4,8,8,3,Attchd,1990.0,2,746,3,3,127,44,224,0,0,6,2007,WD ,3997,2943,2,3.5
+2516,20,FV,85.0,7180,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,8,5,2002,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,6,8,3,Attchd,2001.0,2,564,3,3,0,266,0,0,0,9,2006,WD ,4007,3136,4,2.0
+150,20,RL,30.0,10950,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,1952,Gable,None,0.0,3,CBlock,3,3,1,4,1,GasA,3,Y,5,0,2,1,2,4,8,0,Detchd,1952.0,1,318,3,3,0,0,0,0,0,5,2010,WD ,3962,1928,3,1.5
+1656,60,RL,24.0,10793,Pave,4,Lvl,4,Inside,3,RRAn,Norm,1Fam,2Story,5,5,1969,Mansard,BrkFace,263.0,3,CBlock,3,3,1,3,4,GasA,5,Y,5,0,4,1,3,7,7,0,Attchd,1969.0,3,462,3,3,208,0,0,0,0,4,2007,WD ,3976,2400,3,2.5
+83,30,RH,68.0,9800,Pave,4,Lvl,4,Corner,3,Feedr,Norm,1Fam,1Story,5,5,1950,Gable,None,0.0,2,BrkTil,3,3,1,1,1,GasA,3,N,4,0,2,1,3,5,8,0,Detchd,1920.0,1,429,3,3,121,0,80,0,0,4,2010,WD ,3930,1828,2,1.0
+2411,20,RL,91.0,10237,Pave,4,Lvl,4,Inside,3,RRAn,Norm,1Fam,1Story,6,5,2006,Gable,None,0.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,6,8,4,Attchd,2005.0,3,397,3,3,100,0,0,23,0,10,2006,New,4011,2632,3,2.0
+795,20,RL,85.0,11500,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,1Fam,1Story,4,3,1957,Gable,None,0.0,4,Slab,0,0,0,0,0,GasA,5,N,5,0,3,1,3,5,8,0,Detchd,1957.0,1,290,3,1,186,0,0,0,0,1,2009,WD ,3966,845,1,1.0
+2312,60,RL,50.0,13006,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,7,5,1997,Gable,BrkFace,285.0,3,PConc,4,3,1,1,1,GasA,4,Y,5,0,4,1,4,8,8,3,BuiltIn,1997.0,3,642,3,3,0,0,0,0,0,11,2006,WD ,4003,3200,3,2.5
+2917,180,RM,82.5,1533,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,SFoyer,5,7,1970,Gable,None,0.0,3,CBlock,4,3,4,6,1,GasA,5,Y,5,0,1,1,5,3,8,0,None,1970.0,0,0,0,3,0,0,0,0,0,8,2006,WD ,3976,1260,1,2.0
+1624,60,RL,90.0,7875,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,1996,Gable,None,0.0,3,PConc,4,3,1,3,1,GasA,4,Y,5,0,3,1,4,6,8,0,Attchd,1996.0,3,420,3,3,0,44,0,0,0,8,2007,WD ,4003,2244,3,2.5
+2215,70,RL,70.0,12168,Pave,4,HLS,4,Inside,2,Norm,Norm,1Fam,2Story,8,6,1998,Gable,None,0.0,3,PConc,4,3,3,4,1,GasA,3,Y,5,0,4,1,3,10,8,4,Basment,1934.0,1,380,3,3,0,0,0,0,0,9,2007,WD ,3941,4159,4,2.5
+1211,20,RL,60.0,9200,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,6,1965,Gable,None,0.0,3,CBlock,3,3,1,3,1,GasA,3,Y,5,0,3,1,3,5,8,4,Attchd,1965.0,2,384,3,3,426,0,0,0,0,7,2008,WD ,3973,2272,3,2.0
+1485,120,RM,35.0,4438,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,6,5,2004,Gable,BrkFace,169.0,3,PConc,4,3,5,6,1,GasA,5,Y,5,0,1,1,4,4,8,4,Attchd,2004.0,3,420,3,3,140,0,0,0,0,6,2008,ConLD,4012,1696,4,2.0
+1024,20,RL,30.0,13068,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,6,5,1976,Hip,BrkFace,621.0,3,PConc,4,3,1,5,3,GasA,3,Y,5,0,3,1,4,6,8,1,Attchd,1976.0,3,461,3,3,0,0,0,174,0,11,2008,WD ,3984,2422,3,3.0
+570,120,FV,72.0,4217,Pave,3,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,6,5,2008,Gable,Stone,252.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,1,1,4,5,8,4,Attchd,2008.0,3,641,3,3,0,169,0,0,0,3,2009,WD ,4017,2401,4,2.5
+2874,50,RM,130.0,7000,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,6,7,1950,Hip,None,0.0,3,PConc,3,3,1,5,1,GasA,5,Y,5,0,3,1,3,6,8,0,Detchd,1950.0,3,506,3,3,96,0,132,0,0,5,2006,WD ,3932,2146,1,1.5
+700,70,RM,63.0,6600,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,5,4,1965,Gable,None,0.0,3,Stone,3,3,1,1,1,GasA,3,N,5,0,4,2,3,11,6,0,Attchd,1985.0,2,432,3,3,0,287,0,0,0,12,2009,WD ,3901,3366,1,2.0
+2756,20,RL,90.0,8990,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,2006,Gable,None,0.0,3,PConc,4,3,3,1,1,GasA,5,Y,5,0,2,1,4,5,8,0,Attchd,2006.0,2,675,3,3,351,33,0,0,0,4,2006,New,4012,2996,4,2.0
+2022,70,RM,91.0,7755,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,8,1995,Gable,None,0.0,4,CBlock,3,3,1,1,1,GasA,5,Y,4,0,4,1,3,8,8,0,Detchd,1950.0,1,408,3,3,0,152,0,0,0,5,2007,WD ,3925,3364,1,2.5
+583,60,RL,43.0,10382,Pave,3,Lvl,4,Corner,3,PosN,Norm,1Fam,2Story,7,6,1973,Gable,Stone,240.0,3,CBlock,4,3,3,5,4,GasA,5,Y,5,0,3,1,3,7,8,3,Attchd,1973.0,2,484,3,3,235,204,228,0,0,11,2009,WD ,3982,3197,3,3.5
+2392,60,RL,78.0,11924,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,9,5,2006,Hip,Stone,286.0,3,PConc,5,3,1,6,1,GasA,5,Y,5,0,4,1,5,11,8,4,BuiltIn,2005.0,3,736,3,3,147,21,0,0,0,7,2006,New,4011,3499,5,4.0
+2424,120,RM,40.0,3072,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,7,5,2004,Hip,BrkFace,18.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,2,1,4,6,8,3,Attchd,2004.0,3,398,3,3,144,20,0,0,0,5,2006,WD ,4010,2789,4,2.0
+212,190,RL,70.0,9900,Pave,4,Lvl,4,Inside,3,Norm,Norm,2fmCon,1.5Fin,5,4,1950,Gable,None,0.0,2,BrkTil,3,3,1,3,1,GasA,3,N,5,0,3,1,3,6,8,0,None,1915.0,0,0,0,1,0,0,168,0,0,2,2010,ConLD,3925,2604,2,2.0
+736,50,RM,51.0,6000,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1.5Fin,5,8,1997,Gable,None,0.0,3,BrkTil,3,3,1,1,1,GasA,5,Y,5,0,3,1,3,5,8,2,Detchd,1960.0,1,216,3,1,0,0,208,0,0,5,2009,WD ,3934,2232,2,2.0
+1610,60,RL,95.0,11075,Pave,3,Lvl,4,Inside,2,Norm,Norm,1Fam,2Story,5,4,1969,Gable,BrkFace,232.0,3,CBlock,3,3,4,5,2,GasA,5,Y,5,0,4,1,3,7,6,1,Attchd,1969.0,2,530,3,3,305,189,0,0,0,9,2008,WD ,3977,2752,3,3.0
+890,20,RL,64.0,10682,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,4,6,1971,Gable,None,0.0,3,CBlock,3,3,1,6,1,GasA,3,Y,5,0,3,1,3,7,7,0,2Types,1968.0,3,544,3,3,0,240,0,0,0,7,2009,WD ,3969,2163,1,2.0
+467,60,RL,80.0,12589,Pave,2,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,5,2005,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,8,8,4,Attchd,2005.0,3,390,3,3,36,24,0,0,0,6,2009,WD ,4014,2226,3,2.5
+578,80,RL,60.0,9600,Pave,4,Low,4,FR2,2,Feedr,Norm,1Fam,SLvl,8,5,1976,Gable,BrkFace,200.0,4,CBlock,3,3,1,1,1,GasA,5,Y,5,0,4,1,3,5,8,4,Attchd,1976.0,1,527,3,3,0,64,0,0,0,1,2009,WD ,3985,2891,5,2.5
+1747,80,RL,62.0,16219,Pave,2,Lvl,4,Inside,3,Norm,Norm,1Fam,SLvl,7,5,2005,Gable,None,0.0,3,PConc,4,3,5,6,1,GasA,5,Y,5,0,2,1,4,5,8,0,Attchd,2004.0,3,437,3,3,100,24,0,0,0,4,2007,WD ,4011,1954,3,3.0
+1149,120,RL,60.0,7892,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,6,5,1993,Gable,None,0.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,2,1,4,5,8,0,Attchd,1993.0,2,530,3,3,0,63,0,0,0,3,2008,WD ,4001,2398,2,2.0
+2758,20,RL,43.0,13377,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,6,5,2006,Hip,None,0.0,3,PConc,4,3,1,6,1,GasA,4,Y,5,0,3,1,4,7,8,4,Attchd,2006.0,2,495,3,3,0,32,0,0,0,7,2006,New,4012,3682,4,3.0
+857,20,RL,59.0,7000,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,1Fam,1Story,5,8,2005,Gable,BrkFace,90.0,4,CBlock,3,3,1,5,1,GasA,5,Y,5,0,3,1,3,6,8,0,Attchd,1978.0,1,336,3,3,0,0,0,0,0,7,2009,WD ,3987,1728,4,2.0
+2219,70,RL,72.0,10570,Pave,4,Bnk,4,Inside,2,Norm,Norm,1Fam,2Story,8,8,1994,Hip,None,0.0,3,CBlock,4,4,1,3,1,GasA,3,Y,5,0,3,1,4,10,4,3,Detchd,1932.0,1,440,3,3,0,74,0,0,0,12,2007,WD ,3939,3580,4,2.5
+733,30,RL,70.0,8854,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Unf,6,6,1950,Gable,None,0.0,3,BrkTil,3,3,1,1,1,Grav,2,N,3,0,2,1,2,4,8,4,Detchd,1916.0,1,192,2,2,0,98,0,0,40,5,2009,WD ,3925,1904,2,1.0
+2909,160,RM,60.0,2665,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,2Story,5,6,1977,Gable,None,0.0,3,PConc,4,3,3,1,1,GasA,3,Y,5,0,3,1,3,5,8,3,BuiltIn,1977.0,2,336,3,3,141,0,0,0,0,5,2006,WD ,3983,1568,1,1.5
+1798,60,FV,67.0,9000,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,5,2006,Gable,None,0.0,3,PConc,4,3,4,1,1,GasA,5,Y,5,0,3,1,4,8,8,4,Attchd,2006.0,2,1025,3,3,208,46,0,0,0,12,2007,WD ,4013,3047,4,2.5
+235,50,RL,43.0,18600,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,3,4,1990,Gable,None,0.0,3,CBlock,3,3,3,4,2,GasA,3,Y,4,0,4,1,2,8,8,4,Attchd,1938.0,2,480,3,3,0,0,60,0,0,6,2010,WD ,3948,2582,1,2.5
+2366,160,RM,43.0,2160,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,2Story,5,6,1973,Gable,BrkFace,200.0,3,CBlock,3,3,1,2,1,GasA,4,Y,5,0,3,1,4,7,7,2,Attchd,1973.0,1,440,3,3,0,36,0,0,0,6,2006,WD ,3979,2130,1,1.5
+1027,60,RL,93.0,9743,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,5,6,1969,Gable,None,0.0,3,CBlock,3,2,1,4,1,GasA,4,Y,5,0,3,1,3,7,8,0,Detchd,1969.0,1,484,3,3,0,0,0,0,0,6,2008,WD ,3977,2028,3,1.5
+1195,20,RL,55.0,8125,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,2005,Hip,None,0.0,3,CBlock,3,3,1,5,3,GasA,5,Y,5,0,3,1,3,5,8,0,Detchd,1978.0,1,576,3,3,233,0,0,0,0,7,2008,WD ,3973,1837,3,2.0
+1303,20,RM,63.0,7311,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,2,5,1950,Gable,None,0.0,4,BrkTil,3,3,1,1,1,GasA,3,N,4,0,1,1,3,3,8,0,Detchd,1949.0,1,297,2,3,76,0,120,0,0,3,2008,WD ,3954,814,1,1.0
+148,20,RL,80.0,10032,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,5,1959,Gable,Stone,432.0,3,CBlock,3,3,1,3,1,GasA,5,Y,5,0,3,1,3,6,8,4,Attchd,1956.0,1,440,3,3,0,28,0,0,160,6,2010,WD ,3969,2824,3,2.5
+608,20,RL,80.0,10500,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,1964,Gable,Stone,144.0,4,CBlock,3,3,1,2,1,GasA,3,Y,5,0,3,1,3,6,8,4,Detchd,1964.0,1,520,3,3,0,32,0,0,92,7,2009,COD,3973,2584,3,2.5
+2515,60,FV,85.0,8314,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,7,5,1998,Hip,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,6,8,3,BuiltIn,1997.0,1,434,3,3,0,382,0,0,110,11,2006,WD ,4003,2263,4,2.5
+821,20,RL,57.0,10226,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,8,5,2008,Gable,Stone,270.0,3,PConc,5,3,5,1,1,GasA,5,Y,5,0,3,1,5,8,8,4,Attchd,2008.0,2,860,3,3,172,42,0,0,0,1,2009,WD ,4017,3252,4,3.0
+2500,60,RL,36.0,16059,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,8,5,1992,Hip,BrkFace,284.0,3,CBlock,4,3,1,1,1,GasA,5,Y,5,0,4,1,4,9,8,3,Attchd,1991.0,1,462,3,3,127,82,0,0,0,4,2006,WD ,3997,3705,5,2.5
+745,30,RM,62.0,6120,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,6,1999,Gable,None,0.0,3,BrkTil,3,3,1,1,1,GasA,4,Y,5,0,2,1,3,5,8,0,Detchd,1926.0,1,264,3,3,0,15,51,0,0,3,2009,WD ,3934,1955,2,1.0
+741,50,RM,84.0,6120,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1.5Fin,5,6,1950,Gable,None,0.0,2,BrkTil,3,3,1,1,1,GasA,3,Y,5,0,3,1,3,5,8,0,Detchd,1995.0,1,576,3,3,112,0,0,0,0,4,2009,WD ,3945,2466,2,1.5
+1611,70,I (all),74.0,56600,Pave,3,Low,4,Inside,3,Norm,Norm,1Fam,2.5Unf,5,1,1950,Hip,None,0.0,3,BrkTil,3,3,1,1,1,GasA,5,Y,5,0,4,1,3,7,4,0,Detchd,1900.0,1,288,3,1,0,0,0,0,0,1,2008,WD ,3908,2522,1,2.0
+2532,80,RL,50.0,9750,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,SLvl,5,5,1967,Gable,None,0.0,3,PConc,3,3,4,5,3,GasA,4,Y,5,0,3,1,3,6,8,0,Attchd,1967.0,3,384,3,3,68,0,0,0,0,10,2006,WD ,3973,1960,3,2.0
+1081,120,RL,65.0,3940,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,7,5,2003,Gable,BrkFace,143.0,3,PConc,4,3,5,6,1,GasA,5,Y,5,0,2,1,4,6,8,3,Attchd,2003.0,3,644,3,3,156,20,0,0,144,8,2008,WD ,4011,2870,4,3.0
+1692,60,RL,58.0,13641,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,9,5,2007,Hip,BrkFace,456.0,3,PConc,5,3,5,6,1,GasA,5,Y,5,0,3,1,5,8,8,4,Attchd,2007.0,2,1040,3,3,268,58,0,0,0,12,2007,New,4014,4590,5,3.5
+2520,120,RL,120.0,3640,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,Twnhs,1Story,8,5,1980,Gable,None,0.0,3,CBlock,4,3,5,6,1,GasA,3,Y,5,0,1,1,4,4,8,3,Detchd,1980.0,3,484,3,3,133,108,0,0,0,9,2006,WD ,3986,2072,4,2.0
+276,90,RL,60.0,9825,Pave,4,Lvl,4,Inside,3,Norm,Norm,Duplex,1Story,5,5,1965,Hip,None,0.0,3,CBlock,0,0,0,0,0,GasA,3,N,5,0,4,2,3,8,8,0,None,1965.0,0,0,0,3,0,0,0,0,0,5,2010,WD ,3975,1664,1,2.0
+1992,50,RM,80.0,9600,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,5,8,1994,Gambrel,None,0.0,3,PConc,3,3,3,1,1,GasA,4,Y,5,0,3,1,4,6,8,0,Detchd,1925.0,1,250,3,2,0,0,84,0,0,7,2007,WD ,3932,2174,1,1.0
+663,30,RL,97.0,5400,Pave,4,Lvl,4,Inside,3,Artery,Norm,1Fam,1Story,2,5,1950,Gable,None,0.0,3,PConc,2,3,1,1,1,GasA,4,N,4,0,2,1,4,4,8,0,None,1940.0,0,0,0,1,0,81,0,0,0,6,2009,WD ,3949,1015,1,2.0
+418,120,RL,65.0,2104,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,7,6,1976,Gable,None,0.0,3,CBlock,3,3,1,5,1,GasA,3,Y,5,0,2,1,3,5,8,0,Attchd,1976.0,1,345,3,3,150,20,0,0,0,10,2009,WD ,3985,1672,3,1.5
+1733,60,RL,79.0,9729,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,5,2007,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,6,8,4,BuiltIn,2007.0,1,350,3,3,0,34,0,0,0,6,2007,New,4013,2444,3,3.5
+2359,20,RL,85.0,10000,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,6,1974,Gable,BrkFace,176.0,3,CBlock,3,3,1,5,1,GasA,3,Y,5,0,3,1,3,6,8,0,Attchd,1974.0,1,462,3,3,295,84,0,0,0,6,2006,WD ,3980,2206,3,2.0
+253,20,RL,45.0,7360,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,2010,Gable,Stone,80.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,2,1,4,6,8,0,Attchd,2009.0,2,615,3,3,0,54,0,0,0,3,2010,WD ,4020,2444,4,2.0
+1518,75,RL,70.0,8400,Pave,4,Bnk,4,Inside,2,Norm,Norm,1Fam,2.5Fin,5,8,1997,Gable,None,0.0,3,PConc,3,3,1,2,1,GasA,5,Y,5,420,4,1,4,8,8,4,Detchd,1939.0,1,240,3,3,262,24,0,0,0,7,2008,WD ,3947,2912,2,2.5
+2035,50,RM,50.0,9000,Pave,4,Bnk,4,Inside,3,Norm,Norm,1Fam,1.5Fin,6,6,1950,Gable,None,0.0,4,PConc,3,3,1,1,1,GasA,3,Y,5,0,3,1,4,6,8,4,Detchd,1979.0,1,544,3,2,0,162,0,0,126,12,2007,WD ,3944,2155,1,1.5
+2919,160,RM,78.0,1526,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,2Story,4,5,1970,Gable,None,0.0,3,CBlock,3,3,1,1,1,GasA,3,Y,5,0,3,1,3,5,8,0,None,1970.0,0,0,0,3,0,34,0,0,0,6,2006,WD ,3976,1638,1,1.5
+1540,50,RL,75.0,12392,Pave,4,Bnk,4,Inside,3,Norm,Norm,1Fam,1.5Fin,7,9,2000,Gable,None,0.0,4,CBlock,3,4,1,6,1,GasA,5,Y,5,0,3,1,4,8,8,3,Attchd,1994.0,3,506,3,3,0,96,0,0,0,4,2008,WD ,3958,2993,4,3.5
+2120,20,RL,80.0,14217,Pave,2,Lvl,4,CulDSac,3,Norm,Norm,1Fam,1Story,5,5,1994,Gable,None,0.0,3,PConc,4,3,1,5,1,GasA,4,Y,5,0,3,1,3,6,8,0,Detchd,1995.0,1,747,3,3,0,0,0,0,0,8,2007,WD ,4001,2044,4,1.5
+1674,120,RH,59.0,4113,Pave,3,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,6,5,2001,Gable,None,0.0,3,PConc,4,3,3,1,1,GasA,5,Y,5,0,2,1,4,5,8,3,Attchd,2001.0,3,511,3,3,136,68,0,0,0,7,2007,WD ,4008,2674,3,2.0
+256,80,RL,64.0,8816,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,SLvl,6,7,1971,Gable,BrkFace,80.0,3,CBlock,3,3,4,6,1,GasA,4,Y,5,0,3,1,3,6,8,0,Attchd,1971.0,1,440,3,3,0,0,0,0,0,6,2010,WD ,3981,2062,5,2.0
+2361,20,RL,73.0,9353,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,4,5,1970,Gable,None,0.0,3,CBlock,3,3,1,1,1,GasA,4,Y,5,0,3,1,3,5,8,0,Attchd,1972.0,1,280,3,3,0,0,0,0,0,7,2006,Oth,3976,1728,3,1.0
+978,180,RM,62.0,1477,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,SFoyer,4,4,1970,Gable,None,0.0,3,CBlock,4,3,4,6,1,GasA,3,Y,5,0,1,1,3,3,8,0,Attchd,1970.0,1,286,3,3,0,0,0,0,0,4,2009,WD ,3979,1260,1,2.0
+2280,120,RM,88.5,6710,Pave,3,Lvl,4,FR3,3,Norm,Norm,TwnhsE,SFoyer,6,5,1997,Gable,BrkFace,134.0,3,PConc,5,3,4,3,6,GasA,5,Y,5,0,0,1,3,3,8,0,Attchd,1996.0,3,460,3,3,0,40,0,0,0,6,2007,WD ,4003,1856,3,2.5
+2095,60,RL,57.0,11287,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,6,1989,Gable,BrkFace,340.0,3,CBlock,4,3,4,6,1,GasA,4,Y,5,0,3,1,4,7,8,3,Attchd,1989.0,3,575,3,3,0,84,0,196,0,1,2007,WD ,3996,2789,2,2.5
+1709,60,RL,80.0,12099,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,5,2004,Gable,BrkFace,388.0,3,PConc,5,3,4,6,1,GasA,5,Y,5,0,4,1,4,10,8,4,BuiltIn,2004.0,3,872,3,3,184,154,0,0,0,6,2007,WD ,4011,3604,5,3.5
+2801,60,RL,75.0,9750,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,7,6,1998,Gable,None,0.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,3,1,4,8,8,3,Detchd,1998.0,2,583,3,3,253,170,0,0,0,6,2006,WD ,4004,3205,4,3.5
+1246,20,RL,51.0,11556,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,6,1952,Gable,Stone,52.0,3,CBlock,3,3,1,3,1,GasA,5,Y,4,0,2,1,4,4,8,0,Attchd,1952.0,1,240,3,3,0,0,0,0,0,5,2008,WD ,3960,1602,3,2.0
+2373,160,RM,45.0,1680,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,2Story,6,5,1972,Gable,BrkFace,297.0,3,CBlock,3,3,1,1,1,GasA,3,Y,5,0,2,1,3,5,8,1,Attchd,1972.0,1,288,3,3,0,0,0,0,0,6,2006,WD ,3978,1470,1,1.5
+1055,20,RL,67.0,12704,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,8,5,2007,Hip,Stone,302.0,3,PConc,5,3,1,6,1,GasA,5,Y,5,0,3,1,4,7,8,0,Attchd,2007.0,3,905,3,3,209,95,0,0,0,1,2008,New,4015,3164,5,3.0
+2017,50,RM,80.0,6120,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,5,6,1950,Gable,None,0.0,3,BrkTil,3,3,1,5,1,GasA,4,Y,4,0,2,1,4,6,8,0,Detchd,1926.0,1,379,3,3,25,0,0,0,0,8,2007,WD ,3933,2037,2,2.0
+1099,75,RL,50.0,9660,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2.5Unf,8,5,1997,Hip,BrkFace,1290.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,9,8,3,Attchd,1997.0,3,516,3,3,0,131,0,0,0,9,2008,WD ,4005,3372,5,2.5
+1344,30,RM,74.0,6120,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,6,1995,Gable,None,0.0,4,CBlock,0,0,0,0,0,GasA,4,N,5,0,1,1,3,6,6,0,Attchd,1925.0,1,164,3,2,0,48,0,0,0,6,2008,WD ,3953,808,2,1.0
+835,60,RL,72.0,28698,Pave,2,Low,4,CulDSac,1,Norm,Norm,1Fam,2Story,5,5,1967,Flat,None,0.0,3,PConc,3,4,5,2,5,GasA,3,Y,5,0,3,1,3,7,6,0,Attchd,1967.0,3,538,3,3,486,0,0,0,225,6,2009,WD ,3976,3139,5,3.0
+1117,20,RL,70.0,12274,Pave,3,Lvl,4,FR2,3,Norm,Norm,1Fam,1Story,7,5,2008,Gable,Stone,256.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,5,6,8,0,Attchd,2008.0,2,554,3,3,0,60,0,0,0,7,2008,New,4016,2845,4,2.0
+2043,45,RM,60.0,4388,Pave,3,Bnk,4,Inside,3,Feedr,Norm,1Fam,1.5Unf,5,7,1950,Gable,None,0.0,4,BrkTil,3,3,1,2,1,GasA,5,Y,5,0,3,1,3,5,8,3,None,1930.0,0,0,0,1,0,0,0,0,0,6,2007,WD ,3937,1512,1,1.0
+2085,120,RL,100.0,3869,Pave,4,Lvl,4,Inside,2,Norm,Norm,TwnhsE,1Story,5,6,1984,Gable,BrkFace,149.0,5,CBlock,3,3,1,2,6,GasA,4,Y,5,0,2,1,3,5,8,0,Attchd,1984.0,2,264,3,3,0,105,0,0,0,7,2007,WD ,3991,2076,1,2.0
+410,160,RL,70.0,2308,Pave,4,Lvl,4,FR2,3,Norm,Norm,TwnhsE,2Story,6,5,1976,Gable,None,0.0,3,CBlock,4,3,1,5,1,GasA,3,Y,5,0,3,1,3,7,8,3,Detchd,1976.0,2,440,3,3,108,0,0,0,0,9,2009,WD ,3985,2352,3,2.5
+2650,50,RM,53.0,4400,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,6,8,1950,Gable,None,0.0,3,BrkTil,2,3,1,1,1,GasA,3,Y,4,0,2,1,3,6,8,0,Detchd,1990.0,1,440,3,3,0,0,0,0,0,10,2006,WD ,3926,1766,1,1.0
+2867,70,RL,37.0,14210,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,7,1959,Gable,None,0.0,3,PConc,3,3,1,1,1,GasA,5,Y,5,0,3,1,3,8,8,4,Attchd,1930.0,1,365,2,3,0,90,0,0,0,11,2006,WD ,3936,2498,4,1.5
+1668,20,RL,82.5,9758,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,1971,Gable,None,0.0,3,CBlock,3,3,1,4,2,GasA,3,Y,5,0,3,1,3,5,8,0,Detchd,1981.0,1,280,3,3,0,0,0,0,0,7,2007,WD ,3978,1900,3,1.0
+1161,160,FV,79.0,4017,Pave,3,Lvl,4,Inside,3,Norm,Norm,TwnhsE,2Story,7,5,2007,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,2,1,4,5,8,0,Detchd,2006.0,3,625,3,3,0,54,0,0,0,3,2008,WD ,4014,1875,4,2.5
+2122,20,RL,100.0,11249,Pave,2,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,5,1995,Gable,None,0.0,4,PConc,4,4,1,5,4,GasA,5,Y,5,0,3,1,4,6,8,0,Attchd,1995.0,2,521,3,3,0,26,0,0,0,8,2007,WD ,4002,2400,4,3.0
+2539,80,RL,97.0,9600,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,SLvl,5,7,1967,Gable,BrkFace,140.0,3,PConc,3,3,4,5,3,GasA,4,Y,5,0,3,1,3,6,8,0,Attchd,1967.0,1,568,3,3,0,78,0,0,0,7,2006,WD ,3973,2282,3,2.0
+1047,120,RL,34.0,4043,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,6,6,1977,Gable,None,0.0,3,CBlock,4,3,1,5,1,GasA,3,Y,5,0,2,1,3,4,8,0,Attchd,1977.0,2,440,3,3,0,55,0,0,200,10,2008,COD,3985,2138,3,2.0
+1445,20,RL,82.0,9200,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,1Fam,1Story,5,6,1980,Hip,None,0.0,3,CBlock,4,3,4,2,4,GasA,3,Y,5,0,3,1,3,5,8,0,Detchd,1977.0,1,308,3,3,145,0,0,0,0,7,2008,WD ,3983,1876,4,2.0
+541,20,RL,96.0,13072,Pave,4,Lvl,4,Inside,3,RRAe,Norm,1Fam,1Story,5,5,2004,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,6,8,0,None,2004.0,0,0,0,3,0,39,0,0,0,8,2009,WD ,4013,2228,2,1.5
+569,120,FV,70.0,3830,Pave,3,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,6,5,2008,Gable,Stone,280.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,2,1,4,6,8,4,Attchd,2008.0,3,561,3,3,0,254,0,0,0,1,2009,New,4017,3452,4,2.5
+1276,45,RL,80.0,7227,Pave,4,HLS,4,Corner,2,Artery,Norm,1Fam,1.5Unf,6,6,1954,Gable,None,0.0,3,CBlock,3,3,1,1,1,GasA,4,Y,5,0,2,1,4,4,8,0,Detchd,1962.0,1,528,3,3,0,0,0,0,0,6,2008,WD ,3962,1664,3,1.0
+918,70,RL,52.0,7155,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,8,1990,Gambrel,None,0.0,3,BrkTil,3,2,3,1,1,GasA,5,Y,5,0,3,1,3,6,8,4,Detchd,1918.0,1,215,2,3,0,113,0,0,195,5,2009,WD ,3927,1828,4,1.0
+326,20,RL,74.0,11875,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,1999,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,3,7,8,4,Attchd,2001.0,1,686,3,3,328,0,0,0,0,6,2010,WD ,4009,2688,3,2.0
+1936,20,RL,24.0,8540,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,5,8,2003,Gable,None,0.0,4,CBlock,3,3,1,3,5,GasA,3,Y,5,0,3,1,4,5,8,0,Detchd,1956.0,1,252,3,3,152,0,0,0,0,6,2007,WD ,3963,1850,3,2.0
+895,20,RL,63.0,6410,Pave,4,HLS,4,Inside,2,Norm,Norm,1Fam,1Story,4,5,1959,Gable,None,0.0,3,CBlock,3,3,1,2,3,GasA,3,Y,4,0,3,1,3,5,8,0,Detchd,1959.0,1,320,3,3,0,0,0,0,0,3,2009,WD ,3968,1752,1,1.0
+257,85,RL,60.0,11105,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,SFoyer,5,5,1996,Gable,None,0.0,4,PConc,4,2,4,6,1,GasA,4,Y,5,0,2,1,3,4,8,0,Attchd,1998.0,1,580,4,3,71,0,0,0,0,7,2010,WD ,4006,1835,4,2.0
+1241,20,RL,74.0,13200,Pave,3,Lvl,4,Inside,3,Feedr,Norm,1Fam,1Story,6,6,1958,Gable,BrkFace,187.0,3,CBlock,3,3,1,2,1,GasA,5,Y,5,0,3,1,3,5,8,3,Attchd,1958.0,2,441,3,3,490,0,0,0,0,5,2008,WD ,3966,2965,3,2.0
+1545,30,RM,70.0,7000,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,8,1998,Gable,None,0.0,4,BrkTil,3,3,1,3,6,GasA,3,Y,5,0,2,1,3,5,8,0,Detchd,1926.0,1,195,3,2,0,0,116,0,0,7,2008,WD ,3934,1813,1,2.0
+1189,20,RL,60.0,11040,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,7,2004,Gable,BrkFace,144.0,4,CBlock,3,3,1,5,1,GasA,5,Y,5,0,3,1,4,5,8,0,Attchd,1971.0,2,528,3,3,55,0,0,216,0,10,2008,COD,3979,2516,3,2.5
+270,120,RM,112.0,4426,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,6,5,2004,Gable,BrkFace,169.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,1,1,4,3,8,0,Attchd,2004.0,2,420,3,3,160,0,0,0,0,5,2010,WD ,4014,1696,4,2.0
+2066,60,RL,41.0,16779,Pave,4,Lvl,4,Inside,3,Feedr,Norm,1Fam,2Story,5,4,1996,Gable,BrkFace,356.0,2,CBlock,4,3,1,4,1,GasA,2,Y,5,0,4,1,3,11,5,4,Attchd,1946.0,1,638,3,3,128,570,0,0,0,5,2007,WD ,3927,3325,2,3.0
+693,50,RM,72.0,10440,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,5,6,1981,Gable,None,0.0,3,PConc,3,3,1,1,1,GasA,4,Y,5,0,2,1,3,5,8,0,Detchd,1966.0,1,440,3,3,74,0,128,0,0,5,2009,WD ,3919,1670,1,1.5
+1259,50,RL,74.0,10836,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,5,5,1950,Gable,None,0.0,3,BrkTil,3,3,1,1,1,GasA,5,Y,5,0,3,1,3,7,8,4,Detchd,1968.0,1,1488,2,1,0,0,100,0,0,6,2008,WD ,3930,2328,1,1.5
+2916,20,RL,109.0,13384,Pave,4,Lvl,4,Inside,2,Norm,Norm,1Fam,1Story,5,5,1979,Gable,BrkFace,194.0,3,PConc,3,3,4,3,4,GasA,2,Y,5,0,3,1,3,8,8,3,Attchd,1969.0,2,336,3,3,160,0,0,0,0,5,2006,WD ,3975,2464,3,2.0
+2321,60,RL,80.0,13751,Pave,3,HLS,4,CulDSac,3,Norm,Norm,1Fam,2Story,7,5,2006,Gable,BrkFace,248.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,3,1,4,9,8,4,Attchd,2006.0,3,773,3,3,237,38,0,0,115,5,2006,New,4011,3912,3,3.5
+1977,30,RM,32.0,4480,Pave,4,Lvl,4,Corner,3,Artery,Norm,1Fam,1Story,5,5,1950,Gable,None,0.0,3,PConc,2,2,1,2,1,GasA,3,N,3,0,2,1,2,4,8,4,Detchd,1922.0,1,184,3,1,0,122,20,0,0,2,2007,WD ,3929,2044,1,2.0
+1895,20,RL,75.0,11382,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,5,1964,Gable,BrkFace,212.0,3,CBlock,3,3,1,5,3,GasA,3,Y,5,0,3,1,3,7,8,3,Attchd,1964.0,2,286,3,3,0,28,84,0,0,8,2007,WD ,3971,2504,3,1.5
+1240,20,RL,24.0,9120,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,6,1958,Hip,None,0.0,3,CBlock,3,3,1,5,1,GasA,5,Y,5,0,3,1,3,6,8,3,Attchd,1958.0,2,433,3,3,0,0,0,0,288,11,2008,WD ,3966,2522,3,2.0
+85,85,RL,70.0,11782,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,SFoyer,5,7,1995,Gable,None,0.0,3,CBlock,3,3,4,5,1,GasA,3,Y,5,0,3,1,4,6,6,0,Detchd,1987.0,1,576,3,3,192,0,0,0,0,6,2010,WD ,3971,2264,2,2.0
+1823,20,RL,62.0,6970,Pave,4,Lvl,4,Corner,3,Feedr,Norm,1Fam,1Story,4,5,1961,Gable,None,0.0,3,CBlock,3,3,1,5,1,GasA,3,Y,5,0,3,1,2,5,8,0,Attchd,1961.0,2,544,3,3,168,0,0,0,0,5,2007,WD ,3968,2160,2,2.5
+825,20,RL,50.0,11422,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,8,5,2008,Hip,Stone,352.0,3,PConc,5,3,4,6,1,GasA,5,Y,5,0,3,1,4,7,8,4,Attchd,2007.0,2,524,3,3,154,222,0,0,0,4,2009,WD ,4016,3676,4,3.0
+110,20,FV,65.0,8000,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,2002,Gable,None,0.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,6,8,4,Attchd,2002.0,2,596,3,3,277,137,0,0,0,4,2010,WD ,4012,2984,4,3.0
+697,50,RM,69.0,15660,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,5,8,2003,Gable,None,0.0,4,CBlock,3,3,1,1,1,GasA,3,Y,5,0,3,1,4,6,8,0,Detchd,1959.0,1,472,2,1,0,0,0,0,0,7,2009,WD ,3919,1546,1,1.5
+2297,85,RL,35.0,6723,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,SFoyer,5,7,1971,Gable,None,0.0,3,CBlock,4,3,4,6,1,GasA,3,Y,5,0,2,1,3,5,8,0,None,1971.0,0,0,0,3,129,0,0,0,0,9,2007,WD ,3978,1592,3,1.5
+1231,20,RL,80.0,7875,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,6,1961,Gable,BrkFace,136.0,3,CBlock,3,3,1,3,1,GasA,4,Y,5,0,3,1,3,6,8,0,Attchd,1961.0,1,456,3,3,0,0,0,0,0,9,2008,WD ,3969,2288,3,2.0
+1355,50,RL,72.0,9144,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,5,5,1982,Gable,None,0.0,3,CBlock,3,3,1,3,1,GasA,4,Y,5,0,3,1,3,8,8,0,Detchd,1940.0,1,240,3,1,0,0,0,0,0,7,2008,WD ,3948,2388,2,2.0
+968,20,RL,75.0,14601,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,9,5,2006,Hip,BrkFace,584.0,3,PConc,5,3,4,6,1,GasA,5,Y,5,0,2,1,5,8,8,4,Attchd,2006.0,3,765,3,3,270,68,0,0,0,3,2009,WD ,4015,3676,4,3.0
+584,60,RL,80.0,12732,Pave,3,Lvl,4,CulDSac,3,PosN,Norm,1Fam,2Story,7,6,1974,Gable,None,0.0,3,CBlock,3,3,3,6,2,GasA,3,Y,5,0,3,1,4,7,8,3,Attchd,1974.0,2,784,3,3,297,40,0,0,0,6,2009,WD ,3983,2819,3,2.5
+1315,70,RM,50.0,6000,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,5,9,2005,Gable,None,0.0,3,BrkTil,2,3,1,1,1,GasA,5,Y,5,0,3,1,4,7,8,0,None,1905.0,0,0,0,1,240,77,0,0,0,2,2008,WD ,3913,2112,1,1.5
+1606,20,RL,71.0,6600,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,8,2003,Gable,None,0.0,4,PConc,3,4,1,6,1,GasA,5,Y,5,0,2,1,3,4,8,0,Detchd,1985.0,3,816,3,3,0,0,0,0,0,6,2008,WD ,3990,1632,3,2.0
+206,90,RM,95.0,8472,Grvl,2,Bnk,4,Corner,2,RRNn,Norm,Duplex,1Story,5,5,1963,Gable,None,0.0,3,CBlock,4,3,5,2,6,GasA,3,N,5,0,2,1,3,5,8,0,CarPort,1963.0,1,516,3,3,106,0,0,0,0,5,2010,WD ,3973,1632,1,2.0
+1685,20,RL,63.0,12469,Pave,4,Lvl,4,FR2,3,Norm,Norm,1Fam,1Story,9,5,2007,Hip,Stone,378.0,3,PConc,5,3,5,6,1,GasA,5,Y,5,0,3,1,5,7,8,4,Attchd,2007.0,3,730,3,3,186,36,0,0,0,8,2007,New,4013,3606,5,3.0
+2016,50,RM,75.0,6240,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,5,7,1992,Gable,None,0.0,3,BrkTil,3,3,1,1,1,GasA,5,Y,5,0,3,1,3,6,8,4,Detchd,1930.0,1,230,2,3,174,0,96,0,0,7,2007,WD ,3937,2392,2,1.0
+869,60,RL,74.0,11250,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,7,5,2001,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,6,8,0,Attchd,2001.0,2,608,3,3,256,43,0,0,0,5,2009,WD ,4010,2814,4,2.5
+2135,20,RL,90.0,11800,Pave,3,Bnk,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,1974,Gable,None,0.0,3,CBlock,4,3,4,4,1,GasA,3,Y,5,0,3,1,3,5,8,0,Attchd,1974.0,1,440,3,3,0,0,0,0,0,8,2007,WD ,3981,1758,4,1.0
+2346,60,RL,70.0,18800,Pave,3,Lvl,4,FR2,3,Norm,Norm,1Fam,2Story,6,5,1976,Gable,BrkFace,120.0,3,PConc,4,3,3,6,1,GasA,3,Y,5,0,3,1,3,6,8,3,Attchd,1976.0,3,566,3,3,306,111,0,0,0,7,2006,WD ,3982,2370,3,3.5
+2430,120,RL,80.0,4045,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,7,5,2006,Hip,BrkFace,45.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,2,1,4,6,8,4,Attchd,2006.0,3,648,3,3,161,20,0,0,0,10,2006,New,4012,2856,4,3.0
+2198,45,RL,80.0,10594,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Unf,5,5,1950,Gable,None,0.0,3,BrkTil,3,3,1,1,1,Grav,2,N,5,0,2,1,3,5,8,0,Detchd,1926.0,1,200,1,3,0,0,112,0,0,6,2007,WD ,3933,1557,4,1.0
+2652,190,RM,86.0,6000,Pave,4,Lvl,4,Inside,3,Norm,Norm,2fmCon,1Story,5,7,1955,Hip,None,0.0,3,CBlock,3,3,4,6,1,GasA,3,Y,4,0,3,1,3,5,8,0,Detchd,1976.0,1,576,3,3,0,0,0,0,0,6,2006,WD ,3961,1920,1,2.0
+27,20,RL,70.0,8400,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,4,5,1970,Gable,None,0.0,3,CBlock,3,3,1,5,3,GasA,3,Y,5,0,2,1,3,4,8,0,Attchd,1970.0,3,525,3,3,240,0,0,0,0,4,2010,WD ,3980,1764,3,2.0
+241,20,RL,90.0,10420,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,6,5,2009,Gable,None,0.0,3,PConc,4,3,3,6,1,GasA,5,Y,5,0,3,1,4,6,8,0,Attchd,2009.0,2,460,3,3,100,22,0,0,0,3,2010,WD ,4019,2424,1,2.0
+906,50,RH,109.0,6300,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1.5Fin,5,4,1950,Gable,BrkFace,88.0,3,PConc,3,2,1,2,1,GasA,3,Y,5,0,3,1,3,7,8,4,Basment,1938.0,1,250,3,3,0,0,55,0,0,7,2009,WD ,3947,2100,2,1.5
+1506,50,RL,65.0,12180,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,5,7,2007,Gable,None,0.0,3,PConc,3,3,1,1,1,GasA,4,Y,3,0,2,1,5,5,8,0,None,1938.0,0,0,0,1,42,0,0,0,0,1,2008,WD ,3946,1638,1,1.5
+2098,60,RL,70.0,9965,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,5,2007,Hip,Stone,340.0,3,PConc,5,3,5,6,1,GasA,5,Y,5,0,4,1,4,11,8,3,BuiltIn,2006.0,2,1052,3,3,125,144,0,0,0,4,2007,New,4013,4294,4,4.0
+1435,20,RL,63.0,8696,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,1998,Gable,BrkFace,150.0,3,PConc,4,3,5,6,1,GasA,5,Y,5,0,3,1,4,5,8,3,Attchd,1997.0,2,558,3,3,208,110,0,0,0,5,2008,WD ,4005,2836,4,3.0
+2213,20,RL,87.0,13108,Pave,2,HLS,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,1951,Gable,None,0.0,3,CBlock,0,0,0,0,0,GasA,2,Y,5,0,2,1,3,7,7,4,Attchd,1951.0,3,400,3,3,174,24,120,0,228,6,2007,WD ,3958,1226,4,1.5
+1274,50,RL,72.0,8064,Pave,4,Lvl,4,Inside,3,Artery,Norm,1Fam,1.5Fin,6,6,1950,Gable,None,0.0,3,CBlock,3,3,1,5,1,GasA,5,Y,5,0,3,1,3,5,8,0,Detchd,1994.0,1,576,3,3,108,0,0,0,0,9,2008,WD ,3956,2088,3,2.0
+743,30,RM,72.0,6120,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,2,3,1950,Gable,None,0.0,2,BrkTil,3,2,1,1,1,Grav,2,N,4,0,1,1,2,4,4,1,None,1936.0,0,0,0,1,0,0,0,0,0,1,2009,ConLw,3945,1064,2,1.0
+1737,20,RL,123.0,8899,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,2007,Gable,None,0.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,3,1,4,6,8,0,Attchd,2007.0,3,396,3,3,100,30,0,0,0,8,2007,New,4014,2680,3,2.0
+2797,60,RL,30.0,10566,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,5,1999,Gable,BrkFace,261.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,3,1,4,8,8,3,Attchd,1999.0,3,646,3,3,197,80,0,0,0,7,2006,WD ,4005,3304,4,3.5
+2185,90,RL,38.0,6882,Pave,4,Lvl,4,Corner,3,Norm,Norm,Duplex,1Story,4,3,1955,Gable,BrkCmn,128.0,3,PConc,0,0,0,0,0,GasA,3,N,5,0,2,2,2,6,8,0,None,1955.0,0,0,0,1,0,0,0,0,0,9,2007,WD ,3962,1152,1,2.0
+58,80,RL,50.0,7750,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,SLvl,7,5,2000,Gable,None,0.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,3,7,8,3,BuiltIn,2000.0,3,400,3,3,180,0,0,0,0,4,2010,WD ,4010,1814,3,2.5
+830,20,RL,129.0,7314,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,2007,Gable,Stone,82.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,2,1,4,6,8,0,Attchd,2007.0,2,632,3,3,132,0,0,0,0,2,2009,WD ,4016,2464,4,3.0
+808,90,RL,86.0,7018,Pave,4,Bnk,4,Inside,3,Norm,Norm,Duplex,1Story,5,5,1979,Gable,None,0.0,2,Slab,0,0,0,0,0,GasA,3,Y,5,0,4,2,3,8,8,0,Attchd,1979.0,1,410,3,3,0,0,0,0,0,6,2009,WD ,3988,1535,2,2.0
+680,50,RL,96.0,7200,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,5,4,1982,Gable,None,0.0,3,CBlock,3,3,1,3,4,GasA,4,Y,4,0,3,1,3,7,7,0,Attchd,1950.0,1,240,3,3,0,0,168,0,0,5,2009,WD ,3959,3112,3,2.5
+1153,190,RL,100.0,8450,Pave,4,Lvl,4,Inside,3,RRAe,Norm,2fmCon,1Story,5,5,1968,Gable,None,0.0,3,CBlock,3,2,3,5,1,GasA,4,N,5,0,3,1,3,5,8,0,Detchd,1970.0,1,308,3,3,0,0,0,0,0,4,2008,WD ,3976,1780,2,2.0
+1291,75,RM,56.0,6000,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2.5Unf,6,7,2005,Gable,None,0.0,3,BrkTil,3,3,1,1,1,GasA,4,Y,5,0,4,1,4,7,8,0,Detchd,1915.0,1,308,2,1,0,0,248,0,0,6,2008,WD ,3923,2184,1,1.5
+1818,90,RH,75.0,8400,Pave,4,Lvl,4,Inside,3,Feedr,Norm,Duplex,1Story,5,5,1977,Gable,BrkFace,320.0,3,Slab,0,0,0,0,0,GasA,3,Y,5,0,4,2,3,10,8,3,Detchd,1977.0,1,630,3,3,0,0,0,0,0,10,2007,WD ,3984,2020,2,2.0
+2161,60,RL,74.0,8145,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,2007,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,7,8,0,Attchd,2007.0,2,552,3,3,0,35,0,0,0,6,2007,New,4014,2214,4,2.5
+1883,20,RL,57.0,8892,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,1960,Gable,BrkCmn,66.0,3,CBlock,3,3,1,1,1,GasA,4,Y,5,0,3,1,3,6,8,0,Detchd,1974.0,1,461,3,3,74,0,0,0,0,7,2007,COD,3967,2130,3,1.5
+350,120,RL,72.0,7296,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,TwnhsE,1Story,8,5,2005,Gable,None,0.0,3,PConc,5,3,4,6,1,GasA,5,Y,5,0,1,1,4,8,8,4,Attchd,2004.0,3,564,3,3,182,57,0,0,0,11,2009,WD ,4013,4730,5,3.0
+2473,20,RL,75.0,13072,Pave,4,Lvl,4,Inside,3,RRAe,Norm,1Fam,1Story,6,5,2006,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,6,8,0,None,2005.0,0,0,0,3,0,39,0,0,0,3,2006,New,4011,2262,2,1.5
+295,90,RL,100.0,15600,Pave,4,Lvl,4,Inside,3,Norm,Norm,Duplex,2Story,5,6,1991,Gable,BrkFace,430.0,4,CBlock,3,3,1,5,1,GasA,5,Y,5,0,5,2,3,11,8,0,Detchd,1950.0,1,484,3,3,0,0,0,0,0,3,2010,WD ,3960,3209,4,2.5
+293,50,RL,43.0,9638,Pave,4,Lvl,4,Inside,3,Feedr,Norm,1Fam,1.5Fin,6,7,1990,Gable,None,0.0,3,PConc,3,3,1,1,1,GasA,5,Y,5,0,4,1,4,10,6,4,Detchd,1969.0,1,336,3,3,272,0,42,0,116,3,2010,WD ,3929,3251,2,2.0
+859,20,RL,56.0,15523,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,1Fam,1Story,5,6,1972,Gable,None,0.0,3,CBlock,3,3,4,4,1,GasA,5,Y,5,0,3,1,3,5,8,2,Attchd,1972.0,1,338,3,3,0,0,0,0,0,8,2009,WD ,3981,1728,4,2.0
+288,30,RL,68.0,8212,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,3,3,1950,Gable,None,0.0,2,BrkTil,3,2,1,3,1,GasA,3,N,3,0,2,1,3,5,8,0,Detchd,1938.0,1,200,3,3,0,0,96,0,0,6,2010,WD ,3924,1728,1,2.0
+1578,80,RL,24.0,9735,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,SLvl,5,5,2007,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,4,Y,1,0,3,1,4,7,8,0,BuiltIn,2007.0,3,400,3,3,100,0,0,0,0,5,2008,WD ,4014,1778,4,2.5
+102,160,FV,125.0,2980,Pave,4,Lvl,4,Corner,3,Norm,Norm,TwnhsE,2Story,6,5,2000,Gable,BrkFace,1159.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,2,1,4,5,8,0,Detchd,2000.0,1,440,3,3,0,32,0,0,0,5,2010,WD ,4010,2268,4,3.5
+2831,160,RM,81.0,2522,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,2Story,6,5,2006,Gable,Stone,50.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,7,4,0,Detchd,2004.0,1,380,3,3,0,40,0,0,0,4,2006,WD ,4010,2679,1,2.0
+1030,20,RL,85.0,10400,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,5,1976,Gable,BrkFace,120.0,3,CBlock,3,3,1,1,1,GasA,3,Y,5,0,2,1,3,5,8,4,Attchd,1976.0,1,473,3,3,0,24,0,0,0,4,2008,WD ,3984,2888,3,2.0
+2551,20,RL,82.0,10800,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,1960,Hip,BrkFace,88.0,3,CBlock,3,3,1,5,1,GasA,5,Y,5,0,3,1,3,6,8,0,Attchd,1960.0,1,286,3,3,0,0,0,0,0,5,2006,WD ,3966,2496,3,2.0
+1286,70,RM,64.0,10440,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,5,8,2002,Gable,None,0.0,3,PConc,3,3,1,1,1,GasA,4,Y,5,0,3,1,4,8,8,1,Detchd,1983.0,1,686,4,2,70,78,68,0,0,6,2008,WD ,3912,2189,1,2.0
+958,20,RL,43.0,12898,Pave,3,HLS,4,Inside,3,Norm,Norm,1Fam,1Story,9,5,2008,Hip,Stone,70.0,3,PConc,5,3,5,6,1,GasA,5,Y,5,0,2,1,5,6,8,5,Attchd,2008.0,3,912,3,3,228,0,0,0,0,9,2009,WD ,4016,3240,4,3.0
+776,85,RL,95.0,8740,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,SFoyer,5,6,1982,Hip,None,0.0,3,CBlock,3,3,4,5,1,GasA,3,Y,5,0,2,1,3,4,8,0,Detchd,1996.0,1,528,3,3,0,0,0,0,0,7,2009,WD ,3991,1700,2,2.0
+72,20,FV,75.0,10440,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,6,5,2005,Gable,None,0.0,3,PConc,5,3,1,6,1,GasA,5,Y,5,0,2,1,4,6,8,4,Attchd,2005.0,3,528,3,3,0,102,0,0,216,5,2010,WD ,4015,2936,4,3.0
+2263,20,RL,80.0,10991,Pave,3,HLS,4,Inside,3,Norm,Norm,1Fam,1Story,8,5,2007,Gable,BrkFace,80.0,3,PConc,4,3,5,1,1,GasA,5,Y,5,0,3,1,4,7,8,4,Attchd,2007.0,3,722,3,3,100,36,0,0,0,12,2007,New,4014,3142,4,2.0
+1866,85,RL,60.0,8723,Pave,3,Lvl,4,Inside,3,PosN,Norm,1Fam,SFoyer,6,6,1969,Gable,None,0.0,3,PConc,4,3,4,4,1,GasA,5,Y,5,0,3,1,3,6,8,0,Attchd,1969.0,1,480,3,3,160,0,0,0,0,1,2007,WD ,3976,2055,3,2.0
+2876,30,RM,98.0,7030,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,4,6,1950,Gable,None,0.0,3,BrkTil,3,3,1,1,1,GasA,4,Y,5,0,2,1,2,4,8,0,Detchd,1925.0,1,272,3,1,184,0,70,0,0,3,2006,WD ,3931,1282,1,1.0
+2146,60,RL,76.0,9375,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,5,2002,Gable,BrkFace,149.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,7,8,4,Attchd,2002.0,2,647,3,3,192,87,0,0,0,8,2007,WD ,4009,3453,4,2.5
+103,160,FV,65.0,2572,Pave,4,Lvl,4,FR2,3,Norm,Norm,Twnhs,2Story,7,5,1999,Hip,None,0.0,3,PConc,4,3,1,5,1,GasA,5,Y,5,0,3,1,4,6,8,0,Detchd,1999.0,1,484,3,3,0,44,0,0,0,5,2010,WD ,4009,2112,4,3.5
+1500,180,RM,65.0,3675,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,SLvl,6,5,2005,Gable,BrkFace,80.0,3,PConc,4,3,5,6,1,GasA,5,Y,5,0,2,1,3,5,8,0,Basment,2005.0,2,525,3,3,0,28,0,0,0,6,2008,WD ,4013,1619,1,2.0
+492,60,RL,70.0,24682,Pave,1,Lvl,4,CulDSac,3,RRAn,Norm,1Fam,2Story,6,5,1999,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,3,7,8,3,BuiltIn,1999.0,3,502,3,3,0,103,0,0,0,6,2009,WD ,4008,2516,3,2.5
+167,20,RL,44.0,7635,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,5,6,1960,Gable,None,0.0,3,CBlock,3,3,1,3,2,GasA,5,Y,5,0,3,1,3,6,8,0,Detchd,1960.0,2,484,3,3,0,0,0,0,0,6,2010,WD ,3970,2350,3,1.5
+2597,20,RL,77.0,5400,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,2000,Gable,None,0.0,4,CBlock,3,3,1,3,1,GasA,5,Y,5,0,2,1,4,4,8,0,Detchd,1955.0,1,326,3,3,0,0,0,0,0,8,2006,WD ,3960,1666,1,1.0
+2685,45,RM,40.0,6380,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Unf,5,6,1950,Gable,None,0.0,3,BrkTil,3,2,1,1,1,GasA,3,Y,4,0,2,1,3,5,8,4,Detchd,1922.0,1,280,3,3,0,0,116,0,0,8,2006,WD ,3928,2041,2,1.0
+1035,20,RL,60.0,9750,Pave,4,Lvl,4,FR2,3,Norm,Norm,1Fam,1Story,6,8,1969,Gable,None,0.0,3,CBlock,4,3,1,5,2,GasA,4,Y,5,0,3,1,3,6,8,0,Attchd,1969.0,1,460,3,3,180,0,0,0,80,7,2008,WD ,3977,2108,3,2.5
+1220,20,RL,70.0,6627,Pave,3,Lvl,4,Corner,3,Feedr,Norm,1Fam,1Story,3,6,1950,Hip,None,0.0,3,CBlock,0,0,0,0,0,Floor,3,N,5,0,2,1,3,4,8,0,Detchd,1955.0,1,287,3,3,0,0,0,0,0,7,2008,WD ,3957,720,2,1.0
+2602,70,RL,63.0,7200,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,8,1950,Gable,None,0.0,5,CBlock,3,3,1,3,1,GasA,5,Y,5,0,3,1,3,7,8,4,Detchd,1974.0,1,528,3,3,49,0,231,0,0,4,2006,WD ,3921,2258,1,2.0
+2159,60,RL,60.0,8200,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,2004,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,4,1,4,8,8,4,BuiltIn,2003.0,3,434,3,3,100,48,0,0,0,7,2007,WD ,4010,2775,4,2.5
+695,90,RM,76.0,10307,Pave,4,Lvl,4,Inside,3,Norm,Norm,Duplex,2Story,6,5,1950,Gable,None,0.0,3,CBlock,3,3,3,2,1,GasA,4,N,4,0,4,2,3,12,8,0,Detchd,1920.0,1,324,2,1,0,28,169,0,0,6,2009,WD ,3919,2916,1,3.0
+1109,60,RL,80.0,10944,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,1994,Gable,BrkFace,448.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,5,8,3,Attchd,1994.0,2,525,3,3,171,132,0,0,0,8,2008,WD ,4002,3350,5,3.5
+640,80,RL,70.0,19296,Pave,4,Lvl,4,Corner,3,Artery,Norm,1Fam,SLvl,6,5,1962,Gable,BrkFace,399.0,3,CBlock,3,3,5,3,5,GasA,3,Y,5,0,3,1,3,6,8,3,Attchd,1991.0,1,884,3,3,0,0,252,0,0,5,2009,WD ,3971,2744,3,2.0
+1652,80,RL,60.0,10395,Pave,3,Lvl,4,FR2,3,Norm,Norm,1Fam,SLvl,6,6,1978,Gable,BrkFace,233.0,3,CBlock,4,3,4,5,1,GasA,3,Y,5,0,3,1,3,6,8,3,Attchd,1978.0,1,564,3,3,0,0,0,0,0,7,2007,WD ,3985,2064,3,2.5
+2090,50,RL,70.0,23920,Pave,4,Lvl,4,Inside,3,Feedr,Norm,1Fam,1.5Fin,6,5,1984,Gable,None,0.0,3,CBlock,3,3,1,1,1,GasA,5,Y,5,0,4,1,4,7,6,1,Attchd,1984.0,1,515,3,2,0,195,1012,0,0,4,2007,WD ,3991,2927,2,2.0
+1188,20,RL,70.0,11050,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,5,1968,Gable,None,0.0,3,CBlock,3,3,1,3,1,GasA,2,Y,5,0,4,1,3,8,8,3,Attchd,1968.0,2,512,3,3,25,0,0,0,192,10,2008,WD ,3976,3480,3,1.5
+2345,60,RL,52.0,16659,Pave,3,Lvl,4,Corner,3,PosA,Norm,1Fam,2Story,7,7,1994,Gable,BrkFace,34.0,3,CBlock,3,3,1,5,1,GasA,2,Y,5,0,3,1,4,9,8,3,Attchd,1977.0,3,539,3,3,0,250,0,0,0,3,2006,WD ,3983,3058,3,3.5
+1059,60,RL,89.0,13418,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,9,5,2006,Hip,BrkFace,270.0,3,PConc,5,3,5,6,1,GasA,5,Y,5,0,4,1,5,9,8,4,BuiltIn,2006.0,3,850,3,3,212,182,0,0,0,10,2008,WD ,4014,4598,5,3.5
+2751,60,RL,76.0,11003,Pave,2,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,2006,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,7,8,0,BuiltIn,2005.0,2,848,3,3,0,40,0,0,0,7,2006,New,4011,3184,4,2.5
+128,50,RL,115.0,9724,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,5,7,2002,Gable,BrkFace,265.0,3,CBlock,3,3,1,2,1,GasA,4,Y,5,0,3,1,3,7,6,4,Detchd,1994.0,1,400,3,3,0,0,0,0,0,3,2010,WD ,3962,3601,3,2.0
+1523,90,RL,53.0,7804,Pave,4,Lvl,4,Inside,3,Norm,Norm,Duplex,2.5Unf,6,7,1950,Gable,None,0.0,3,BrkTil,3,3,1,5,3,GasA,5,Y,5,0,4,2,3,10,8,4,Detchd,1930.0,1,480,3,3,248,0,121,0,0,7,2008,WD ,3938,2880,2,5.0
+2925,20,RL,88.5,20000,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,1996,Gable,None,0.0,3,CBlock,3,3,1,5,1,GasA,5,Y,5,0,4,1,3,7,8,3,Detchd,1960.0,1,576,3,3,474,0,0,0,0,9,2006,WD ,3966,2448,3,2.0
+2145,20,RL,64.0,10386,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,8,5,2005,Gable,Stone,246.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,8,8,0,Attchd,2004.0,3,888,3,3,168,0,0,0,0,7,2007,WD ,4011,4000,4,3.0
+1121,20,FV,78.0,8640,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,8,5,2008,Gable,None,0.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,6,8,0,Attchd,2008.0,2,588,3,3,192,113,0,0,0,7,2008,New,4015,2735,4,2.0
+566,160,FV,72.0,2880,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,2Story,7,5,2005,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,9,5,3,BuiltIn,2004.0,3,704,3,3,0,177,0,0,0,7,2009,WD ,4013,4381,4,2.5
+565,60,RL,65.0,11949,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,8,2008,Gable,BrkFace,196.0,4,PConc,4,3,1,6,5,GasA,5,Y,5,0,3,1,4,7,8,3,Attchd,1991.0,1,524,3,3,502,60,0,0,0,7,2009,WD ,4000,2730,5,3.0
+1331,50,RL,24.0,7010,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,5,5,1950,Gable,None,0.0,3,BrkTil,3,3,1,3,1,GasA,3,Y,5,0,3,1,3,6,8,4,Detchd,1950.0,1,240,3,2,0,30,0,0,0,7,2008,WD ,3943,2762,2,2.0
+2928,85,RL,43.0,10441,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,SFoyer,5,5,1992,Gable,None,0.0,3,PConc,4,3,4,6,1,GasA,3,Y,5,0,3,1,3,6,8,0,None,1992.0,0,0,0,3,80,32,0,0,0,7,2006,WD ,3998,1882,3,1.5
+156,20,RL,47.0,10200,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,2003,Gable,BrkFace,104.0,3,CBlock,3,3,1,5,4,GasA,4,Y,5,0,3,1,3,6,8,0,Attchd,1989.0,1,490,3,3,0,0,0,0,0,5,2010,WD ,3964,2172,3,2.0
+797,50,RL,72.0,11409,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,5,4,2008,Gable,None,0.0,3,CBlock,3,3,1,2,1,GasA,4,Y,5,0,3,1,3,8,6,4,Attchd,1949.0,1,281,3,3,0,0,0,0,160,1,2009,WD ,3958,2484,1,1.5
+327,160,RM,21.0,1974,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,2Story,4,5,1973,Gable,None,0.0,3,CBlock,3,3,1,4,1,GasA,3,Y,5,0,3,1,3,6,8,0,Attchd,1973.0,2,286,3,3,120,96,0,0,0,5,2010,WD ,3983,1638,1,1.5
+2859,50,RL,70.0,21780,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,5,1950,Gable,None,0.0,3,PConc,3,2,1,1,1,GasA,4,Y,3,0,3,1,3,7,6,3,Detchd,1937.0,1,318,3,2,0,0,429,0,0,9,2006,WD ,3926,2367,4,1.5
+1453,20,RL,42.0,7200,Pave,4,Bnk,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,1972,Gable,None,0.0,3,CBlock,3,3,4,5,1,GasA,5,Y,5,0,2,1,3,4,8,0,Detchd,1973.0,1,352,3,3,196,0,0,0,0,1,2008,WD ,3980,1560,4,1.0
+1762,60,RL,72.0,12191,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,5,1998,Hip,BrkFace,515.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,4,1,4,8,8,3,Attchd,1998.0,3,925,3,3,76,61,0,0,0,6,2007,WD ,4004,4330,5,3.5
+1868,20,RL,60.0,11358,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,7,7,1987,Hip,None,0.0,3,CBlock,3,3,1,4,1,GasA,3,Y,5,0,3,1,4,8,8,3,Attchd,1972.0,2,515,3,3,202,0,0,0,256,5,2007,WD ,3979,2734,3,2.0
+1760,60,RL,114.0,9649,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,5,2000,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,3,7,8,3,Attchd,1999.0,2,460,3,3,460,42,0,0,0,5,2007,WD ,4006,2585,3,2.5
+1113,20,RL,50.0,11957,Pave,3,Lvl,4,Inside,3,RRAn,Norm,1Fam,1Story,8,5,2006,Gable,BrkFace,53.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,7,8,4,Attchd,2006.0,2,824,3,3,144,104,0,0,0,7,2008,WD ,4014,3148,4,2.0
+1812,60,RL,106.0,11613,Pave,2,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,6,5,1997,Gable,None,0.0,3,PConc,4,3,1,5,1,GasA,5,Y,5,0,3,1,4,7,8,0,Attchd,1993.0,2,492,3,3,144,85,0,0,0,5,2007,WD ,4000,2684,2,2.5
+117,60,RL,85.0,9600,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,6,1971,Gable,None,0.0,3,CBlock,3,3,1,5,1,GasA,3,Y,5,0,4,1,3,7,8,0,Attchd,1971.0,2,441,3,3,0,78,0,0,0,6,2010,WD ,3981,2360,3,2.0
+1142,20,RL,60.0,8125,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,5,1998,Gable,BrkFace,258.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,7,8,2,Attchd,1994.0,2,575,3,3,224,42,0,0,0,10,2008,WD ,4002,3087,2,3.0
+2342,20,RL,63.0,18261,Pave,3,HLS,4,Inside,3,Norm,Norm,1Fam,1Story,9,5,2005,Hip,BrkFace,420.0,3,PConc,5,3,5,6,1,GasA,5,Y,5,0,3,1,5,8,8,4,Attchd,2005.0,1,722,3,3,351,102,0,0,123,9,2006,WD ,4011,3910,5,3.5
+927,20,RL,73.0,9100,Pave,4,Lvl,4,Inside,3,Feedr,Norm,1Fam,1Story,5,6,1954,Gable,None,0.0,4,BrkTil,3,3,3,3,5,GasA,5,Y,5,0,2,1,3,6,8,4,Attchd,1954.0,1,390,3,3,0,0,0,0,0,10,2009,WD ,3963,2224,4,2.0
+2478,60,RL,70.0,8304,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,5,1998,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,3,7,8,0,Attchd,1997.0,2,688,3,3,150,165,0,0,0,7,2006,WD ,4003,2778,2,2.5
+655,20,RL,59.0,5470,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,3,5,1958,Gable,None,0.0,3,CBlock,3,3,1,1,1,GasA,4,Y,4,0,2,1,3,4,8,0,Attchd,1958.0,1,366,2,3,0,90,0,0,0,8,2009,WD ,3967,1584,1,1.0
+2064,20,RL,67.0,8169,Pave,4,Lvl,4,Corner,3,Feedr,Norm,1Fam,1Story,5,7,1966,Gable,None,0.0,4,CBlock,3,3,1,3,5,GasA,5,Y,5,0,3,1,4,6,8,0,Detchd,1966.0,1,315,3,3,204,0,0,0,0,7,2007,WD ,3973,1824,2,2.0
+369,20,RL,60.0,16158,Pave,3,Low,4,Inside,2,Norm,Norm,1Fam,1Story,7,5,2005,Hip,Stone,16.0,3,PConc,5,3,4,5,1,GasA,5,Y,5,0,3,1,4,7,8,4,Attchd,2005.0,3,430,3,3,168,36,0,0,0,6,2009,WD ,4014,3060,5,3.0
+2239,30,RM,92.0,8263,Pave,4,Bnk,4,Inside,2,Norm,Norm,1Fam,1Story,6,5,1950,Gable,None,0.0,3,BrkTil,3,3,1,1,1,GasA,3,Y,4,0,2,1,3,6,8,4,Detchd,1920.0,1,308,3,3,0,22,112,0,0,5,2007,WD ,3927,2024,1,1.0
+2732,120,RL,82.5,5271,Pave,3,Low,4,Inside,2,Norm,Norm,1Fam,1Story,7,5,1986,Gable,None,0.0,3,PConc,4,3,5,6,1,GasA,4,Y,5,0,2,1,4,6,8,3,Attchd,1986.0,2,445,3,3,0,80,0,0,184,12,2006,WD ,3992,2906,5,2.5
+1653,20,RL,40.0,11850,Pave,4,Lvl,4,FR2,3,Norm,Norm,1Fam,1Story,6,6,1984,Gable,BrkFace,98.0,3,CBlock,4,3,1,5,1,GasA,3,Y,5,0,3,1,4,6,8,0,Attchd,1984.0,3,495,3,3,204,103,0,0,0,8,2007,WD ,3991,2330,3,2.0
+959,60,RL,67.0,13159,Pave,3,HLS,4,Corner,3,Norm,Norm,1Fam,2Story,7,5,2009,Gable,None,0.0,3,PConc,5,3,4,1,1,GasA,4,Y,5,0,3,1,4,6,8,0,Attchd,2009.0,2,650,3,3,208,114,0,0,0,7,2009,New,4018,2538,4,2.5
+2395,60,RL,24.0,11643,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,5,2006,Hip,BrkFace,142.0,3,PConc,5,3,4,6,1,GasA,5,Y,5,0,4,1,5,10,8,4,BuiltIn,2005.0,3,784,3,3,120,34,0,0,0,8,2006,New,4011,3882,5,3.5
+1412,90,RL,50.0,9350,Pave,4,Lvl,4,Inside,3,Norm,Norm,Duplex,SFoyer,5,5,1975,Gable,None,0.0,3,PConc,4,3,4,6,1,GasA,2,N,5,0,2,1,3,4,8,0,None,1975.0,0,0,0,3,0,0,0,0,0,4,2008,WD ,3983,1728,1,2.0
+271,20,RL,50.0,10635,Pave,2,Lvl,4,FR2,3,Norm,Norm,1Fam,1Story,8,5,2003,Hip,BrkFace,171.0,3,PConc,4,3,4,4,6,GasA,5,Y,5,0,3,1,4,8,8,3,Attchd,2003.0,3,502,3,3,0,262,0,0,0,5,2010,WD ,4013,3325,4,3.0
+1484,120,RM,70.0,4438,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,6,5,2004,Gable,BrkFace,205.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,1,1,4,3,8,4,Attchd,2004.0,2,420,3,3,149,0,0,0,0,1,2008,WD ,4012,1696,4,2.0
+1497,20,RL,73.0,7024,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,4,5,2005,Gable,None,0.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,2,1,4,5,8,0,Attchd,2005.0,3,451,3,3,252,64,0,0,0,6,2008,WD ,4013,2264,1,2.5
+552,90,RL,72.0,8250,Pave,4,Lvl,4,Inside,3,Norm,Norm,Duplex,2Story,6,7,1981,Gable,None,0.0,3,Slab,0,0,0,0,0,GasA,3,Y,5,0,4,2,3,8,8,3,Attchd,1981.0,1,612,3,3,0,0,0,0,0,5,2009,WD ,3990,1882,2,2.0
+2,20,RH,86.0,11622,Pave,4,Lvl,4,Inside,3,Feedr,Norm,1Fam,1Story,5,6,1961,Gable,None,0.0,3,CBlock,3,3,1,3,2,GasA,3,Y,5,0,2,1,3,5,8,0,Attchd,1961.0,1,730,3,3,140,0,0,0,120,6,2010,WD ,3971,1778,3,1.0
+1855,20,RL,60.0,12000,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,6,1980,Hip,BrkFace,600.0,3,CBlock,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,8,8,3,Attchd,1980.0,2,546,4,3,180,16,0,0,0,3,2007,WD ,3987,4364,5,3.5
+4,20,RL,63.0,11160,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,7,5,1968,Hip,None,0.0,3,CBlock,3,3,1,5,1,GasA,5,Y,5,0,3,1,5,8,8,3,Attchd,1968.0,3,522,3,3,0,0,0,0,0,4,2010,WD ,3978,4220,3,3.5
+2292,80,RL,93.0,11333,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,SLvl,6,5,1976,Gable,None,0.0,3,PConc,4,3,4,5,1,GasA,3,Y,5,0,3,1,3,5,8,3,Attchd,1976.0,2,539,3,3,120,0,0,0,0,5,2007,WD ,3983,2091,3,2.0
+134,20,RL,80.0,7800,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,6,1954,Gable,BrkFace,200.0,3,PConc,3,3,1,2,1,GasA,4,Y,5,0,2,1,3,7,8,4,Attchd,1954.0,3,244,3,3,0,98,0,0,0,3,2010,WD ,3964,2536,3,1.0
+646,20,RL,61.0,10434,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,4,5,1955,Gable,None,0.0,3,CBlock,3,3,1,1,1,GasA,3,Y,5,0,2,1,2,5,8,3,Detchd,1977.0,1,672,2,3,0,0,0,0,0,11,2009,WD ,3964,2010,3,1.0
+42,20,RL,104.0,11520,Pave,4,Lvl,4,Inside,3,PosN,Norm,1Fam,1Story,9,5,2005,Hip,BrkFace,615.0,3,PConc,5,3,1,6,1,GasA,5,Y,5,0,3,1,5,7,8,4,Attchd,2005.0,3,730,3,3,192,74,0,0,0,6,2010,WD ,4015,3396,5,2.0
+532,20,FV,47.0,8736,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,2004,Gable,None,0.0,3,PConc,4,3,1,6,5,GasA,5,Y,5,0,3,1,4,6,8,0,Attchd,2003.0,2,588,3,3,192,88,0,0,0,8,2009,WD ,4012,3106,4,3.0
+713,190,RM,80.0,4456,Pave,4,Lvl,4,Inside,3,Norm,Norm,2fmCon,2Story,4,5,2008,Gable,None,0.0,3,BrkTil,3,3,1,1,1,GasA,4,Y,5,0,2,3,3,8,8,0,None,1920.0,0,0,0,1,0,0,102,0,0,6,2009,New,3929,2188,1,2.0
+2561,20,RL,70.0,9600,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,1951,Gable,Stone,144.0,3,CBlock,3,3,1,5,1,GasA,5,Y,4,0,3,1,3,7,8,0,Attchd,1951.0,2,280,3,3,0,0,0,0,0,5,2006,WD ,3957,2272,3,2.0
+2360,20,RL,50.0,15870,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,5,5,1969,Gable,None,0.0,3,CBlock,3,3,3,4,3,GasA,5,Y,5,0,3,1,3,6,8,0,Attchd,1969.0,3,299,3,3,240,32,0,0,0,3,2006,WD ,3975,2192,3,2.0
+1333,50,RM,80.0,5000,Pave,4,Lvl,4,Inside,3,Feedr,Norm,1Fam,1.5Fin,5,7,2006,Gable,None,0.0,4,CBlock,3,3,1,5,1,GasA,5,Y,5,0,3,1,4,6,8,0,Detchd,1941.0,1,240,3,2,0,0,0,0,0,5,2008,WD ,3949,1882,2,1.0
+1407,50,RL,71.0,45600,Pave,2,Bnk,4,Inside,3,Norm,Norm,1Fam,1.5Fin,6,8,1997,Gable,None,0.0,3,BrkTil,3,3,1,1,1,GasA,3,Y,5,0,5,1,3,10,8,4,Detchd,1908.0,1,360,2,3,486,40,0,0,175,9,2008,WD ,3916,3265,5,3.0
+2892,60,RL,70.0,26178,Pave,3,Lvl,4,Inside,2,Norm,Norm,1Fam,2Story,7,5,1990,Hip,BrkFace,293.0,3,PConc,4,3,5,6,1,GasA,5,Y,5,0,4,1,4,9,8,4,Attchd,1989.0,2,628,3,3,320,27,0,0,0,4,2006,WD ,3995,3729,4,3.5
+574,160,FV,63.0,2645,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,2Story,8,5,2000,Gable,BrkFace,456.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,7,8,0,Attchd,1999.0,3,480,3,3,115,0,0,0,0,8,2009,WD ,4008,2709,4,3.5
+1227,80,RL,80.0,9600,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,SLvl,6,6,1996,Hip,None,0.0,3,CBlock,3,3,4,4,1,GasA,4,Y,5,0,3,1,4,8,8,3,BuiltIn,1955.0,2,377,3,3,0,28,0,0,178,10,2008,WD ,3963,2653,3,2.0
+2591,30,RL,98.0,21299,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,1963,Hip,None,0.0,3,CBlock,3,3,1,1,1,GasA,5,Y,5,0,3,1,3,7,7,4,2Types,1941.0,1,791,3,3,0,0,90,0,0,12,2006,COD,3947,2968,3,2.5
+1476,20,RL,80.0,8450,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,2004,Gable,BrkFace,266.0,3,PConc,4,3,3,6,1,GasA,5,Y,5,0,3,1,4,8,8,0,Attchd,2004.0,1,484,3,3,139,98,0,0,0,4,2008,WD ,4012,2872,4,3.0
+1125,60,FV,60.0,9375,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,5,2004,Hip,BrkFace,768.0,3,PConc,5,3,1,1,1,GasA,5,Y,5,0,3,1,4,9,8,4,Attchd,2003.0,2,648,3,3,140,45,0,0,0,8,2008,WD ,4011,3045,4,2.5
+1446,80,RL,63.0,8385,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,SLvl,5,8,1977,Gable,BrkFace,220.0,3,CBlock,4,4,4,6,1,GasA,3,Y,5,0,3,1,3,6,8,0,Attchd,1977.0,1,328,3,3,210,0,0,0,0,11,2008,WD ,3985,1970,4,2.0
+408,160,RM,60.0,1680,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,2Story,5,7,1972,Gable,BrkFace,268.0,3,CBlock,3,3,1,5,1,GasA,3,Y,5,0,3,1,3,6,8,0,Detchd,1972.0,1,264,3,3,185,0,0,0,0,2,2009,WD ,3981,1932,1,2.5
+1101,60,RL,21.0,14260,Pave,3,Lvl,4,FR2,3,Norm,Norm,1Fam,2Story,8,5,2000,Gable,BrkFace,350.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,4,1,4,9,8,3,Attchd,2000.0,2,836,3,3,192,84,0,0,0,12,2008,WD ,4008,3343,5,3.5
+2251,20,RL,37.0,10000,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,2002,Gable,BrkFace,166.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,6,8,4,Attchd,2002.0,3,650,3,3,168,49,0,0,0,12,2007,WD ,4009,2833,3,2.0
+373,20,RL,72.0,11900,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,1977,Hip,BrkFace,209.0,4,CBlock,3,3,1,5,1,GasA,3,Y,5,0,3,1,3,6,8,3,Attchd,1977.0,3,544,3,3,192,0,0,0,0,4,2009,WD ,3986,2797,3,2.0
+2554,20,RL,74.0,9724,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,1950,Hip,None,0.0,3,CBlock,3,3,1,1,1,GasA,5,Y,5,0,2,1,3,5,8,4,Detchd,1947.0,1,273,3,3,125,48,0,0,0,5,2006,WD ,3953,1981,3,1.0
+2382,20,RL,48.0,16163,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,8,5,2004,Gable,BrkFace,232.0,3,PConc,4,3,4,1,1,GasA,5,Y,5,0,2,1,4,6,8,4,Attchd,2004.0,3,880,3,3,0,0,0,0,0,7,2006,WD ,4010,3236,5,2.0
+1985,50,RM,64.0,5925,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,4,6,1950,Gable,None,0.0,3,BrkTil,2,3,1,2,3,GasA,4,N,5,0,3,1,3,6,8,0,Detchd,1930.0,1,252,2,3,0,0,96,0,0,5,2007,ConLw,3907,1711,1,1.0
+519,20,FV,80.0,8640,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,8,5,2009,Gable,Stone,72.0,3,PConc,4,3,3,6,1,GasA,5,Y,5,0,3,1,4,6,8,0,Attchd,2009.0,2,552,3,3,135,112,0,0,0,9,2009,New,4018,2614,4,3.0
+1093,60,RL,79.0,10261,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,5,2000,Gable,BrkFace,318.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,3,8,8,3,Attchd,2000.0,3,451,3,3,0,0,0,0,0,5,2008,WD ,4008,2728,3,3.5
+864,60,RL,70.0,12334,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,5,2003,Gable,BrkFace,198.0,3,PConc,4,3,4,1,1,GasA,5,Y,5,0,4,1,4,8,8,4,BuiltIn,2003.0,2,570,3,3,192,132,0,0,0,6,2009,WD ,4012,3252,4,2.5
+2889,90,RL,72.0,10530,Pave,4,Lvl,4,Inside,3,Norm,Norm,Duplex,SFoyer,6,5,1977,Gable,BrkFace,90.0,3,CBlock,4,3,5,6,1,GasA,3,Y,5,0,2,1,3,4,8,0,Attchd,1977.0,1,504,3,3,0,0,0,0,0,5,2006,WD ,3983,1979,3,2.0
+2308,20,RL,75.0,11765,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,5,5,1957,Gable,Stone,302.0,3,CBlock,3,3,3,3,1,GasA,2,Y,5,0,3,1,3,7,8,3,Attchd,1957.0,1,963,3,3,0,0,0,0,0,6,2006,WD ,3963,3414,3,1.5
+986,50,RL,72.0,14115,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,5,5,1995,Gable,None,0.0,3,Wood,4,3,1,6,1,GasA,5,Y,5,0,1,1,3,5,8,0,Attchd,1993.0,1,480,3,3,40,30,0,320,0,10,2009,WD ,4002,2158,3,2.5
+1302,50,RM,56.0,9000,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1.5Fin,5,6,1950,Gable,None,0.0,3,CBlock,3,3,1,3,1,GasA,5,Y,4,0,3,1,3,5,8,1,Detchd,1959.0,1,869,3,3,0,20,0,0,0,6,2008,WD ,3954,2403,1,1.0
+585,60,RL,63.0,12936,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,1Fam,2Story,6,6,1972,Gable,None,0.0,3,CBlock,3,4,1,4,1,GasA,3,Y,5,0,3,1,3,6,8,3,Attchd,1972.0,1,497,3,3,294,116,0,0,0,12,2009,WD ,3981,2118,3,2.0
+2708,20,RL,56.0,8414,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,8,2003,Hip,None,0.0,3,CBlock,3,3,1,6,1,GasA,3,Y,5,0,3,1,3,6,8,0,Attchd,1963.0,2,264,3,3,192,0,0,0,0,2,2006,WD ,3969,2127,2,1.5
+147,20,RL,84.0,10725,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,1959,Hip,BrkFace,91.0,3,CBlock,3,3,1,3,1,GasA,2,Y,5,0,3,1,3,6,8,0,Attchd,1959.0,2,312,3,3,0,21,0,0,0,5,2010,WD ,3969,2412,3,1.0
+1441,20,RL,80.0,12803,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,2002,Gable,BrkFace,99.0,3,PConc,4,3,3,6,1,GasA,5,Y,5,0,3,1,4,6,8,3,Attchd,2002.0,2,530,3,3,192,36,0,0,0,9,2008,WD ,4010,2988,4,3.0
+383,60,RL,74.0,10304,Pave,3,Lvl,4,CulDSac,3,PosN,Norm,1Fam,2Story,5,7,1976,Gable,BrkFace,44.0,4,CBlock,3,3,1,5,1,GasA,5,Y,5,0,4,1,4,9,8,3,Attchd,1976.0,1,484,3,3,448,96,0,0,0,10,2009,WD ,3985,2648,3,3.5
+285,20,RL,79.0,8562,Pave,4,Lvl,4,Inside,2,Norm,Norm,1Fam,1Story,5,6,2002,Hip,Stone,145.0,3,CBlock,3,3,4,3,1,GasA,5,Y,4,0,4,1,3,7,6,4,Basment,1957.0,1,364,3,3,116,78,0,0,0,5,2010,WD ,3967,2742,1,1.0
+181,50,RM,70.0,8239,Pave,4,Lvl,4,Inside,3,Artery,Norm,1Fam,1.5Fin,5,6,1962,Gable,None,0.0,3,BrkTil,3,3,1,3,1,GasA,3,Y,5,0,3,1,3,6,8,0,Detchd,1962.0,1,315,3,3,0,0,334,0,0,3,2010,WD ,3930,2253,1,1.0
+358,60,RL,60.0,9765,Pave,2,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,6,8,1993,Gable,BrkFace,68.0,4,PConc,4,4,1,5,1,GasA,4,Y,5,0,3,1,3,6,8,3,BuiltIn,1993.0,3,420,3,3,232,63,0,0,0,4,2009,WD ,4002,2150,3,2.5
+780,80,RL,79.0,15584,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,SLvl,5,5,1956,Hip,BrkFace,366.0,3,CBlock,3,3,3,1,1,GasA,5,Y,5,0,4,1,3,9,8,3,Attchd,1956.0,1,336,3,3,131,28,0,0,0,10,2009,WD ,3965,2896,5,2.0
+258,60,RL,70.0,9337,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,1998,Gable,None,0.0,3,PConc,4,3,1,5,1,GasA,5,Y,5,0,3,1,3,8,8,3,Attchd,1997.0,2,513,3,3,0,39,0,0,0,4,2010,WD ,4007,2570,4,2.5
+1865,60,RL,80.0,8000,Pave,4,Lvl,4,Inside,3,PosA,Norm,1Fam,2Story,6,6,1970,Gable,BrkFace,525.0,3,CBlock,3,3,1,3,1,GasA,3,Y,5,0,4,1,3,8,8,1,Attchd,1970.0,2,570,3,3,0,192,0,0,0,6,2007,WD ,3977,3419,3,3.5
+692,50,RM,80.0,3950,Pave,4,Bnk,4,Inside,3,Artery,Norm,1Fam,1.5Fin,6,8,2004,Gable,None,0.0,3,CBlock,3,3,1,3,1,GasA,3,Y,5,0,3,1,3,5,8,0,Detchd,1926.0,1,210,3,1,0,0,116,0,0,12,2009,WD ,3935,2042,1,1.0
+2902,20,RL,39.0,11443,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,8,5,2006,Hip,BrkFace,208.0,3,PConc,5,3,5,6,1,GasA,5,Y,5,0,2,1,4,7,8,4,Attchd,2005.0,2,880,3,3,326,66,0,0,0,3,2006,New,4011,3896,4,3.0
+508,20,RL,79.0,11194,Pave,3,Lvl,4,Inside,3,PosN,Norm,1Fam,1Story,8,5,2008,Gable,Stone,240.0,3,PConc,4,3,3,1,1,GasA,5,Y,5,0,3,1,4,7,8,0,Attchd,2008.0,2,972,3,3,120,56,0,0,0,9,2009,WD ,4017,3392,4,2.0
+2638,50,RM,100.0,9600,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,5,6,1950,Gable,Stone,264.0,3,CBlock,3,3,1,3,1,GasA,4,Y,4,0,3,1,3,6,8,0,Detchd,1948.0,1,240,3,3,0,0,140,0,0,5,2006,WD ,3954,2880,1,2.0
+36,160,RL,70.0,2280,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,2Story,6,5,1978,Gable,None,0.0,3,CBlock,4,3,1,5,1,GasA,2,Y,5,0,3,1,3,7,8,3,Attchd,1978.0,1,440,3,3,26,0,0,0,0,7,2010,WD ,3988,2311,3,2.5
+611,80,RL,125.0,12095,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,SLvl,6,6,1964,Gable,BrkFace,115.0,4,CBlock,3,3,5,3,1,GasA,3,Y,5,0,3,1,3,7,8,2,Attchd,1964.0,2,645,3,3,180,0,0,0,0,8,2009,WD ,3973,2572,3,1.5
+2281,20,RL,67.0,25286,Pave,4,HLS,4,Inside,2,Norm,Norm,1Fam,1Story,4,5,1963,Gable,None,0.0,3,PConc,3,3,5,5,1,GasA,4,Y,5,0,3,1,3,5,8,0,Attchd,1963.0,1,648,3,3,0,0,0,0,0,1,2007,WD ,3970,2104,3,2.0
+1678,160,RM,73.0,2058,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,2Story,6,5,1973,Gable,BrkFace,265.0,3,CBlock,3,3,1,1,1,GasA,5,Y,5,0,4,1,5,7,8,0,Detchd,1973.0,1,264,3,3,0,28,0,0,0,12,2007,WD ,3980,1890,1,1.5
+1696,20,RL,60.0,13891,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,9,5,2007,Hip,Stone,456.0,3,PConc,5,3,5,6,1,GasA,5,Y,5,0,3,1,5,8,8,5,Attchd,2007.0,3,932,3,3,130,28,0,0,0,10,2007,New,4014,5104,5,3.0
+1557,50,C (all),72.0,5150,Pave,4,Lvl,4,Corner,3,Feedr,Norm,1Fam,1.5Fin,4,7,2000,Gable,None,0.0,3,PConc,1,3,1,1,1,GasA,3,N,4,0,2,1,3,5,8,0,Detchd,1910.0,1,195,1,1,0,0,0,0,0,5,2008,WD ,3918,1405,1,1.0
+2180,60,RL,60.0,7023,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,5,5,2006,Gable,None,0.0,3,PConc,4,4,1,6,1,GasA,4,Y,5,0,3,1,3,6,8,0,BuiltIn,2005.0,3,489,3,3,0,85,0,0,0,5,2007,WD ,4012,2142,1,3.5
+1726,120,RL,63.0,6240,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,8,5,2006,Hip,BrkFace,176.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,2,1,4,6,8,4,Attchd,2006.0,3,550,3,3,0,38,0,0,0,9,2007,New,4013,2648,5,2.0
+951,85,RL,74.0,9750,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,SFoyer,6,6,1977,Gable,None,0.0,3,CBlock,3,3,4,5,1,GasA,5,Y,5,0,2,1,3,5,8,3,Attchd,1977.0,1,351,3,3,319,0,0,0,0,4,2009,WD ,3986,1828,3,2.0
+267,60,RL,100.0,9375,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,1997,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,4,1,4,9,8,3,Attchd,1997.0,3,621,3,3,331,38,0,0,0,4,2010,WD ,4007,3138,4,2.5
+2706,20,RL,68.0,11235,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,4,5,1979,Gable,BrkFace,51.0,3,CBlock,3,3,1,3,1,GasA,4,Y,5,0,3,1,3,6,8,1,Attchd,1974.0,1,459,3,3,0,82,0,0,0,10,2006,WD ,3969,2433,2,1.5
+2221,20,RL,57.0,14442,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,7,2004,Hip,BrkFace,106.0,3,PConc,3,3,1,6,1,GasA,5,Y,5,0,3,1,4,7,8,3,Attchd,1957.0,3,416,3,3,0,87,0,0,200,6,2007,WD ,3964,3316,4,3.0
+1357,60,RM,72.0,8094,Pave,4,Lvl,4,Inside,3,Norm,Norm,2fmCon,2.5Unf,6,8,1983,Gable,None,0.0,3,PConc,3,3,3,3,1,GasA,4,Y,5,0,5,1,3,8,8,0,Detchd,1910.0,0,360,0,3,64,0,180,0,0,9,2008,WD ,3918,3226,1,2.0
+2901,20,RL,70.0,13618,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,8,5,2006,Gable,Stone,198.0,3,PConc,5,4,4,6,1,GasA,5,Y,5,0,3,1,4,8,8,4,Attchd,2005.0,3,714,3,3,172,38,0,0,0,11,2006,New,4011,3688,4,3.0
+347,80,RL,69.0,8400,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,SLvl,7,5,1997,Gable,BrkFace,32.0,3,PConc,4,3,1,6,1,GasA,4,Y,5,0,3,1,3,7,8,3,BuiltIn,1996.0,3,390,3,3,48,72,0,0,0,6,2009,WD ,4005,2012,3,2.5
+2164,20,RL,63.0,8769,Pave,4,Lvl,4,FR2,3,Norm,Norm,1Fam,1Story,7,5,2005,Gable,None,0.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,2,1,4,5,8,0,Attchd,2005.0,2,578,3,3,100,41,0,0,0,10,2007,WD ,4012,2359,4,3.0
+1586,60,RL,50.0,12244,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,5,2003,Hip,Stone,226.0,3,PConc,4,3,5,6,1,GasA,5,Y,5,0,4,1,4,10,8,4,Attchd,2003.0,3,749,3,3,168,0,0,0,0,8,2008,WD ,4011,3744,4,3.5
+360,20,RL,58.0,7250,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,5,1993,Gable,BrkFace,45.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,6,8,3,Attchd,1993.0,1,430,3,3,0,21,0,0,0,11,2009,WD ,4002,2371,3,2.0
+1769,60,RL,86.0,9920,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,1Fam,2Story,7,5,1997,Gable,None,0.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,3,1,3,8,8,3,Attchd,1997.0,1,455,3,3,180,130,0,0,0,6,2007,WD ,4003,3130,5,3.5
+2617,20,RL,69.0,11650,Pave,4,Lvl,4,Corner,3,PosA,Norm,1Fam,1Story,7,5,1959,Hip,BrkCmn,58.0,3,Slab,0,0,0,0,0,GasA,4,Y,4,0,2,1,4,5,8,4,Attchd,1959.0,1,484,3,3,0,68,0,0,227,6,2006,WD ,3965,1472,3,2.0
+1879,90,RL,60.0,10624,Pave,3,Lvl,4,Inside,3,Norm,Norm,Duplex,1Story,5,4,1964,Gable,BrkFace,84.0,3,CBlock,3,3,1,6,3,GasA,3,Y,5,0,6,2,3,10,8,0,Detchd,2002.0,1,352,3,3,155,0,0,0,0,11,2007,WD ,3971,3456,3,2.5
+991,20,RL,60.0,12925,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,6,7,1970,Gable,None,0.0,3,CBlock,3,3,3,4,1,GasA,5,Y,5,0,4,1,3,7,8,4,Attchd,1970.0,3,550,3,3,0,42,0,0,0,5,2008,WD ,3978,3322,3,2.5
+1535,50,RL,72.0,9260,Pave,3,HLS,4,Inside,3,Feedr,Norm,1Fam,1.5Fin,5,4,1950,Gable,None,0.0,3,BrkTil,3,3,1,1,1,GasA,3,Y,3,0,3,1,3,6,8,0,Detchd,1938.0,1,225,3,3,64,0,0,0,100,3,2008,WD ,3946,2258,4,1.0
+1191,90,RL,70.0,9750,Pave,4,Lvl,4,Inside,3,RRAn,Norm,Duplex,1Story,5,6,1965,Gable,None,0.0,3,CBlock,3,3,1,1,1,GasA,5,Y,5,0,4,2,3,8,8,0,Detchd,1965.0,1,484,3,3,0,0,0,0,0,8,2008,ConLD,3973,3250,3,2.0
+1579,60,RL,75.0,12018,Pave,3,HLS,4,Corner,3,Norm,Norm,1Fam,2Story,7,5,2008,Gable,Stone,60.0,3,PConc,4,3,4,1,1,GasA,5,Y,5,0,3,1,4,6,8,0,Attchd,2008.0,3,666,3,3,0,64,0,0,0,10,2008,New,4016,2408,4,2.5
+1882,20,RL,80.0,12772,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,1Fam,1Story,6,8,1998,Hip,None,0.0,4,CBlock,3,3,3,4,1,GasA,3,Y,5,0,2,1,3,5,8,0,Attchd,1960.0,2,301,3,3,0,0,0,0,0,4,2007,WD ,3967,1916,3,1.0
+1510,50,RL,98.0,8172,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,4,6,1972,Gable,None,0.0,3,PConc,3,3,1,1,1,GasA,5,Y,5,0,4,1,3,7,8,0,Detchd,1958.0,1,548,3,3,0,0,0,0,156,5,2008,WD ,3962,2411,1,2.0
+2196,90,RL,61.0,10890,Pave,4,Lvl,4,Inside,3,Norm,Norm,Duplex,2Story,5,6,1950,Hip,None,0.0,3,PConc,3,3,3,3,1,Grav,2,N,4,0,6,2,3,12,6,0,None,1923.0,0,0,0,3,0,742,240,0,0,1,2007,WD ,3930,3888,2,4.0
+1845,160,FV,71.0,2117,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,2Story,6,5,2000,Gable,BrkFace,513.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,2,1,4,4,8,3,Detchd,2000.0,1,440,3,3,0,32,0,0,0,6,2007,WD ,4007,2268,4,2.5
+2336,60,RL,72.0,15922,Pave,3,HLS,4,Corner,3,Norm,Norm,1Fam,2Story,9,5,2006,Hip,BrkFace,550.0,3,PConc,5,3,4,1,1,GasA,5,Y,5,0,4,1,5,10,8,4,BuiltIn,2005.0,3,660,3,3,272,102,0,0,0,1,2006,New,4011,4185,5,3.5
+942,70,RM,40.0,6402,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,5,5,1950,Gable,None,0.0,3,PConc,3,3,3,1,1,GasA,3,N,5,0,3,1,3,6,8,0,Detchd,1920.0,1,189,2,1,0,0,137,0,0,7,2009,WD ,3929,1788,1,1.0
+861,85,RL,60.0,7200,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,SFoyer,5,8,2003,Gable,None,0.0,4,CBlock,4,3,4,6,1,GasA,4,Y,5,0,2,1,3,5,8,0,Detchd,1974.0,3,396,3,3,192,0,0,0,0,4,2009,WD ,3981,1536,4,1.5
+2555,50,RL,90.0,4712,Pave,3,Lvl,4,Inside,2,Feedr,Norm,1Fam,1.5Fin,4,7,1950,Gable,None,0.0,3,CBlock,3,3,1,5,1,GasA,3,Y,5,0,3,1,3,5,8,0,Detchd,1946.0,1,305,3,3,0,57,0,0,63,8,2006,WD ,3952,1977,2,2.5
+1392,20,RL,50.0,13284,Pave,4,Lvl,4,Inside,3,PosN,Norm,1Fam,1Story,5,5,1954,Gable,None,0.0,3,PConc,4,3,3,4,1,GasA,3,Y,5,0,3,1,3,6,8,4,Attchd,1954.0,1,354,3,3,511,116,0,0,0,6,2008,WD ,3962,2766,2,2.0
+2099,20,RL,94.0,9178,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,8,5,2007,Gable,Stone,306.0,3,PConc,4,3,4,1,1,GasA,5,Y,5,0,3,1,4,7,8,4,Attchd,2007.0,3,870,3,3,204,64,0,0,0,9,2007,New,4014,3294,4,2.0
+1543,160,RM,21.0,1879,Pave,4,Lvl,4,CulDSac,3,Norm,Norm,Twnhs,2Story,6,6,1980,Gable,None,0.0,3,CBlock,4,3,1,6,1,GasA,3,Y,5,0,2,1,3,5,8,3,Detchd,1980.0,1,462,3,3,213,0,0,0,0,12,2008,WD ,3988,1548,2,1.0
+948,50,RL,85.0,12822,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,1Fam,1.5Fin,7,5,2003,Gable,None,0.0,3,PConc,5,3,1,6,1,GasA,5,Y,5,0,1,1,4,6,8,5,Attchd,2003.0,2,670,3,3,168,43,0,0,198,8,2009,WD ,4012,3583,3,2.5
+1239,20,RL,70.0,9840,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,1998,Gable,None,0.0,3,CBlock,3,3,1,5,1,GasA,3,Y,5,0,2,1,4,7,8,0,Attchd,1959.0,2,480,3,3,150,0,0,0,256,6,2008,WD ,3967,2688,3,3.0
+22,85,RL,74.0,10625,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,SFoyer,7,6,1974,Gable,BrkFace,81.0,3,CBlock,4,3,5,6,2,GasA,3,Y,5,0,3,1,4,6,8,3,Attchd,1974.0,2,528,3,3,0,120,0,0,0,1,2010,WD ,3984,2226,3,3.0
+2796,20,RL,60.0,8125,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,2002,Gable,Stone,295.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,6,8,0,Attchd,2002.0,1,900,3,3,0,136,0,0,0,2,2006,WD ,4008,3308,4,3.0
+2747,20,RL,76.0,11200,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,5,1985,Gable,BrkFace,85.0,3,CBlock,4,3,1,6,1,GasA,3,Y,5,0,3,1,4,5,8,3,Attchd,1985.0,1,403,3,3,165,26,0,0,0,5,2006,WD ,3991,2596,2,3.0
+92,60,RL,78.0,13143,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,5,1993,Gable,BrkFace,504.0,3,PConc,4,3,1,2,6,GasA,5,Y,5,0,4,1,4,9,8,3,Attchd,1993.0,2,762,3,3,32,130,0,0,0,6,2010,WD ,4003,3580,5,3.5
+210,20,RL,60.0,15263,Pave,3,Lvl,4,Inside,3,Feedr,Norm,1Fam,1Story,5,5,1959,Gable,BrkFace,90.0,3,CBlock,4,3,1,3,1,GasA,4,Y,5,0,3,1,3,8,8,4,Attchd,1959.0,1,365,3,3,0,132,0,0,0,5,2010,WD ,3969,3097,5,2.0
+1858,120,RL,74.0,3840,Pave,3,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,8,6,1998,Gable,None,0.0,3,CBlock,4,3,5,6,2,GasA,3,Y,5,0,1,1,4,4,8,3,Attchd,1978.0,3,571,3,3,133,89,0,0,0,7,2007,WD ,3985,2352,4,2.0
+2228,120,RM,21.0,3907,Pave,3,Bnk,4,Inside,2,Norm,Norm,TwnhsE,1Story,8,5,1988,Gable,None,0.0,3,CBlock,4,3,5,6,1,GasA,4,Y,5,0,1,1,3,4,8,0,Attchd,1988.0,1,509,3,3,135,0,0,0,0,3,2007,WD ,3995,2024,2,2.0
+447,20,RL,60.0,9541,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,2009,Gable,Stone,268.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,7,8,0,Attchd,2009.0,2,644,3,3,0,114,0,0,0,9,2009,New,4018,3004,5,2.0
+827,20,RL,129.0,8814,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,2006,Gable,Stone,180.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,8,8,4,Attchd,2006.0,2,660,3,3,123,110,0,0,0,3,2009,WD ,4015,3208,4,3.5
+1649,60,RL,75.0,11339,Pave,3,Lvl,4,Inside,3,PosA,Norm,1Fam,2Story,7,5,1979,Hip,BrkFace,549.0,3,CBlock,4,3,1,5,1,GasA,3,Y,5,0,4,1,4,9,8,3,Attchd,1979.0,3,481,3,3,192,72,0,0,0,3,2007,WD ,3986,2710,3,3.5
+682,20,RL,59.0,7560,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,6,1965,Hip,None,0.0,3,CBlock,3,3,1,2,1,GasA,3,Y,5,0,3,1,3,6,7,0,Attchd,1958.0,1,294,3,3,0,0,0,0,0,5,2009,COD,3967,2368,3,1.0
+2698,30,RM,59.0,7200,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,6,6,1950,Gable,None,0.0,3,BrkTil,3,3,1,2,1,GasA,3,Y,3,0,3,1,3,6,8,0,Detchd,1930.0,1,308,3,1,0,0,164,0,0,3,2006,ConLI,3936,1968,1,1.0
+494,80,RL,65.0,7848,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,SLvl,7,6,1999,Gable,None,0.0,3,PConc,3,3,1,1,1,GasA,5,Y,5,0,3,1,3,7,8,3,BuiltIn,1999.0,3,410,3,3,0,0,0,0,0,6,2009,WD ,4008,1814,3,2.5
+214,70,C (all),75.0,6449,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,4,1,1950,Gambrel,None,0.0,3,CBlock,3,3,1,3,1,GasW,3,N,5,0,4,1,3,7,8,0,None,1907.0,0,0,0,1,0,0,239,0,0,3,2010,WD ,3917,2591,2,1.5
+2441,60,RL,60.0,12104,Pave,3,Lvl,4,FR3,3,Norm,Norm,1Fam,2Story,7,5,2006,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,4,Y,5,0,4,1,4,8,8,0,Attchd,2006.0,2,617,3,3,400,45,0,0,0,8,2006,New,4012,3357,3,3.5
+2679,30,RM,58.0,6120,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,1950,Gable,None,0.0,3,BrkTil,3,3,1,3,1,GasA,3,N,5,0,3,1,3,6,7,0,Detchd,1925.0,1,450,3,3,0,0,112,0,120,7,2006,WD ,3931,1783,2,1.0
+1336,30,RM,35.0,6000,Pave,4,HLS,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,2003,Gable,None,0.0,2,BrkTil,3,2,1,1,1,GasA,5,Y,5,0,2,1,3,5,8,2,Detchd,1924.0,1,370,3,3,0,0,48,0,0,7,2008,WD ,3932,1898,2,1.0
+465,60,RL,60.0,10928,Pave,4,Lvl,4,Inside,3,RRAn,Norm,1Fam,2Story,7,5,2005,Gable,None,0.0,3,PConc,4,4,1,1,1,GasA,5,Y,5,0,3,1,4,8,8,4,Attchd,2005.0,3,390,3,3,100,0,0,0,0,6,2009,WD ,4014,2184,3,2.5
+1524,70,RL,75.0,8969,Pave,4,Bnk,4,Inside,3,Norm,Norm,1Fam,2Story,6,6,1950,Gambrel,None,0.0,3,BrkTil,3,3,1,4,1,GasA,5,Y,5,0,2,1,3,6,8,4,Detchd,2001.0,1,369,3,2,0,0,0,0,192,7,2008,WD ,3934,1960,4,2.0
+2543,20,RL,88.0,9100,Pave,4,Lvl,4,Corner,3,Feedr,Norm,1Fam,1Story,5,5,1958,Gable,None,0.0,3,CBlock,3,3,1,4,2,GasA,3,Y,5,0,3,1,3,5,8,0,Detchd,1964.0,1,624,3,3,0,0,0,0,0,7,2006,WD ,3964,1728,3,2.0
+631,20,RL,80.0,8760,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,7,1956,Gable,BrkFace,164.0,3,CBlock,3,3,1,5,1,GasA,3,Y,5,0,3,1,3,6,8,0,Attchd,1956.0,2,286,3,3,257,0,0,0,0,6,2009,WD ,3965,2313,3,2.0
+2452,60,RL,70.0,10236,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,8,5,1995,Gable,BrkFace,501.0,3,PConc,4,3,5,6,4,GasA,5,Y,5,0,4,1,4,9,8,3,Attchd,1994.0,3,803,3,3,200,95,0,0,0,6,2006,WD ,4000,3784,5,3.5
+228,60,RL,73.0,11616,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,1Fam,2Story,6,5,1978,Hip,BrkCmn,328.0,3,CBlock,3,3,3,3,1,GasA,3,Y,5,0,3,1,3,6,8,3,Attchd,1978.0,3,440,3,3,335,0,0,0,0,4,2010,WD ,3988,2058,2,2.5
+126,90,RL,70.0,13260,Pave,3,Lvl,4,Inside,3,Norm,Norm,Duplex,1Story,5,6,2001,Hip,BrkFace,144.0,3,CBlock,3,3,1,4,1,GasA,3,Y,5,0,6,2,3,10,8,0,None,1962.0,0,0,0,3,0,0,0,0,0,1,2010,Oth,3972,3456,3,4.0
+1092,120,RL,45.0,7301,Pave,3,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,7,6,2008,Gable,Stone,176.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,2,1,4,6,8,4,Attchd,2008.0,2,484,3,3,192,26,0,0,0,11,2008,New,4015,2708,5,3.0
+1122,20,FV,80.0,8640,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,2008,Gable,None,0.0,3,PConc,5,3,1,1,1,GasA,5,Y,5,0,3,1,4,6,8,0,Attchd,2008.0,3,529,3,3,0,140,0,0,0,5,2008,New,4015,2744,4,2.0
+932,20,RL,34.0,17500,Pave,4,Bnk,4,Corner,2,PosA,Norm,1Fam,1Story,6,5,1954,Gable,Stone,420.0,3,PConc,3,3,4,2,4,GasA,5,Y,5,0,3,1,3,6,8,4,Basment,1954.0,1,576,3,3,0,201,0,0,0,1,2009,WD ,3963,3216,4,2.5
+1980,30,RM,51.0,10800,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,4,7,1995,Mansard,None,0.0,3,BrkTil,2,3,1,1,1,GasA,4,Y,5,0,2,1,3,6,8,0,Detchd,1954.0,1,273,2,1,0,0,0,0,0,8,2007,WD ,3892,1688,1,1.0
+2171,20,RL,70.0,10921,Pave,4,HLS,4,Inside,3,Norm,Norm,1Fam,1Story,4,5,1965,Hip,BrkFace,48.0,3,CBlock,3,3,1,3,1,GasA,3,Y,3,0,3,1,3,6,8,0,Attchd,1965.0,3,432,3,2,120,0,0,0,0,5,2007,WD ,3972,1920,1,2.0
+551,60,RL,73.0,10274,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,1Fam,2Story,6,7,1986,Gable,BrkFace,141.0,4,CBlock,4,3,1,3,1,GasA,3,Y,5,0,3,1,3,6,8,0,Attchd,1986.0,2,465,3,3,0,48,0,0,0,7,2009,WD ,3995,2076,2,2.5
+2768,20,RL,60.0,12000,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,5,1968,Gable,None,0.0,2,CBlock,4,2,1,2,1,GasA,4,Y,5,0,3,1,3,6,8,1,Attchd,1968.0,2,522,3,3,0,58,0,0,0,7,2006,COD,3974,2776,5,3.0
+2056,20,RL,90.0,7094,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,1966,Gable,None,0.0,3,CBlock,3,3,1,3,2,GasA,3,Y,5,0,3,1,3,5,8,0,Detchd,1966.0,2,384,3,3,0,0,0,0,0,5,2007,WD ,3973,1788,2,1.0
+1159,60,RL,55.0,11025,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,9,5,1994,Hip,BrkFace,568.0,3,PConc,4,3,5,4,1,GasA,5,Y,5,0,4,1,4,10,8,5,Attchd,1993.0,3,636,3,3,294,49,0,0,0,6,2008,WD ,4001,4634,5,3.5
+2645,190,RM,47.0,7745,Pave,4,Lvl,4,Inside,3,Norm,Norm,2fmCon,1.5Fin,4,6,1950,Gable,None,0.0,3,PConc,3,3,1,1,1,GasA,4,N,5,0,4,2,2,9,8,0,Detchd,1993.0,1,576,3,2,0,6,28,0,0,4,2006,WD ,3906,2889,1,2.0
+1174,160,FV,63.0,2160,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,SLvl,7,5,2000,Gable,BrkFace,216.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,5,8,0,Detchd,1999.0,1,462,3,3,20,0,0,0,0,6,2008,WD ,4007,2076,4,3.5
+2266,50,RL,108.0,13758,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,1Fam,1.5Fin,7,5,1991,Gable,BrkFace,117.0,4,CBlock,4,3,3,2,1,GasA,5,Y,5,0,3,1,4,7,8,3,Attchd,1990.0,2,400,3,3,168,36,0,0,0,4,2007,WD ,3997,2873,4,2.5
+2462,60,FV,82.0,13162,Pave,4,Lvl,4,Corner,3,Feedr,Norm,1Fam,2Story,9,5,2006,Gable,None,0.0,3,PConc,5,3,1,6,1,GasA,5,Y,5,0,3,1,5,11,8,4,Attchd,2006.0,2,792,3,3,0,265,0,0,0,11,2006,New,4012,4676,4,4.5
+1219,20,RL,70.0,11332,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,5,7,2000,Gable,None,0.0,3,CBlock,3,3,1,4,1,GasA,5,Y,5,0,3,1,4,6,8,0,Attchd,1960.0,2,264,3,3,290,0,0,0,0,8,2008,WD ,3968,2236,3,2.0
+2922,90,RL,60.0,12640,Pave,3,Lvl,4,Inside,3,Norm,Norm,Duplex,1Story,6,5,1976,Gable,None,0.0,3,CBlock,3,3,5,3,2,GasA,3,Y,5,0,4,2,3,8,8,0,Attchd,1976.0,1,574,3,3,40,0,0,0,0,7,2006,WD ,3982,3456,3,2.0
+118,20,RL,100.0,9600,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,1966,Hip,BrkFace,172.0,3,CBlock,3,3,1,3,1,GasA,3,Y,5,0,3,1,3,6,8,0,Attchd,1966.0,2,490,3,3,0,224,0,0,0,4,2010,WD ,3976,2464,3,2.5
+474,120,RL,72.0,3182,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,7,5,2006,Gable,BrkFace,11.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,2,1,4,5,8,4,Attchd,2005.0,3,397,3,3,100,16,0,0,0,9,2009,WD ,4014,2290,4,2.0
+2576,20,RL,65.0,11600,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,5,1960,Hip,BrkFace,175.0,3,CBlock,3,3,1,3,1,GasA,3,Y,5,0,3,1,3,7,8,0,Attchd,1960.0,2,292,3,3,0,45,0,0,0,4,2006,WD ,3966,2766,3,1.5
+872,20,RL,41.0,12782,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,8,5,2003,Hip,BrkFace,164.0,3,PConc,5,3,5,6,1,GasA,5,Y,5,0,3,1,4,7,8,4,Attchd,2002.0,3,523,3,3,194,144,0,0,0,6,2009,WD ,4011,3650,4,3.0
+1077,120,RL,75.0,6240,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,1Story,8,5,2007,Hip,BrkFace,196.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,2,1,4,6,8,4,Attchd,2007.0,2,550,3,3,0,35,0,0,0,2,2008,WD ,4014,2684,5,2.0
+1536,20,RL,52.0,7801,Pave,3,Lvl,4,Corner,3,Feedr,Norm,1Fam,1Story,6,5,1951,Hip,BrkFace,88.0,2,PConc,3,3,1,3,1,GasA,2,N,4,0,2,1,3,5,8,3,Attchd,1951.0,3,344,3,3,66,105,0,0,221,5,2008,WD ,3959,2182,4,1.5
+1150,20,RL,88.5,9100,Pave,4,Lvl,4,Inside,3,RRAe,Norm,1Fam,1Story,5,5,1963,Hip,None,0.0,3,PConc,3,4,1,4,5,GasA,3,Y,5,0,3,1,3,5,8,3,Attchd,1963.0,2,384,3,3,145,56,0,0,0,8,2008,WD ,3971,1968,2,2.0
+2341,20,RL,85.0,11302,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,8,5,2006,Gable,BrkFace,238.0,3,PConc,4,3,5,6,1,GasA,5,Y,5,0,3,1,4,7,8,3,Attchd,2005.0,3,758,3,3,180,75,0,0,120,8,2006,New,4011,3640,5,3.0
+1931,20,RL,57.0,11556,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,9,2006,Gable,None,0.0,5,CBlock,3,3,1,4,1,GasA,4,Y,5,0,3,1,5,6,8,0,Detchd,1962.0,1,336,3,3,63,0,0,0,0,7,2007,WD ,3960,2018,3,1.5
+2785,20,RL,77.0,9920,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,6,1969,Gable,None,0.0,3,CBlock,4,3,5,5,1,GasA,3,Y,5,0,3,1,3,5,8,1,Attchd,1969.0,1,300,3,3,0,0,0,0,0,5,2006,WD ,3975,1942,4,1.5
+2538,20,RL,80.0,9759,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,5,1966,Gable,None,0.0,3,CBlock,3,3,1,4,1,GasA,3,Y,5,0,3,1,3,6,8,0,Attchd,1966.0,2,264,3,3,182,88,0,0,0,3,2006,WD ,3972,2102,3,2.0
+597,60,RL,70.0,9600,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,1974,Gable,BrkFace,252.0,3,CBlock,3,3,1,5,1,GasA,4,Y,5,0,4,1,3,8,8,3,Attchd,1974.0,2,498,3,3,0,77,0,0,196,5,2009,COD,3983,3226,3,3.0
+464,160,RL,73.0,2268,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,2Story,7,5,2004,Gable,Stone,106.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,2,1,4,6,8,0,BuiltIn,2003.0,2,474,3,3,0,27,0,0,0,7,2009,WD ,4012,2390,5,2.0
+233,40,RL,58.0,23595,Pave,4,Low,4,Inside,1,Norm,Norm,1Fam,1Story,7,6,1979,Shed,None,0.0,3,PConc,4,3,5,6,1,GasA,3,Y,5,0,0,1,4,4,8,3,Attchd,1979.0,3,586,3,3,268,0,0,0,0,4,2010,WD ,3989,2856,5,2.5
+2169,85,RL,60.0,9825,Pave,4,Low,4,Inside,3,Norm,Norm,1Fam,SFoyer,5,5,1967,Gable,BrkFace,162.0,3,CBlock,4,3,5,5,1,GasA,4,Y,5,0,2,1,3,4,8,2,Attchd,1967.0,1,384,3,3,405,0,0,0,0,8,2007,WD ,3974,1872,1,2.0
+2123,60,RL,30.0,10021,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,6,2006,Gable,None,0.0,4,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,6,8,0,Attchd,1997.0,2,497,3,3,142,54,0,0,0,5,2007,WD ,4004,1943,4,3.5
+1867,20,RL,44.0,11700,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,6,5,1968,Gable,BrkFace,196.0,3,PConc,4,3,1,5,1,GasA,2,Y,5,0,3,1,3,6,8,0,Attchd,1968.0,3,528,3,3,0,194,0,0,200,4,2007,WD ,3975,2590,3,2.5
+137,20,RL,43.0,19900,Pave,4,Lvl,4,Inside,3,PosA,Norm,1Fam,1Story,7,5,1989,Gable,BrkFace,287.0,3,CBlock,4,3,5,6,1,GasA,3,Y,5,0,3,1,3,7,7,4,Attchd,1970.0,2,576,3,3,301,0,0,0,0,7,2010,WD ,3980,4154,3,3.0
+515,60,FV,37.0,8640,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,2009,Gable,None,0.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,7,8,3,Attchd,2009.0,2,644,3,3,168,108,0,0,0,7,2009,New,4018,2752,4,3.5
+933,160,RM,80.0,1733,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,2Story,6,6,1980,Gable,None,0.0,3,CBlock,3,3,1,1,1,GasA,3,Y,5,0,2,1,3,5,8,3,Detchd,1980.0,1,452,3,3,279,0,0,0,0,5,2009,WD ,3989,1548,2,1.0
+2784,80,RL,80.0,10385,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,1Fam,SLvl,6,6,1978,Gable,BrkFace,123.0,3,CBlock,3,4,4,5,2,GasA,3,Y,5,0,3,1,3,6,8,0,Detchd,1989.0,1,672,2,3,386,0,0,0,0,4,2006,WD ,3984,2277,4,2.5
+972,120,RM,72.0,4500,Pave,4,Lvl,4,FR2,3,Norm,Norm,TwnhsE,1Story,6,5,1998,Hip,BrkFace,320.0,3,PConc,5,3,1,6,1,GasA,5,Y,5,0,2,1,3,5,8,0,Attchd,1998.0,3,412,3,3,0,247,0,0,0,6,2009,WD ,4007,2408,3,3.0
+599,20,RL,70.0,9790,Pave,4,Lvl,4,Inside,3,Feedr,Norm,1Fam,1Story,6,5,1967,Gable,None,0.0,3,CBlock,3,3,1,3,2,GasA,3,Y,5,0,3,1,3,7,8,4,Attchd,1967.0,1,457,3,3,0,0,0,0,197,9,2009,WD ,3976,2714,3,2.0
+2614,20,RL,88.0,7332,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,6,1959,Gable,BrkFace,207.0,3,CBlock,3,3,1,4,1,GasA,5,Y,5,0,2,1,4,4,8,0,Attchd,1959.0,1,288,3,3,168,0,0,0,0,10,2006,WD ,3965,1728,3,2.0
+2582,90,RL,50.0,7032,Pave,3,Lvl,4,Corner,3,Norm,Norm,Duplex,SFoyer,5,5,1979,Gable,None,0.0,3,CBlock,4,3,5,6,1,GasA,3,Y,5,0,2,1,3,4,8,3,Detchd,1979.0,1,600,3,3,42,0,0,0,0,12,2006,WD ,3985,1886,3,2.0
+1409,50,RL,50.0,21780,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1.5Fin,6,7,1950,Gable,None,0.0,3,BrkTil,4,3,3,1,1,GasA,5,Y,5,0,4,1,3,8,8,4,Detchd,1955.0,3,396,3,1,72,36,0,0,144,7,2008,WD ,3926,2837,1,2.0
+175,50,RM,80.0,5790,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,2Story,3,6,1950,Gambrel,None,0.0,4,CBlock,2,3,1,1,1,GasA,4,N,5,0,3,2,3,8,8,0,Detchd,1915.0,1,379,3,3,0,0,202,0,0,5,2010,WD ,3925,2445,1,2.0
+352,120,RL,78.0,7380,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,8,5,1998,Gable,None,0.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,2,1,3,5,8,0,Attchd,1998.0,3,495,3,3,168,43,0,0,0,7,2009,WD ,4007,2896,5,3.0
+976,180,RM,70.0,1526,Pave,4,Lvl,4,Inside,3,Norm,Norm,Twnhs,SFoyer,4,8,2002,Gable,None,0.0,4,CBlock,4,3,4,6,1,GasA,3,Y,5,0,1,1,4,3,8,0,Attchd,1970.0,1,286,3,3,0,0,0,0,0,5,2009,WD ,3979,1260,1,2.0
+2134,60,RL,60.0,11317,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,2003,Gable,BrkFace,101.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,8,8,0,Attchd,2003.0,2,500,3,3,144,68,0,0,0,9,2007,WD ,4010,2508,4,2.5
+984,20,RL,60.0,8780,Pave,3,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,5,5,1985,Gable,None,0.0,3,CBlock,3,3,1,5,1,GasA,5,Y,5,0,3,1,3,5,8,0,None,1985.0,0,0,0,3,0,0,0,0,0,3,2009,WD ,3994,1666,3,2.0
+2396,20,RL,70.0,12378,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,9,5,2004,Gable,None,0.0,3,PConc,5,3,5,6,1,GasA,5,Y,5,0,3,1,5,8,8,5,Attchd,2003.0,3,708,3,3,208,175,0,0,0,11,2006,WD ,4009,3840,5,3.0
+1673,120,RH,70.0,4058,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,SFoyer,7,5,1998,Gable,BrkFace,182.0,3,PConc,4,3,4,6,2,GasA,5,Y,5,0,1,1,3,4,8,0,Attchd,1998.0,3,367,3,3,120,40,0,0,0,6,2007,WD ,4005,1490,3,2.0
+404,160,RM,75.0,2368,Pave,4,Lvl,4,Inside,3,Norm,Norm,TwnhsE,2Story,5,6,1970,Gable,None,312.0,3,CBlock,3,3,1,2,1,GasA,3,Y,5,0,3,1,3,7,7,0,Attchd,1970.0,1,440,3,3,0,36,0,0,0,5,2009,WD ,3979,2130,1,1.5
+607,20,RL,63.0,9350,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,5,6,1995,Gable,BrkFace,217.0,3,CBlock,3,3,1,5,4,GasA,3,Y,5,0,3,1,4,6,8,3,Attchd,1961.0,2,610,3,3,172,28,0,0,121,2,2009,WD ,3970,2626,3,2.5
+814,90,RL,70.0,7040,Pave,4,Lvl,4,Inside,3,Feedr,Norm,Duplex,SFoyer,5,5,1979,Gable,BrkFace,216.0,3,CBlock,4,3,4,6,1,GasA,3,Y,5,0,2,2,4,6,8,3,Detchd,1979.0,1,672,3,3,120,0,0,0,0,6,2009,WD ,3988,2323,2,3.0
+868,60,RL,100.0,8749,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,7,5,2002,Gable,None,0.0,3,PConc,4,3,1,1,1,GasA,5,Y,5,0,3,1,4,6,8,0,Attchd,2002.0,2,550,3,3,0,48,0,0,0,11,2009,WD ,4011,2565,4,2.5
+2271,20,RL,78.0,7777,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,6,5,1996,Gable,BrkFace,203.0,3,PConc,5,3,1,1,1,GasA,5,Y,5,0,3,1,3,7,8,3,Attchd,1996.0,3,571,3,3,0,35,0,0,0,11,2007,WD ,4003,2982,4,2.0
+1633,160,RL,75.0,5062,Pave,3,Lvl,4,CulDSac,3,Norm,Norm,TwnhsE,2Story,7,5,1984,Gable,None,0.0,3,CBlock,4,3,3,6,2,GasA,4,Y,5,0,3,1,4,6,7,3,Attchd,1984.0,3,577,3,3,219,0,0,0,0,9,2007,WD ,3991,3280,5,3.0
+337,90,RL,65.0,7700,Pave,4,Lvl,4,Inside,3,Norm,Norm,Duplex,2Story,5,2,1986,Gable,None,0.0,1,PConc,3,3,1,1,1,GasA,4,Y,5,0,4,2,3,10,8,0,Attchd,1985.0,1,616,3,3,200,0,0,0,0,2,2010,WD ,3995,3648,3,5.0
+2765,20,RL,50.0,36500,Pave,3,Low,4,Inside,2,Norm,Norm,1Fam,1Story,5,5,1964,Gable,BrkCmn,621.0,4,CBlock,3,3,4,3,1,GasA,2,Y,5,0,4,1,3,7,8,0,Attchd,1964.0,1,390,3,1,168,198,0,0,0,6,2006,WD ,3970,3206,5,2.5
+1746,20,RL,60.0,14572,Pave,1,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,7,5,2004,Hip,None,0.0,3,PConc,4,3,4,6,1,GasA,5,Y,5,0,3,1,4,7,8,4,Attchd,2004.0,3,630,3,3,144,36,0,0,0,11,2007,WD ,4011,3060,3,3.0
+368,20,RL,70.0,11844,Pave,3,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,8,5,2008,Hip,Stone,464.0,3,PConc,5,3,3,1,1,GasA,5,Y,5,0,3,1,4,7,8,4,Attchd,2008.0,3,834,3,3,322,82,0,0,0,7,2009,New,4017,4092,5,2.5
+2806,20,RL,24.0,8810,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,1Story,7,5,2003,Gable,None,0.0,3,PConc,4,3,1,6,1,GasA,5,Y,5,0,3,1,4,7,8,0,Attchd,2003.0,2,545,3,3,0,68,0,0,0,3,2006,WD ,4009,2780,4,3.0
+1662,60,RL,46.0,8000,Pave,4,Lvl,4,Inside,3,PosN,Norm,1Fam,2Story,6,6,1974,Gable,None,0.0,3,CBlock,3,3,1,5,2,GasA,3,Y,5,0,4,1,3,8,8,3,Attchd,1974.0,1,488,3,3,0,96,0,0,0,11,2007,WD ,3981,2961,3,3.5
+1234,60,RL,62.0,14670,Pave,4,Lvl,4,Inside,3,Norm,Norm,1Fam,2Story,6,7,1999,Gable,BrkFace,410.0,4,CBlock,3,3,1,4,1,GasA,5,Y,5,0,4,1,4,9,8,4,Attchd,1966.0,2,480,3,3,0,230,0,0,0,8,2008,WD ,3974,3092,3,2.5
+1373,20,RL,72.0,8250,Pave,4,Lvl,4,Inside,3,Feedr,Norm,1Fam,1Story,5,5,1968,Hip,None,0.0,3,CBlock,3,3,1,4,2,GasA,5,Y,5,0,3,1,3,5,8,3,Attchd,1968.0,1,322,3,3,0,63,0,0,0,8,2008,WD ,3976,2163,2,1.0
+1672,20,RL,70.0,9000,Pave,4,Lvl,4,FR2,3,Norm,Norm,1Fam,1Story,4,6,1971,Gable,None,0.0,3,PConc,3,3,1,5,1,GasA,3,Y,5,0,3,1,3,5,8,0,Detchd,1974.0,1,528,3,3,0,0,0,0,0,5,2007,WD ,3978,1728,3,1.0
+1939,20,RL,72.0,8400,Pave,4,Lvl,4,Corner,3,Norm,Norm,1Fam,1Story,5,5,1955,Gable,None,0.0,4,CBlock,3,3,1,4,1,GasA,3,Y,5,0,3,1,3,5,8,3,Attchd,1955.0,1,390,3,3,81,0,0,0,0,3,2007,WD ,3962,1848,3,2.0
