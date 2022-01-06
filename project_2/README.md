@@ -81,7 +81,7 @@ Our final step was 03_Modeling, where the baseline model was built, along with t
 ---
 
 ### Conclusion 
-![Score Table]('../images/score_table.jpg')
+![Score Table](https://github.com/xiutingchiam/GA_Projects/blob/main/project_2/images/score_table.jpg)
 With a RMSE score of 21861.556, the linear regression model using 34 features selected using Pearson Correlation Coeeficient method outperforms the other models. This is a strong improvement over our baseline model's RMSE score of 78,278.841. This model will hence be selected as the final model for our prediction model. (This linear regression model also received a private RMSE score of 22441.732 on Kaggle)
 
 ---
