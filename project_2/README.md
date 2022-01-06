@@ -65,11 +65,10 @@ Dataset with selected features for building the final prediction model.
 |foundation_PConc|<i>int</i>|final_model|Age of the house| 
 |foundation_CBlock|<i>int</i>|final_model|House foundation in Poured Contrete category under foundation type| 
 |central_air_Y|<i>int</i>|final_model|Indicates if house has central air or not|
-|garage_type_Attchd|<i>float</i>|final_model|Garage location is in the attached to the house category under garage type| 
+|garage_type_Attchd|<i>int</i>|final_model|Garage location is in the attached to the house category under garage type| 
 |garage_type_Detchd|<i>int</i>|final_model|Garage location is in the detached from the house category under garage type| 
 |sale_type_New|<i>int</i>|final_model|House is in the just constructed and sold category under sale type| 
 
----
 
 ### Executive Summary
 01_EDA_and_EDA consists of the first steps in the project workflow which includes data cleaning and EDA. Data cleaning includes understanding each of the individual features, checking for NaN values and imputing them in the best possible manner based on our assumptions. Wrong data types were corrected, incorrect data were replaced, and values in ordinal features were mapped to numerical ratings. Features were grouped into categories, continuous, discrete, ordinal, and categorical data were indentified and EDA was then conducted to explore the relationship between the sale price and each individual feature. Boxplots were plotted to visualize the categorical and discrete features against sale price whenever possible, scatter plots were plotted to visualize continuous features for comparison against sale price and for identifying and removing outliers. Heatmaps were plotted for numeric features to visualize the correlation coefficiency between sale price and these features.
