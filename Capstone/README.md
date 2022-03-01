@@ -1,6 +1,6 @@
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-XiuTing-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/xiuting) [![Gmail Badge](https://img.shields.io/badge/-xiuting@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xiuting@gmail.com)](mailto:xiuting@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-XiuTing-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/xiuting) [![Gmail Badge](https://img.shields.io/badge/-xiuting@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xiuting@gmail.com)](mailto:xiuting@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Capstone: Signature Verification
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -32,10 +32,13 @@ Dataset contains signatures of 55 people, 20 genuine signatures and forged signa
 5. Create pairs of genuine-genuine and genuine-forged signatures.
 6. Create batches of pair signatures for modeling
 7. Use deep learning to train data
-8. Predict test data using the best epoch model and predict class labels using threshold of euclidean distance.
+8. Predict test data using the best epoch model and predict class labels using threshold of Euclidean distance.
 9. Evaluate models.
 
 ## Siamese Neural Network (SNN)
+![SNN](https://github.com/xiutingchiam/GA_Projects/blob/main/Capstone/images/siamese_neural_network.png)
+
+## Conclusion
 |   Model No. | Optimizer   |   Batch Size |   Learning Rate |   Epoch Number |   Accuracy (%) |
 |------------:|:------------|-------------:|----------------:|---------------:|---------------:|
 |           1 | Adam        |           32 |          0.0001 |             13 |           65.6 |
@@ -58,7 +61,8 @@ Our best model is model no. 7, which gave us an accuracy of 72.2% and a threshol
 ## Future Works
 1. Build model using triplet loss on Siamese Neural Networks (Current models built on contrastive loss)
 2. Look into pre-trained models and fine-tune the model more.
-3. Deploy model on web application
+3. Change metrics to precision score
+4. Deploy model on web application
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Folder Organization
 ```
